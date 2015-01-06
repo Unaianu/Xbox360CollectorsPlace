@@ -1,0 +1,3704 @@
+{
+	"catalog": [
+	{
+		"id":1001,
+		"details":
+		{
+			"developer":["TopWare Interactive", "Gaijin Entertainment"],
+			"synopsis":"Developed by TopWare Interactive and Gaijin Entertainment, Battle Vs Chess aims to bring the classic tabletop game into the modern age, without removing the essential qualities that have made it popular for centuries. Familiar chess pieces are brought to life as richly detailed 3D models, with players seeing the spectacular results of their actions in their quest for domination of the board.<br><br>The traditional white and black armies have evolved into an army of light with their brave knights in shining armor, pitted against the wicked dark army of demons and beastly golems. Each piece is intricately animated and as players move them around the board they spring into life, ready to wage war. If a square is occupied by an enemy unit, they enter into a brutal clash that sees the foe removed from the board in bloody combat.<br><br>Another evolutionary element Battle vs. Chess brings to the arena is the addition of the optional Action Mode. If selected, instead of entering a scripted animation when attacking, players challenge their opponent in a beat-'em-up style encounter. Using a variety of weapons, fighting techniques and combos, players must best their opponent in a fast-paced flurry of blows and special moves -adding a whole new meaning to the phrase checkmate.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Floating Island and Master Campaign",
+				"releaseDate":"2011/11/18",
+				"type":0,
+				"synopsis":"A brand new campaign awaits you. Only one can be the Grandmaster, will you be the one to beat all six Masters of the Game? The journey starts high above the clouds with your battle against the master of the wind. A totally new battlefield lies there on flying isles of stone. Between bruning fires and beautiful waterfalls you will fight till victory or defeat! All six masters will come for you with a different strategy, you will need all your knowledge and tactics to become the one Grandmaster!"
+			},
+			{
+				"id":2,
+				"name":"Dark Desert Map and RuneRunner Mode",
+				"releaseDate":"2011/11/29",
+				"type":0,
+				"synopsis":"Again the armies of the Kings meet! Between the dusty graves of long forgotten giants and the burning sands the battle rages in the Dark Desert. Lead your men to victory. Beside a total new battlefield the DLC contains a new Battleground-Mode called \"RuneRunner\". Bomb your way to victory and let your enemies run into your explosive traps, while defending your positions. Attack and defense it's all in your hands!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=shZ-fAGEJ_w"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=EhdzRwtyuy0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Battle-vs-Chess/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/battle-vs-chess/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/battle-vs-chess"
+			}]
+		}
+	},
+	{
+		"id":1002,
+		"details":
+		{
+			"developer":["Codemasters"],
+			"synopsis":"Play as the stars of International Cricket. Featuring officially licensed ICC Cricket World Cup 2007 and ICC Champions Trophy 2006 tournaments. With Xbox Live play, new Coaching Mode, new AI system and new Batting, Bowling and Fielding features.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=-mrQYCltfUo"
+			},
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=K0pJ3MtKgVg"
+			},
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=HHNvsP_cO4U"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/934456-brian-lara-international-cricket-2007/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/ICC-Cricket-2007/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/brian-lara-international-cricket-2007/guide/"
+			}]
+		}
+	},
+	{
+		"id":1003,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Bullet Soul is a vertical 2.5D shoot 'em up for the Xbox 360 developed and published by 5pb.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Caravan Mode",
+				"releaseDate":"2011/08/16",
+				"achievements":250,
+				"type":0
+			},
+			{
+				"id":2,
+				"name":"Version B",
+				"releaseDate":"2011/09/13",
+				"achievements":250,
+				"type":0
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=RDkd0iPtypA"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=9glopl_28k4"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=a38drwUoEfM"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Y74Bv0Iqhv0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Bulletsoul/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/bullet-soul/guide/"
+			}]
+		}
+	},
+	{
+		"id":1004,
+		"details":
+		{
+			"developer":["Moss"],
+			"synopsis":"A 2013 bullet hell shooter from Moss.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Additional BGM \"8-bit pack\"",
+				"releaseDate":"2013/04/25",
+				"type":7
+			},
+			{
+				"id":2,
+				"name":"Additional Character \"Nightmare of the Lilith\"",
+				"releaseDate":"2013/04/25",
+				"type":2
+			},
+			{
+				"id":3,
+				"name":"Additional Character \"Sophia Fulcanelli\"",
+				"releaseDate":"2013/04/25",
+				"type":2
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=gM66off62oE"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=MzQ8HRaGI8I"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Caladrius/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1005,
+		"details":
+		{
+			"developer":["Beautiful Game Studios"],
+			"synopsis":"Championship Manager is back for another season, boasting a completely new look with new skins, menu shortcuts and a dynamic side bar. The introduction of an International Management option enables players to manage their country and be a part of the biggest football tournament in the world. Championship Manager 2007 features an innovative new Match Analysis Tool, which acts as an 'under the bonnet' reveal of statistical information relevant to every player and every game including; goals scored, runs made and shots/passes/tackles made or failed. This offers each manager a true representation of the information on offer to top flight football managers. Managers will now be able to praise and criticise players in a brand new team talks feature and give individual instructions to players either pre-match or at half time and receive staff feedback on performances.",
+			"links":[
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=GVCr8hI6DMA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Championship-Manager-2007/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/championship-manager-2007/guide/"
+			}]
+		}
+	},
+	{
+		"id":1006,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Summer finally comes to Tokyo, and Takumi can hang out with girls as much as he wants... in his mind. His will to stop being a useless otaku creates a dream world where the girls love him, and the only way to destroy this reality is to kill Seira-tan. But until then, Taku can enjoy his dating-sim life!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=s6EFQhaOngQ"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=fTXXmNGPnmI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/ChaosHead-Love-ChuChu/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1007,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Shibuya, Japan, 2008. Takumi Nishijo is a 2nd year high school student at Suimei Academy. He is an Otaku shut in, who, while playing his favorite MMO, starts chatting with an online associate, Grim. Grim tells Takumi about recent murders in Shibuya that have taken the internet and the media by storm; New Generation, or \"New Gen\". The first of which, the one known as the Group Dive, is where 5 high school students jumped to their deaths from a tall building on September 7th. The second is known as the Pregnant Man, where a male university student was found dead, with a 32 week old fetus inside his stomach, on September 19. As he is told this, someone named Shogun joins their chat. Grim logs off, and as he does so, he is bombarded with image links to a picture of a man pinned to a wall with stakes in an alleyway. The next day, after heading home from an internet cafe, Takumi witnesses this same scene. Furthermore, he sees a pink haired girl, wearing his school's uniform, covered in blood. From there, he gets caught up in the New Gen cases and he also starts to see delusional images.<br><br>The game is non linear, to a point, and the way you decide things is by the delusional trigger system. Occasionally, usually when talking to someone, the player will see two cardiac cycles at the top of the screen. These cycles are delusions. If you don't choose one, the scene will play out how it's supposed to, but if one of them are picked, Takumi will see a delusion of the scene he's currently watching. The stable, green line will show a happy or silly delusion. Where the unstable, red line will feature an unhappy one, which usually involves violence.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=272JwmG_QTU"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=kHdVBFKxolM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=0f9ZAIc6igI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/CHAOSHEAD-NOAH/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1008,
+		"details":
+		{
+			"developer":["Key"],
+			"synopsis":"A love relationship adventure, from the makers of AIR and Kanon. The word clannad is Gaelic for family -- which plays directly into the game's storyline. As the main character, you experience both school life and family life, as you try to get along with everyone and make romantic advancements. To do this, you have to interact with the characters via a multiple-choice conversation system, move around locations (in tableau form), and solve simple puzzles. The Xbox 360 version improves on the PC and PlayStation 2 versions with high-definition visuals and other adjustments.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hVfAzkKrGII"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=TrKWoraz7No"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/943432-clannad/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Clannad/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/clannad/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"Clannad Wiki",
+				"url":"http://clannad.wikia.com/wiki/Clannad_Wiki"
+			}]
+		}
+	},
+	{
+		"id":1009,
+		"details":
+		{
+			"developer":["Masterpiece"],
+			"synopsis":"Your goal in \"The Conveni\" series is to manage a convenience store, contributing to the growth of the surrounding town.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zZY16qaglD0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/The-Convenience-Store-200X/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1010,
+		"details":
+		{
+			"developer":["Games Farm"],
+			"synopsis":"Experience top combat action in this brand new arcade flight sim and become immersed in the exploits of famous aircraft carriers. Choose the side you want to play on: the US Navy or the Imperial Japanese Navy. Climb into the cockpit and re-live the most famous battles of the War in the Pacific. Equip your aircraft with realistic weapons, and take to the air with your squadron.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=2I0nRHdM6i0"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Z59Lfbrf3NQ"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ogeBOGcNxW0"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=M-SJeyntQpE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Air-Conflicts-Pacific-Carriers/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Air-Conflicts-Pacific-Carriers/walkthrough.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/air-conflicts-pacific-carriers"
+			}]
+		}
+	},
+	{
+		"id":1011,
+		"details":
+		{
+			"developer":["Synetic"],
+			"synopsis":"Solve intriguing criminal cases! - Get your missions directly from a game world where you can freely drive around and explore! - Immerse yourself in an action-packed atmosphere, performing a variety of stunts!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=opVOGt_dJuo"
+			},
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=FObLEvGclQ8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Crash-Time-2-Autobahn-Polizei/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/crash-time-2/guide/"
+			}]
+		}
+	},
+	{
+		"id":1012,
+		"details":
+		{
+			"developer":["Synetic"],
+			"synopsis":"Crash Time 3 is pure action, on the freeway or in gripping city scenarios. State-of-the-art graphics, fantastic driving physics, 200 km of road and 32 square km of territory, including a cool night driving scenario.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=-xcMtB_HurQ"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=lflDLWAyzIY"
+			},
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=e3AvMnEcHYs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Crash-Time-3-Highway-Nights/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/alarm-for-cobra-11-highway-nights/guide/"
+			}]
+		}
+	},
+	{
+		"id":1013,
+		"details":
+		{
+			"developer":["Synetic"],
+			"synopsis":"Crash Time 4 is pure racing action. Get in and hit the gas!! Grip the wheel in a tense and thrilling car chase as you scream off in pursuit of criminals at illegal speeds and with a whole load of explosive action! You are the two highway cops, Ben and Semir, who are out to smash the syndicate! Play the new and intoxicating online multiplayer mode and compete in red-hot duels on molten asphalt with up to 7 friends. Select from over 40 cool racers and burn rubber over 100 km of meticulously reproduced roads in and around Cologne, Germany. The breathtaking stunts and spectacular crashes turn the chases into a nervewracking, authentic driving experience as your adrenaline levels soar to dizzying heights!",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=g1LngQDCMnc"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4LPtuqdIKEU"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=E0oLM3bBEd4"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Crash-Time-4-The-Syndicate/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/crash-time-4-the-syndicate/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/crash-time-4-the-syndicate"
+			}]
+		}
+	},
+	{
+		"id":1014,
+		"details":
+		{
+			"developer":["Dtp entertainment AG"],
+			"synopsis":"Own the road! In \"Crash Time 5 - Undercover\" you will experience non-stop racing action, and embark on a high-octane manhunt, with thrilling car chases and lots of explosive missions! Get ready for a dangerous undercover operation and smash the criminal smuggling ring. Use a variety of fast cars and armored vehicles, equip them with a selection of weapons and extras, and take down the criminal gangs. Experience new and fantastic locations, prove your driving skills in the Alps, and handle high speed chases on Germany's autobahns. The action-packed online multiplayer game, for up to eight players, ensures plenty of explosive stunts and spectacular crashes.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=9e1RdAU0VZM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=764vNyO4xzQ"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Crash-Time-5-Undercover/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/crash-time-5-undercover/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/crash-time-5---undercover"
+			}]
+		}
+	},
+	{
+		"id":1015,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"\"Bullet Soul: Infinite Burst\" is the follow up to the vertical 2.5D shoot 'em up for the Xbox 360 \"Bullet Soul\"",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=CIRWQLWD_8g"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Rpf-zE6t1pY"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=JTOYFtguGCY"
+			},
+			{
+				"type":"Trailer 4",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=NNuv9E2a6DQ"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=l5q_ml5dr4M"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=okClOy6pJ5U"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Bullet-Soul-Infinite-Burst/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1016,
+		"details":
+		{
+			"developer":["Compile Heart", "Idea Factory"],
+			"synopsis":"Cross Edge is an unprecedented collaboration between five major game publishers from Japan. Nippon Ichi Software, Capcom, Namco Bandai, Gust, and Idea Factory have joined forces to create a Strategy RPG unlike any other. Cross Edge features characters and storylines from popular franchises including: Darkstalkers, Disgaea, Mana Khemia, and Spectral Souls. Cross Edge is action-packed with memorable characters, amazing items, and over-thetop battles to deliver an once-in-a-lifetime gaming experience.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=j3UMmiB0-s4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=1p1ehFT7LHA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cross-Edge-Dash/achievements.htm"
+			},]
+		}
+	},
+	{
+		"id":1017,
+		"details":
+		{
+			"developer":["SEGA"],
+			"synopsis":"Virtual On comes to Xbox 360! The Xbox LIVE-enabled multiplayer mode allows up to four players to compete against eachother or team up as friends for co-op play. And for single players, Mission Mode offers a variety of mission types and more collectible Virtuaroids and colors than ever before.The game also features split-screen multiplayer, upgradable AI teammates, and ultra-advanced HD graphics only possible on a home console system. This is Virtual ON like you've never seen it before.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5LgnDLWdOi0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KTmP2-7nHEo"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cyber-Troopers-Virtual-On-Force/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/cyber-troopers-virtual-on-force/guide/"
+			}]
+		}
+	},
+	{
+		"id":1018,
+		"details":
+		{
+			"developer":["Idea Factory"],
+			"synopsis":"Diario: Rebirth Moon Legend is a Role-Playing game, developed and published by Idea Factory.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=cBcy45F8gHg"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=PP_xKIMkauo"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Diario/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1019,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"This entry in Cave's long-running top-down shooter series boasts the same classic 2D top-down shooter gameplay, gigantic explosions, massive bosses, and an arcade-style long view. The Xbox 360 version improves on the original with enhanced graphics and online score ranking and downloadable content. The game also is optimized for HD displays.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=mZfbHWLCYzc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=wN0GtOTLvqw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/DoDonPachi-Daioujou-Black-Label-Extra/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1020,
+		"details":
+		{
+			"developer":["Cave"],
+			"dlcs":[
+			{
+				"id":1,
+				"name":"DoDonPachi Resurrection Black Label",
+				"releaseDate":"2011/11/01",
+				"achievements":250,
+				"type":5,
+				"synopsis":"Experience the DoDonPachi Resurrection Black Label mode. PLEASE NOTE: Achievements from the original game will not be obtainable while playing the Black Label mode."
+			},
+			{
+				"id":2,
+				"name":"DoDonPachi Resurrection Ver 1.51",
+				"releaseDate":"2011/11/03",
+				"achievements":125,
+				"type":0,
+				"synopsis":"Experience the DoDonPachi Resurrection Ver1.51 mode. It is not possible to obtain achievements while this content is activated."
+			}],
+			"synopsis":"This entry in Cave's long-running top-down shooter series boasts the same classic 2D top-down shooter gameplay, gigantic explosions, massive bosses, and an arcade-style long view. Once again, the DonPachi Corps is send out to combat swarms of enemies. Players can choose to be one of a number of \"Elemental Daughters\" in the game, and there are a variety of gameplay systems including power-ups (weapons can be switched at a button press between Normal and Boost mode) as well as Hype-Counters and Laser Counters.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=m9jQ2BmXaek"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=nB96U8Ocay4"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Yza94IOpnYQ"
+			},
+			{
+				"type":"Gameplay 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=fSKPdyCdumI"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/605204-dodonpachi-resurrection/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/DoDonPachi-Resurrection-European/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/dodonpachi-resurrection/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/dodonpachi-resurrection"
+			}]
+		}
+	},
+	{
+		"id":1021,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"DoDonPachi Daifukkatsu Black Label is a vertical bullet hell shoot 'em up developed by Cave, and based on 2008's DoDonPachi Daifukkatsu. It was released in arcades January 20, 2010. An Xbox 360 port was released in two different ways: as DLC for DoDonPachi Daifukkatsu 1.5, and as a standalone retail game. This standalone retail version includes a special crossover mode with the stages and enemies of Daifukkatsu, but the player ships and systems from Ketsui: Kizuna Jigoku Tachi.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4abTcPwZ950"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=uJovyoSfve0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3VcQ5wwGyzw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/DoDonPachi-Resurrection-Black-Label/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1022,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"Dodonpachi Saidaioujou is a vertical bullet hell shoot 'em up developed by Cave, and the latest game in the Donpachi series. The game was released in Japanese arcades on April 20, 2012. The Xbox 360 port features HD visuals, online leaderboards and replays, a Novice mode, a tweaked \"Version 1.5\" mode, and an arranged story-based mode featuring a new playable character named Saya.<br><br>The port includes a few gameplay systems that have never before appeared in a Cave game, such as an in-game \"shop\" that offers up gameplay modifiers that can be purchased with points earned by playing the game.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=PYl8lAhqfJI"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SWWaCKcck84"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/681529-dodonpachi-saidaioujou/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/DoDonPachi-Saidaioujou/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1023,
+		"details":
+		{
+			"developer":["Tamsoft"],
+			"synopsis":"Dream C Club is a dating sim set in a hostess club. The majority of the time spent in the game is spent sitting with one of several hostesses in the titular Dream Club. The player orders drinks for both himself and the hostess. Time can be spent in the club in conversation with the chosen hostess, ordering food, giving presents, or singing karaoke. When both the player and the hostess become drunk, additional dialogue and conversation choices become available. The goal is to make the correct choices in the conversations to become closer to the hostess. Eventually, the player can go out on short dates with the hostess. If the correct conditions are met before the end of one year, the player will receive the happy ending for the chosen hostess. There are also bad endings, bittersweet endings, and a \"Last Man Standing\" ending.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Downloadable costumes & songs",
+				"releaseDate":"2009/08/27",
+				"type":8,
+				"synopsis":"New costumes & songs available for download at the marketplace"
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=z0TCJUjWpxs"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=CL-Bb0g9aB0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=NQkSzJCtY3w"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dream-C-Club/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1024,
+		"details":
+		{
+			"developer":["Tamsoft"],
+			"synopsis":"A hostess-club/dating simulator from the developer of Dream C Club.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Downloadable costumes & songs",
+				"releaseDate":"2011/01/17",
+				"type":8,
+				"synopsis":"New costumes & songs available for download at the marketplace"
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=L-MGP8n-p6c"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=eV55sLIrDHc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=8bIQPVHbQ5E"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dream-C-Club-Zero/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1025,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Takatsuki Tougo is leading a boring life at Ceres Academy, located on an isolated island called Dunamis Base. One day, while rushing to class after having overslept, Togo stumbles upon a mysterious girl in the school hallway. This brief encounter then changes Tougo's life forever.<br><br>Time in the game will loop, so the player will end up experiencing the same story repeatedly. The player will need to follow the proper route in order to escape from this loop.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=UTANTHgdA2I"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=LqEU5MrL1Vw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dunamis-15/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1026,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"Espgaluda II Black Label is an enhanced Xbox 360 port of Espgaluda II, a bullet hell shoot 'em up developed by Cave and released in arcades 2005. It brings a plethora of additions including updated high-resolution graphics and six new game modes.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SzfIMgrzfKo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ZS7ClirOMsQ"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Espgaluda-2/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1027,
+		"details":
+		{
+			"developer":["KID"],
+			"synopsis":"Ever17 is the tale of seven individuals who come to be trapped 153 feet within the underwater marine theme park, LeMU. During an apparently normal day at the park, a massive accident happens, placing almost half of the facility underwater. The path to the surface and the communication lines are cut off. In addition, LeMU is under constant assault by severe water pressure, limiting time to find a means of escape to 119 hours. Escape is not the only concern, however; many questions arise as to the legitimacy of the accident and whether or not those trapped there were brought there for a purpose.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xxJlMkI98eg"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=1aE9p1QsIC8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Ever17/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1028,
+		"details":
+		{
+			"developer":["Sports Interactive"],
+			"synopsis":"The first release of Football Manager for the Xbox 360, this edition comes complete with all of the features from Football Manager on PC, including training, the 2d match engine, full rules for all leagues and player data for 250,000 players from 50 countries.<br><br>Negociate with the board of directors for better contracts, inproved player wage budgets, stadium expansions and more. Get into the heads of your teammates by talking them through half-time events to evaluate their performance, and also manage morale even further with a new Player Interaction feature. Training schedules and stat details have been made easier to read through, new referee profiles give you insight into who is watching your game, and player position indicators new feature preferred moves for watching trends to watch for in player performance.",
+			"links":[
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=j0pdwQWD4C4"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/929429-football-manager-2006/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Football-Manager-2006/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/football-manager-2006/guide/"
+			}]
+		}
+	},
+	{
+		"id":1029,
+		"details":
+		{
+			"developer":["Sports Interactive"],
+			"synopsis":"Worldwide Soccer Manager 2007 is packed full with more than 100 new features, including a complete revamp of youth teams, the ability to talk to players from around the world via media, and the addition of feeder clubs.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=oHZdId2I8j0"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/933117-worldwide-soccer-manager-2007/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Football-Manager-2007/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/football-manager-2007/guide/"
+			}]
+		}
+	},
+	{
+		"id":1030,
+		"details":
+		{
+			"developer":["Sports Interactive"],
+			"synopsis":"In Worldwide Soccer Manager 2008, players can enjoy more football fun than ever. The game includes a revamped international management system, a new Match Flow Mode (which creates a more realistic experience for players), and an improved match engine.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=iOwybu4IhR0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=8n8y5T5Ljko"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Football-Manager-2008/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1031,
+		"details":
+		{
+			"developer":["Inti Creates"],
+			"synopsis":"In this unusual \"shooter\" from Alchemist, you play a hero named Tenzou who, because of an errant love arrow fired by an angel, is now the most desirable boy in school for all the uncontrollable females on campus! This sounds like every guy's dream, as every female you meet will literally throw herself at you to smother you with love and affection. However, when the effect of the arrow wears off, it's all over -- forever! The only cure for a loveless life is to find your soulmate on campus and connect with her to make a true love connection before the time limit runs out.<br><br>Unfortunately, every girl you meet will be charging at the speed of passion to embrace you. You will need to use blasts of charm -- thus the title \"GalGun\" for this lightgun-style comedy game -- to overwhelm them with Pheromone Shots and stop them from stopping you. Special \"DokiDoki Mode\" and boss encounters will allow you to engage one-on-one with girls, firing precisely at their certain parts to find their \"weakness\". Over 60 girls are included in the game -- how will you be able to survive this much love?",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7KMY3xzrGFc"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=lSnhAXliaWk"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SBTji13cZME"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=oHgZi-URSh0"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3hH_uyoW_ng"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/605863-galgun/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Galgun/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1032,
+		"details":
+		{
+			"developer":["Qute"],
+			"synopsis":"Ginga Force is a vertical 2.5D shoot 'em up for the Xbox 360 developed by Qute.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=k6BVAdISCQ8"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=BeFGqfN7Ys4"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Ginga-Force/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/ginga-force/guide/"
+			}]
+		}
+	},
+	{
+		"id":1033,
+		"details":
+		{
+			"developer":["Wizarbox", "Tonuzaba Entertainment"],
+			"synopsis":"An adventure by Gabriel Knight designer Jane Jensen. Mixing mystery and the supernatural, Gray Matter tells the story of neurobiologist Dr. David Styles. Since the death of his wife in a horrible accident several years earlier, Styles has adopted a reclusive lifestyle, spending his days inside his English country estate, Dread Hill House. Things take a turn for the interesting when American Samantha Everett, student and part-time street performer, becomes Styles' assistant. After an innocent start, inexplicable events start to occur. Following visitations by Styles' dead wife, the quest to uncover the mysteries of Dread Hill House begins. Players control both Dr. David Styles as well as Samantha Everett in their bid to uncover the secrets and find out the truth. While Dr. Styles research leads him into an investigation into the intricacies of the human mind, the player will have to tackle stage magic as Sam to solve puzzles.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=tOtj9HFE7R0"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hcmHvoKWc18"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=e_5DIQNht4U"
+			},
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=T9W2ptqvqWg"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/997937-gray-matter/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Gray-Matter/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/gray-matter/guide/"
+			},
+			{
+				"type":"Reviews (PC)",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/pc/gray-matter"
+			}]
+		}
+	},
+	{
+		"id":1034,
+		"details":
+		{
+			"developer":["Bandai Namco Games"],
+			"synopsis":"A music game ported for Xbox 360 from the arcade series. Choosing from a flock of girls, you dress your pop idol up (choosing from the sexiest, cutest or funniest outfits, depending on her style), then train her to sing and and dance and be personable (using rhythm-action controls and other minigame controls), all in the hopes of getting a chance at getting up on stage and making her a big star!<br><br>For the Xbox 360 version, Bandai Namco has added a mode of play that lets you produce a new idol over the course of one year rather than just a few weeks. The game also includes updated visuals and animation. Fans can also look forward to new songs.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Downloadable costumes",
+				"releaseDate":"2007/01/25",
+				"type":8,
+				"synopsis":"New costumes available for download at the marketplace"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=9FN9ZKy5agM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=dH0H5ac68Ec"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/934453-the-idolmster/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Idolmaster/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/the-idolmaster-ntscj/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"The Idolm@ster Wiki",
+				"url":"http://idolmaster.wikia.com/wiki/THE_iDOLM@STER_(Video_Game)"
+			}]
+		}
+	},
+	{
+		"id":1035,
+		"details":
+		{
+			"developer":["Bandai Namco Games"],
+			"synopsis":"The second of a series of music games ported for Xbox 360 from the arcade series. Working with a new flock of girls, you dress your pop idol up (choosing from the sexiest, cutest or funniest outfits, depending on her style), then train them to sing and and dance and be personable (using rhythm-action controls and other minigame controls), all in the hopes of getting a chance at getting up on stage and making them big stars!<br><br>In this sequel, you this time must work with established acts looking for a maestro to take them to the big time. Each member of this trio has a different personality, and it's up to you to unify them and make each of the girls shine!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Downloadable costumes",
+				"releaseDate":"2011/02/24",
+				"type":8,
+				"synopsis":"New costumes available for download at the marketplace"
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=B6TT1z-7HXo"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=V6Ky2wO5KHc"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=w5o5rh_SgcY"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=WDq0FWLbklc"
+			},
+			{
+				"type":"Gameplay 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=XrHqQv5_4mw"
+			},
+			{
+				"type":"Gameplay 4",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SfNZVaCnjJg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Idolmaster-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/idolmaster-2/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"The Idolm@ster Wiki",
+				"url":"http://idolmaster.wikia.com/wiki/THE_iDOLM@STER_2"
+			}]
+		}
+	},
+	{
+		"id":1036,
+		"details":
+		{
+			"developer":["Bandai Namco Games"],
+			"synopsis":"The sequel to Idol Master, a simulation game where players attempted to groom a cute anime girl on her road to stardom. In the sequel, you play as a coordinator, selecting costumes, music and even members for live performances. This second Idol Master features eleven cute idols, all of whom you'll recognize from the original.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Downloadable costumes",
+				"releaseDate":"2008/02/28",
+				"type":8,
+				"synopsis":"New costumes available for download at the marketplace"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=wNHfSLlvPjE"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4g5qvshPYsY"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Idolmaster-Live-for-You/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/the-idolmaster-live-for-you-ntscj/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"The Idolm@ster Wiki",
+				"url":"http://idolmaster.wikia.com/wiki/THE_iDOLM@STER:_Live_For_You!"
+			}]
+		}
+	},
+	{
+		"id":1037,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"Instant Brain is set in the near future and is centered around the idol industry, which the player sees through Zenya's eyes. Zenya lost his memories and to find clues to his past he uses his camera. His camera is called the \"exposer\" and the power of this camera allows him to get scoops before other reporters. While he is working as a paparazzi, he's using his camera to discover himself.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=regLr1fZP80"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7lm9C9RM5PY"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/622617-instant-brain/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Instant-Brain/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1038,
+		"details":
+		{
+			"developer":["Reality Pump"],
+			"synopsis":"\"Iron Sky: Invasion\" puts the player in the pilot seat of defending Earth from a sudden Nazi invasion - from space. The player has at their disposal a variety of experimental, secretly manufactured space fighters, and are tasked with keeping these Moon Nazis off our beloved Planet Earth. \"Iron Sky: Invasion\" will bear the major underlying theme of politics: everything, even defending your planet from \"luna-r-tic\" villains, requires skillful political maneuvers. You will need to know who you are fighting for, whose boots you are stepping on, and choose your friends, or more importantly, enemies carefully.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=OXvzDPyE8PA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=m9Rr9sJNSFQ"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/682361-iron-sky-invasion/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Iron-Sky-Invasion/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Iron-Sky-Invasion/walkthrough.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/iron-sky-invasion"
+			}]
+		}
+	},
+	{
+		"id":1039,
+		"details":
+		{
+			"developer":["5Pb."],
+			"synopsis":"Ketsui: Severing Hell Bonds (Ketsui: Kizuna Jigoku Tachi Extra) is an updated version of Cave's arcade bullet hell shoot 'em up Ketsui: Kizuna Jigoku Tachi. The porting was handled by 5pb.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=UhSLrU6jtjk"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=evFHVwqh-KM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4orAf064N78"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Ketsui-Kizuna-Jigoku-Tachi-Extra/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1040,
+		"details":
+		{
+			"developer":["G.Rev"],
+			"synopsis":"Mamorokun Curse! is a shoot 'em up by game developer G. Rev.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Additional Character Kinugawa Nowa",
+				"releaseDate":"2009/07/30",
+				"type":2
+			},
+			{
+				"id":2,
+				"name":"Additional Character Luchino & Karel",
+				"releaseDate":"2009/08/07",
+				"type":2
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=mGKpAax-kIg"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=yOsinGR9V_0"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=VOz7OIhPHoM"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=N87U-FyEmrA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mamoru-kun-wa-Norowarete-Shimatta/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/mamorukun-curse/guide/"
+			},
+			{
+				"type":"Reviews (PS3)",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/playstation-3/mamorukun-curse!"
+			}]
+		}
+	},
+	{
+		"id":1041,
+		"details":
+		{
+			"developer":["5Pb."],
+			"synopsis":"The player takes on the role of Naoki Sarizawa, the protagonist of Yubikiri no Kioku. Naoki used to live at Chinatsu's home but is now living alone. Naoki is a second year student at the private Torin high school. Chinatsu Amakawa is also a second year student at the private Torin high school and is a classmate of Naoki's. As Chinatsu is concerned about Naoki at all times, she commutes to school with him and is always around him during school hours. Kasumi Nagumo is a runaway girl who suddenly arrived at the doorsteps of Naoki's place and is forcibly living with him at the moment. Orihime Hoshitsuki is the new English teacher for Naoki's class at Torin high school. Lisa Caycy Foster is an American girl who has gone to Japan to study abroad temporarily. Lisa works part-time at a restaurant called Furuyan and is where he meets Naoki. Lisa's reason for studying in Japan is because of her interest in Japanese history and culture. Shiina Kodou is a first year student at Torin high school. She is very outgoing and loves gossips.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=NI7mIAh3a7g"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=U2szuRyStco"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KIJj-odL658"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=q7DwuI32mwI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Memories-Off-Yubikiri-no-Kioku/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/memories-off-yubikiri-no-kioku/guide/"
+			}]
+		}
+	},
+	{
+		"id":1042,
+		"details":
+		{
+			"developer":["5Pb."],
+			"synopsis":"Just before summer holiday, Shio lives a busy school life as captain of the student council with a support of Yuno, who is in charge of general affairs of the council. He sometimes vaguely thinks what he will do after graduating from high school.... There is an important girl by his side....",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=N7AKdOY_S2g"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7KBlobRvlVE"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Rw5ZXijtv3I"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Memories-Off-6-Next-Relation/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/memories-off-6-next-relation/guide/"
+			}]
+		}
+	},
+	{
+		"id":1043,
+		"details":
+		{
+			"developer":["5Pb."],
+			"synopsis":"Shio is busy preparing for the school festival. In the morning, when he opens a door to wake Ririsu, his old friend, up as usual, she is still asleep. He tries to wake her up, but she gives him a strong kick.... On their way to school, Shio thinks, \"Ririsu used to be pretty....\" She is, however, now an egoistic girl.... One day, Ririsu suddenly introduces Chisa to Shio. \"Will you please dance with me at the school festival...?\" Shio is confused what to say while Ririsu shows mixed feelings...",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=OX8NeX_lVNM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Op0oUS-a7qg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Memories-Off-6-T-Wave/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1044,
+		"details":
+		{
+			"developer":["Dimps"],
+			"synopsis":"A next-generation mechanized shooter that retells the story of the One Year War of Gundam lore with detailed next-gen graphics, a wide array of giant mobile suits, and intense multi-player combat. The story of \"Mobile Ops: The One Year War\" opens with the space colonists' brutal battle for independence from The Earth Federation. Included missions are told from the perspective of the Federation and Zeon sides, as you take control of a soldier on a large simulation play field. You're free to fight against enemy soldiers and mechs using hand weapons, or you can up the scale by boarding a Mobile Suit. Gamers can also modify mobile suits with a robust customization options, including beam sabers, heat hawks, and other melee weapons. Over Xbox Live, \"Mobile Ops: The One Year War\" puts players right in the cockpit of their very own mobile fighter for thrilling battles online as they fight in teams through multiple scenarios and battlefields.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Decals of Numbers (White)",
+				"releaseDate":"2008/06/24",
+				"type":2,
+				"synopsis":"Decals to be put on the mobile suit, from 00 to 99"
+			},
+			{
+				"id":2,
+				"name":"Decals of Numbers (Black)",
+				"releaseDate":"2008/06/24",
+				"type":2,
+				"synopsis":"Decals to be put on the mobile suit, from 00 to 99"
+			},
+			{
+				"id":3,
+				"name":"Seattle Stage",
+				"releaseDate":"2008/07/08",
+				"type":0,
+				"synopsis":"Battle stage map of Seattle."
+			},
+			{
+				"id":4,
+				"name":"Hong Kong Stage",
+				"releaseDate":"2008/07/23",
+				"type":0,
+				"synopsis":"Battle stage map of Hong Kong City."
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=IZrhhi1TzFQ"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=uyekN5y8bjY"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Ix_lYesRyCM"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=MMsKmyb3EII"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=MVnkcvn30ss"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mobile-Suit-Gundam-Operation-Troy/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Gundam Wiki",
+				"url":"http://gundam.wikia.com/wiki/Mobile_Ops:_The_One_Year_War"
+			}]
+		}
+	},
+	{
+		"id":1045,
+		"details":
+		{
+			"developer":["Capcom"],
+			"synopsis":"This next-gen edition of Capcom's creature-hunting game is an enhanced version of the online PC game, made for savage action with multiple players in online hunting parties.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=wsQpuz-7pK8"
+			},
+			{
+				"type":"Season 9 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=q0rCFcoxxGI"
+			},
+			{
+				"type":"Season 10 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=e2sUY2mRtf4"
+			},
+			{
+				"type":"Forward 1 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=1KEiaR5nClk"
+			},
+			{
+				"type":"Forward 2 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=aQcAZh0DYwA"
+			},
+			{
+				"type":"Forward 3 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=gWVbvMfGY6Q"
+			},
+			{
+				"type":"Forward 4 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zo9oZUwn9EQ"
+			},
+			{
+				"type":"Forward 5 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jU9C0JZMWmw"
+			},
+			{
+				"type":"G Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=nKNigAr-OEQ"
+			},
+			{
+				"type":"G3 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hABOV6OrDyE"
+			},
+			{
+				"type":"GG Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=YuOWsnP5JLQ"
+			},
+			{
+				"type":"G5 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6I2OdV7d2XM"
+			},
+			{
+				"type":"G6 Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7ildPI1uIEc"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5N74dzLj3lE"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=kfH44pAp9A0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Monster-Hunter-Frontier/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Monster Hunter Wiki",
+				"url":"http://monsterhunter.wikia.com/wiki/Monster_Hunter_Frontier"
+			}]
+		}
+	},
+	{
+		"id":1046,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"Mushihimesama Futari is the sequel to another popular CAVE bullet-hell shooter, Mushihimesama. Originally released in arcades in 2006, Futari is often recognized as one of the most difficult single-loop shooters in existence when played on its hardest difficulty setting.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Black Label",
+				"releaseDate":"2009/12/11",
+				"achievements":250,
+				"type":0,
+				"synopsis":"New mode featuring altered gameplay, includes a new god mode and a new true last boss."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jZGax-JpLFE"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Ue9qyw8Tueo"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=D1jvhgnGF5M"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/959825-mushihimesama-futari-ver-15/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mushihime-sama-Futari/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1047,
+		"details":
+		{
+			"developer":["Cave"],
+			"synopsis":"Mushihime-sama HD is an updated port of Cave's 2004 bullet hell shoot 'em up Mushihime-sama. Features updated high resolution sprites as well as new Beginner and Arrange modes.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Xca1qLk1zUw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ktKJu_mWatY"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mushihimesama-HD/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1048,
+		"details":
+		{
+			"developer":["Age"],
+			"synopsis":"This game consists of two parts: Muv-Luv Extra and Muv-Luv Unlimited. Unlimited is unlocked after you get the endings of the two main heroines (Sumika and Meiya) in Extra.<br><br>Muv-Luv Extra: Shirogane Takeru is a typical high school student with a lazy attitude and a love for the virtual reality mecha battle game Valgern-on. Even though he didn't really wanted it, he is popular in school mainly due to his daily fights with his osananajimi (Sumika) attracting too much attention. His life takes an unexpected turn when he finds a girl (Meiya) he doesn't remember ever meeting in his bed one morning. Whom later revealed to be the heiress of one of the biggest zaibatsu. She immediately moves to his house and starts changing his life for the good with her one-track-mind and unlimited resources...<br><br>Muv-Luv Extra, the main part of Muv-Luv, takes place in the same world (and general area) as Kimi ga Nozomu Eien and Kimi ga Ita Kisetsu. The Sky Temple family restaurant is mentioned and visited, and Suzumiya Akane makes an appearance.<br><br>Muv-Luv Unlimited: One day Takeru wakes up late, wondering why Sumika or Meiya didn't wake him up this morning. Not seeing any signs of them he gets a bit worried and goes out of his house to only see the town he lived all his life in ruins. After getting past the initial shock he decides that this must be a dream and decides to enjoy it as much as he can...",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=DvTD4geTgwI"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hXAqdyxMUjI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Muv-Luv/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/muv-luv/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"Muv-Luv Wiki",
+				"url":"http://muvluv.wikia.com/wiki/Muv-Luv"
+			}]
+		}
+	},
+	{
+		"id":1049,
+		"details":
+		{
+			"developer":["Age"],
+			"synopsis":"Muv-Luv Alternative takes place after the events of the original Muv-Luv. Alternative focuses on the life of Shirogane Takeru three years after Muv-Luv; Takeru wakes up believing that everything that had happened was just a dream. However, he notices something wrong: he has been sent back in time to the beginning of the events in Muv-Luv: Unlimited. But instead of letting a disaster strike again, he decides to help stop it before it even begins. The solution: helping to complete Alternative IV.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jhoAZGc6KI4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=V-uM6JjigTI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Muv-Luv-Alternative/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/muv-luv-alternative/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"Muv-Luv Wiki",
+				"url":"http://muvluv.wikia.com/wiki/Muv-Luv_Alternative"
+			}]
+		}
+	},
+	{
+		"id":1050,
+		"details":
+		{
+			"developer":["Age", "5pb."],
+			"synopsis":"Total Eclipse is set in the same world as Alternative, at Alaska's Yukon base, test site 18, where first-class staff from all over the world regardless of country gather to work on new Tactical Surface Fighters.<br><br>The main characters are engineers and pilots and it features many TSFs that failed to show up in Alternative.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6iy3qBCJNtI"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=BVC8uw5Cx5k"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/MuvLuv-Alternative-Total-Eclipse/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Muv-Luv Wiki",
+				"url":"http://muvluv.wikia.com/wiki/Muv-Luv_Alternative_Total_Eclipse"
+			}]
+		}
+	},
+	{
+		"id":1051,
+		"details":
+		{
+			"developer":["Tate Interactive"],
+			"synopsis":"My Horse and Me 2 is packed with exciting new features, brand new graphics and animations, and an engrossing storyline to give fans the most complete equestrian experience and the most realistic horse simulation ever seen in a game. The My Horse and Me series are the only games in the world to earn the exclusive license from the FEI, the world's leading horse sports organisation.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=CkaCgJWCpdM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=RiqFB8bw_5I"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/My-Horse-And-Me-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/my-horse-and-me-2/guide/"
+			}]
+		}
+	},
+	{
+		"id":1052,
+		"details":
+		{
+			"developer":["Alchemist"],
+			"synopsis":"I was just an average man... Just boring, mediocre and normal... But one day, a girl falls down from the sky. According to her, she came from the world beyond the inner space... My extraordinary life is about to begin with an extraordinary girl...",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=nFOrI3pkPe8"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=PSOHIFAn840"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/No-Fate-Only-the-Power-of-Will/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1053,
+		"details":
+		{
+			"developer":["Feel Plus", "Grasshopper Manufacture"],
+			"synopsis":"Anime geek Travis Touchdown wins a Beam Katana and starts a new career as a professional killer in this remake of the first entry into the unusual action franchise No More Heroes. There's only one way to the top ranks of the underground world of paid assassins and it's going to get messy. Lucky for Travis Touchdown, he just knocked off the world's eleventh best without breaking a sweat. The life of fame and fortune couldn't be closer. Heads will roll and names will be taken, but everything is not what it seems. It all started after Travis was assigned to take on the drifter known as Helter Skelter, the United Assassin Association's 11th ranked assassin. After a grueling battle, Travis emerged the winner, collected the spoils of battle and claimed his title as the new 11th ranked assassin. However, the situation turns out to be more complicated than Travis first thought. It is after the mysterious beauty, Sylvia Christel, appears that the real adventure begins...<br><br>New features for Heroes' Paradise include updated HD visuals, redesigned controls, and as a \"Very Sweet Mode\" that gives you a whole new way to look at the fabulous women of No More Heroes.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=MGgqJqHJEKA"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KjOXEWoLJRM"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=HzMJIPOZQZU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/No-More-Heroes/achievements.htm"
+			},
+			{
+				"type":"Reviews (PS3)",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/playstation-3/no-more-heroes-heroes-paradise"
+			},
+			{
+				"type":"Wiki",
+				"site":"No More Heroes Wiki",
+				"url":"http://nomoreheroes.wikia.com/wiki/No_More_Heroes:_Heroes'_Paradise"
+			},
+			{
+				"type":"Wiki",
+				"site":"Suda51 Wiki",
+				"url":"http://suda51.wikia.com/wiki/No_More_Heroes:_Heroes'_Paradise"
+			}]
+		}
+	},
+	{
+		"id":1054,
+		"details":
+		{
+			"developer":["Koei"],
+			"synopsis":"A Xbox 360 entry in Koei's long-running Nobunaga's Ambition strategy game series.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7zxnluZFs-4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=cCKFgmI7NNk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Nobunagas-Ambition-Tendou/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Koei Wiki",
+				"url":"http://koei.wikia.com/wiki/Nobunaga's_Ambition"
+			}]
+		}
+	},
+	{
+		"id":1055,
+		"details":
+		{
+			"developer":["Konami"],
+			"synopsis":"Otomedius Gorgeous is the spiritual successor to Sexy Parodius, a parody of the Gradius series.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=TeFYvJYmcoo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=HWf5sBLibIQ"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Otomedius-Gorgeous/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/otomedius-g/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"Gradius Wiki",
+				"url":"http://gradius.wikia.com/wiki/Otomedius_G%3A_Gorgeous"
+			}]
+		}
+	},
+	{
+		"id":1056,
+		"details":
+		{
+			"developer":["Konami"],
+			"synopsis":"The lovely ladies of Otomedius land on Xbox 360 in this shoot-em-up. In Otomedius Excellent, gamers will be able to choose from nine stunning characters as they battle through all-new stages in an expanded world full of intense 2D sidescrolling shooter action. Players can team up for the experience with up to three players locally or online via Xbox Live Arcade for the Xbox 360. Additionally, an expanded gallery mode allows players to view their unlocked wallpapers and graphics in a gallery that grows as they progress through the game. Gamers will also be able to tap into a wealth of exciting downloadable content to be announced later.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Kokoro Belmont",
+				"releaseDate":"2011/11/15",
+				"type":2,
+				"synopsis":"Purchase Kokoro Belmont as a playable character. Descended from a legendary line of vampire hunters, she lends her unique powers to \"G\"."
+			},
+			{
+				"id":2,
+				"name":"BGM Pack 4: Diol Twee",
+				"releaseDate":"2011/11/15",
+				"type":7,
+				"synopsis":"Download BGM Pack 4: Diol Twee to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":3,
+				"name":"Erul Tron (Legendary Pilot Suit)",
+				"releaseDate":"2011/11/22",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Erul Tron wearing a Legendary Pilot Suit from Donburi Island."
+			},
+			{
+				"id":4,
+				"name":"Strarf",
+				"releaseDate":"2011/11/22",
+				"type":2,
+				"synopsis":"Purchase Strarf, from Konami's Busou Shinki series, as a playable character."
+			},
+			{
+				"id":5,
+				"name":"BGM Pack 5: Tita Nium",
+				"releaseDate":"2011/11/22",
+				"type":7,
+				"synopsis":"Download BGM Pack 5: Tita Nium to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":6,
+				"name":"BGM Pack 6: Esmeralda & Poini Kune",
+				"releaseDate":"2011/11/22",
+				"type":7,
+				"synopsis":"Download BGM Vol 6: Esmeralda and Poini Kune to enjoy stage BGM themed for these characters."
+			},
+			{
+				"id":7,
+				"name":"Aoba Anoa (St. Gradius Academy Uniform)",
+				"releaseDate":"2011/11/29",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Aoba Anoa wearing her St. Gradius Academy uniform."
+			},
+			{
+				"id":8,
+				"name":"BGM Pack 8: Arnval",
+				"releaseDate":"2011/11/29",
+				"type":7,
+				"synopsis":"Download BGM Pack 8: Arnval to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":9,
+				"name":"BGM Pack 10: Strarf",
+				"releaseDate":"2011/11/29",
+				"type":7,
+				"synopsis":"Download BGM Pack 10: Strarf to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":10,
+				"name":"Madoka (Dynastic Dress)",
+				"releaseDate":"2011/12/06",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Madoka wearing a Dynastic Dress."
+			},
+			{
+				"id":11,
+				"name":"Diol Twee (Heirloom Dress)",
+				"releaseDate":"2011/12/06",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Diol Twee wearing a beautiful dress she inherited from her ancestors."
+			},
+			{
+				"id":12,
+				"name":"BGM Pack 9: Kokoro Belmont",
+				"releaseDate":"2011/12/06",
+				"type":7,
+				"synopsis":"Download BGM Pack 9: Kokoro Belmont to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":13,
+				"name":"St. Gradius Academy Stage",
+				"releaseDate":"2011/12/13",
+				"type":0,
+				"synopsis":"Welcome to the training stage for Organization G! Daily training is important. Konami Lady will be your instructor ARE YOU READY TO TRAIN RELENTLESSLY?? Konami Lady is voiced by Sato Rina."
+			},
+			{
+				"id":14,
+				"name":"Tita Nium (Bacterian Force Uniform)",
+				"releaseDate":"2011/12/13",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Tita Nium in Bacterian Force Uniform."
+			},
+			{
+				"id":15,
+				"name":"BGM Pack 7: Gesshi Hanafuuma",
+				"releaseDate":"2011/12/13",
+				"type":7,
+				"synopsis":"Download BGM Pack 7: Gesshi Hanafuuma to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":16,
+				"name":"Yebisuboshi Stage",
+				"releaseDate":"2011/12/20",
+				"type":0,
+				"synopsis":"We found Bacterians at the hometown of Eamon Five, former member of Organization G. Please rush to the scene immediately! We have information that the ringleader is Eamon Eight. Eamon Eight is voiced by Kasahara Rumi."
+			},
+			{
+				"id":17,
+				"name":"Esmeralda (Restaurant Uniform)",
+				"releaseDate":"2011/12/20",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Esmeralda wearing her restaurant uniform."
+			},
+			{
+				"id":18,
+				"name":"Poini Kune (Apron Dress)",
+				"releaseDate":"2011/12/20",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Poini Kune wearing traditional clothes from her hometown of Renga Village."
+			},
+			{
+				"id":19,
+				"name":"BGM Pack 1: Aoba Anoa",
+				"releaseDate":"2011/12/20",
+				"type":7,
+				"synopsis":"Download BGM Pack 1: Aoba Anoa to enjoy stage BGM themed for this character."
+			},
+			{
+				"id":20,
+				"name":"Donburi Island Stage",
+				"releaseDate":"2012/01/17",
+				"type":0,
+				"synopsis":"We've got an emergency call from Pastel that Bacterians are invading Donburi Island! Please rush to the scene immediately. Pastel is voiced by Shina Hekiru."
+			},
+			{
+				"id":21,
+				"name":"Arvnal (Summer Kimono)",
+				"releaseDate":"2012/01/17",
+				"type":2,
+				"synopsis":"Purchase this DLC to play as Arvnal wearing a yukata (summer kimono)."
+			},
+			{
+				"id":22,
+				"name":"Gesshi Hanafuuma (P.E. Outfit)",
+				"releaseDate":"2012/01/17",
+				"type":2,
+				"synopsis":"Download this DLC to play as Gesshi Hanafuuma wearing her St. Gradius Academy P.E. uniform."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5NZ_Dqu16xk"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=WA7PwzUOPfs"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=sn2YhFe4qNM"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Otomedius-Excellent/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/otomedius-excellent"
+			},
+			{
+				"type":"Wiki",
+				"site":"Gradius Wiki",
+				"url":"http://gradius.wikia.com/wiki/Otomedius_X%3A_Excellent"
+			}]
+		}
+	},
+	{
+		"id":1057,
+		"details":
+		{
+			"developer":["Mere Mortals"],
+			"synopsis":"PDC World Championship Darts on the Xbox 360 offers, for the first time, online multiplayer; a chance to play against another player in an Exhibition match. With features including leaderboards and vital statistics about your gameplay, you can really see who is the best out of your friends at darts.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zHiCcH_g9u8"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=WiZXUmARlX8"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/950109-pdc-world-championship-darts-2008/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/PDC-World-Champ-Darts/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/pdc-world-championship-darts/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/pdc-world-championship-darts-2008"
+			}]
+		}
+	},
+	{
+		"id":1058,
+		"details":
+		{
+			"developer":["Redoubt"],
+			"synopsis":"Bring the passion and competition of tournament darts to your living room and take on your friends and family with the launch of the PDC World Championship Darts: Pro Tour. This game builds on the successes of its predecessors, featuring international superstars like Phil 'The Power' Taylor, Raymond van Barneveld, James Wade, Mervyn King, Simon Whitlock and Jelle Klaasen; as well as updated graphics, character models, and an optimised control system. PDC World Championship Darts: Pro Tour provides fluid, accurate and simple throwing dynamics, getting players closer to the action than ever before.<br><br>Further establishing its heritage as the definitive darts game for fans of the sport, the 2010 edition of PDC World Championship Darts features an in-depth career mode that also supports the latest tournaments, including the Grand Slam of Darts, a new fixture in the PDC events calendar. Player View puts you at The Oche in the eyes of a Pro, with gamers being able to control player celebrations. Plus the atmosphere will be further enhanced with an all-new commentary from TV's 'Voice of Darts' Sid Waddell and John Gwynne; top level match referees, Bruce Spendley and Russ Bray; and Master of Ceremonies, John McDonald. The game also offers online 1-on-1 matches for Xbox 360 gamers, as well as a raft of downloadable content including new players, events and darting accessories.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=sCiayz34wzA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ZfSvAdLe95o"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/PDC-Darts-Pro-Tour/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/pdc-world-championship-darts-pro-tour/guide/"
+			}]
+		}
+	},
+	{
+		"id":1059,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Phantom Breaker tells the story of a mysterious Japanese fighting tournament organized by a shady character called Phantom, each combatant must take on a range of increasingly powerful foes with the winner gaining the opportunity to grant any wish they desire. Players can choose from a range of gorgeous girls (and a couple of guys) before opting for a quick or hard fighting style, which favor super-fast combos or stronger defense. Through well-timed attacks or blocks, the player can charge their Overdrive bar, which can be unleashed to perform speedier attacks or temporarily increase defense.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=1x7HmUqrt5w"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=VmnwrIT2AP4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=uyyDxDyjNrA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Phantom-Breaker/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/phantom-breaker"
+			}]
+		}
+	},
+	{
+		"id":1060,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Phantom Breaker: Extra is an extended edition/sequel of the original Phantom Breaker.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=GcjjFGDa0Wo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KaDg6aCyUcw"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/720935-phantom-breaker-extra/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Phantom-Breaker-Extra/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1061,
+		"details":
+		{
+			"developer":["Nitroplus"],
+			"synopsis":"Phantom of Inferno is a story detailing the life of a 15-year-old Japanese boy who is kidnapped after witnessing the killing of a reporter. After being kidnapped his memories of his past life are erased and is given the choice to join Inferno or die. He makes the only choice he can to join and is given the name Zwei and will study under Ein. She is also known as Phantom since this is the title given to the organization's top assassin.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jPJds8VWnnE"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=tCmZQ071YL4"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Phantom/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1062,
+		"details":
+		{
+			"developer":["Konami"],
+			"synopsis":"Konami's Spirits series first entry for the Xbox 360.",
+			"links":[
+			{
+				"type":"Gameplay (PS2)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=mrml3YuMQnQ"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/929263-pro-yakyuu-spirits-3/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Pro-Baseball-Spirits-3/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/pro-baseball-spirits-3-ntscj/guide/"
+			}]
+		}
+	},
+	{
+		"id":1063,
+		"details":
+		{
+			"developer":["MileStone"],
+			"synopsis":"Radirgy Noa Massive is a vertical scrolling shooter from Milestone.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ozcnrM4N1r8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Radirgy-Noa-Massive/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1064,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"2019, Divergence Ratio 1.048596.<br><br>The near future, where a device popularly called the PokeCom, packaged with PhoneDroid OS, spreads, bringing the Augmented Reality world close to existence.<br><br>Chuuoutanegashima High School's Robot Research Club is in danger of losing its club status.<br><br>Yashio Kaito, one of only two members, is only obsessed with robot fighting games, showing no interest in the Robo Club even in this situation. The reckless, useless club head, Senomiya Akiho, aims to complete a giant robot, struggling hard to avoid losing the club's status.<br><br>Then, one day, Kaito discovers the A.R. annotation that becomes the Kimijima Report.<br><br>Written in that report is the indictment of someone named Kimijima Kou's conspiracy involving the world.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=pB3PJhDodnk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vVe19k2SdxE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/RoboticsNotes/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/RoboticsNotes/walkthrough.htm"
+			}]
+		}
+	},
+	{
+		"id":1065,
+		"details":
+		{
+			"developer":["Milestone"],
+			"synopsis":"Superbike World Championship '08 promises a thrilling, accessible and engaging racing experience for both Superbike and race fans alike. This game is so unique because of the Superbike World Championship itself, a truly a global event. SBK Superbike World Championship is a unique experience in motorsport featuring ultra-realistic close up shots of the riders hugging tight turns while their bodies hang inches away from the track. Closely fought battles are guaranteed.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6oyj88QvqEw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=j4bYv05ekT8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SBK-08-Superbike-World-Championship/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/sbk-08-superbike-world-championship/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sbk-superbike-world-championship"
+			}]
+		}
+	},
+	{
+		"id":1066,
+		"details":
+		{
+			"developer":["Milestone"],
+			"synopsis":"SBK 09 continues Milestone's SBK franchise. It offers 27 riders and 13 tracks as well as customisable realism modes, controlling features such as braking power, Traction Control, Damage and Rider Injury.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=9MwsGFHyFco"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=pridaBWgbVY"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SBK-09-Superbike-World-Championship/achievements.htm"
+			},
+			{
+				"type":"Reviews (PS3)",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/playstation-3/sbk-09-superbike-world-championship"
+			}]
+		}
+	},
+	{
+		"id":1067,
+		"details":
+		{
+			"developer":["Milestone"],
+			"synopsis":"SBK X: Superbike World Championship brings racing excitement to players all over the world. Go wheel to wheel with up to 15 of your gearhead friends, enjoy three different modes of gameplay, and face over 90 actual racers on their bikes and in their circuits.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Legends",
+				"releaseDate":"2013/10/25",
+				"type":2,
+				"synopsis":"The greatest motorbikes and riders of the SBK World Championship history are back on track. Ride the Legend!"
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=LZX0pVJfHf0"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=FDqk3iu3fxo"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4YgwucJvoD0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xgxhHfqqqFc"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/984988-sbk-x-superbike-world-championship/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SBKX/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sbk-x-superbike-world-championship"
+			}]
+		}
+	},
+	{
+		"id":1068,
+		"details":
+		{
+			"developer":["Milestone"],
+			"synopsis":"SBK 2011 features improved visual and effects, as well as 20 motorbike models, mulitplayer for up to 16 players, 9 bike manufacturers, 70 riders and 16 tracks from the 2011 season.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=71bpamaXALQ"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Zli1vp79IVs"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Oh50E2TK2nk"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=pyVJSXuCgBs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SBK-2011-FIM-Superbike-World-Championship/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1069,
+		"details":
+		{
+			"developer":["Milestone"],
+			"synopsis":"Play through the last 4 seasons of the SBK world championships, including the new 2012 season to become world champion or test your skills in the new SBK Experience mode. With SBK Generations, Milestone has developed what they consider to be the definitive motorcycle game, filled with over 220+ riders, 60 bike models, 140+ teams, 17 circuits and up to 16 player online multi-player.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=9MV8MCaMTHQ"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=csqnGxrsglM"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ElHfaTIxzsA"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=uFdhopBvpWA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SBK-Generations/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/sbk-generations/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sbk-generations"
+			}]
+		}
+	},
+	{
+		"id":1070,
+		"details":
+		{
+			"developer":["Akabei Soft"],
+			"synopsis":"In the fictional world of Sharin no Kuni, there are no prisons. Criminals aren't detained and locked away, but instead are left in society and given special \"obligations\" they must fulfill in order to rehabilitate themselves. These obligations can range from simple community service to a total prohibition on contact with the opposite sex. The ones who oversee those with obligations and guide their rehabilitation are known as \"Special High Class Individuals\". These people hold great power, and the protagonist Morita Kenichi is in the final training stages to become one. Unfortunately his trainer is the extremely brutal and pragmatic Houzuki Masaomi, who stands to test the patience and fortitude of Kenichi and the three young female students he's been assigned to. To further complicate things, Kenichi's past is shrouded in secrecy and is deeply entangled with the history of the small village he's been assigned to and the girls he's rehabilitating, unbeknownst to them.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=k6RHKVQC4ak"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=J_lvaKp7bI0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Sharin-no-Kuni-Himawari-no-Shoujo/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1071,
+		"details":
+		{
+			"developer":["Triangle Service"],
+			"synopsis":"This Triangle release contains a shooter skills test, Exzeal, Trizeal Remix, Minus Zero, and lots of extras.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6QrDA-4W6T8"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=2-3litQVKuU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Shooting-Love-200X/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1072,
+		"details":
+		{
+			"developer":["Triangle Service"],
+			"synopsis":"A compilation of two arcade shooters, XIIZeal and DeltaZEAL, for Xbox 360.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=N4Cdjqynb6I"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Shooting-Love-10th-Anniversary/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1073,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Steins Gate is an adventure game about a group of scientists who invent a time travel machine and have the ability to alter the course of history through their actions.<br><br>Set in Akihabara, the Mecca of Japanese anime culture, the game follows a group of friends who accidentally invent a method of sending messages to the past. Their discovery plunges them into a world of conspiracy and shifting timelines where the push of a button can change the course of history. Interact with your favorite characters and reach endings not seen in the anime. The choice is yours ... the choice of Steins;Gate!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Production Enhancement Pack",
+				"releaseDate":"2010/09/24",
+				"achievements":250,
+				"type":7,
+				"synopsis":"Implements additional features of the PC version."
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=BqcZKlPPljs"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=TdF_tW7QZnM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=QRBk4e1s8ls"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Steins-Gate/achievements.htm"
+			},
+			{
+				"type":"Reviews (PC)",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/pc/steinsgate"
+			},
+			{
+				"type":"Wiki",
+				"site":"Steins;Gate Wiki",
+				"url":"http://steins-gate.wikia.com/wiki/Steins;Gate_(visual_novel)"
+			}]
+		}
+	},
+	{
+		"id":1074,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"After repeated D-mail experiments, Okarin jumps to a world where 3 percent shift in world line was to be expected. And before he knew it, Kurisu as well as the rest of the members have been gathered and amidst preparations for a banquet.<br><br>In this world, a new gadget had been created but the group is facing some troubles. They can't afford to pay the electricity bill due to running too many experiments. Let's see what this new gadget can do for us...<br><br>The concept for this game is a love comedy with some sweet romance scenes and where 99 percent of the world is science but 1 percent is composed of ... fantasies?!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jI4pRwJUq1I"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=qD-49VWT7n0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Steins-Gate-Hiyoku-Renri-no-Darling/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Steins;Gate Wiki",
+				"url":"http://steins-gate.wikia.com/wiki/Steins;Gate_-_Darling_of_Loving_Vows"
+			}]
+		}
+	},
+	{
+		"id":1075,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"You followed Okarin through the labyrinth of time and space; now relive the twists and turns of Steins;Gate through the eyes of Kurisu, Suzuha, Daru, and the rest of the Future Gadget Lab members. See how they faced the startling events of the game; hear their thoughts and experience their battles firsthand. This incredible visual novel gives you the rest of the story, with new revelations that will amaze even the most jaded Steins;Gate fan. The drama of Steins;Gate continues. Don't miss it.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=duCiKfcMNOA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=A0jozZq3ntA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Steins-Gate-Senkei-Kousoku-no-Phenogram/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Steins;Gate Wiki",
+				"url":"http://steins-gate.wikia.com/wiki/Steins;Gate:_Linear_Bounded_Phenogram"
+			}]
+		}
+	},
+	{
+		"id":1076,
+		"details":
+		{
+			"developer":["Gulti"],
+			"synopsis":"Strike Witches: Hakugin no Tsubasa is a horizontal twin-stick shoot 'em up developed by Gulti. It is based on the popular anime Strike Witches and was released in Japan on July 29, 2010.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Download Character Nakajima Nishiki",
+				"releaseDate":"2010/08/03",
+				"achievements":40,
+				"type":2
+			},
+			{
+				"id":1,
+				"name":"Time Attack Mode",
+				"releaseDate":"2010/08/03",
+				"achievements":40,
+				"type":0
+			}],
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=--M-TbgR7Aw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Strike-Witches-Wings-of-White-Silver/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Strike Witches Wiki",
+				"url":"http://strikewitches.wikia.com/wiki/Strike_Witches_Wiki"
+			}]
+		}
+	},
+	{
+		"id":1077,
+		"details":
+		{
+			"developer":["49Games"],
+			"synopsis":"The battle for Gold Medals and personal bests ignites excitement and healthy competition in Summer Athletics 2009. Athletes from all over the world run, throw, jump and swim for victory. Millimeters and split seconds will decide the winners. Athletes compete in 28 summer time disciplines, including 100 meters sprint, high diving, javelin throwing or long jump.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=WmEQIF_Z1jc"
+			},
+			{
+				"type":"Gameplay (PC)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=P6KfXMqBIFI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Summer-Athletics-2009/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/summer-athletics-2009/guide/"
+			}]
+		}
+	},
+	{
+		"id":1078,
+		"details":
+		{
+			"developer":["49Games"],
+			"synopsis":"Summer Challenge: Athletics Tournament offers a fast-paced sports entertainment experience for the enthusiast and the entire family. Challenge the world's best athletes in 20 disciplines playing in single or multi player game modes. Bring the excitement of major competitions into your living room with photo realistic stadiums and atmospheric sound. Summer Challenge includes the most popular and diverse sports with up to four players in head to head competition or challenge your skill in single player career mode. Compare your performance against the rest of the world via online leader boards.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=NqWjF60adg0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ZPxISfNsXaU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Summer-Challenge/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Summer-Challenge/walkthrough.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/summer-challenge-athletics-tournament"
+			}]
+		}
+	},
+	{
+		"id":1079,
+		"details":
+		{
+			"developer":["Banpresto"],
+			"synopsis":"Ported over to the Xbox 360 from 2004's Super Robot Taisen GC, Bandai Namco is updating the visuals and adding new pilot cut-in animations. Gameplay will benefit from new units from the included selection of 19 classic franchises, along with new scenarios and events. And the biggest new feature of all, online play! The game will support Xbox Live, allowing for players to face off against one another in battle.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hTNzExQeIrw"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/929253-super-robot-taisen-xo/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Super-Robot-Taisen-XO/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Super Robot Wars Wiki",
+				"url":"http://superrobotwars.wikia.com/wiki/Main_Page"
+			}]
+		}
+	},
+	{
+		"id":1080,
+		"details":
+		{
+			"developer":["Red Entertainment"],
+			"synopsis":"A remake of the 1989 PC-Engine CD game Tengai Makyou: Ziria. The remake features polygonal graphics, new animated cut-scenes, additional story events, and a new 3rd-person battle system.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=1BCOce0wEGU"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=QxC-jq2wbuc"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Tengai-Makyo-Ziria-Haruka-naru-Jipang/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1081,
+		"details":
+		{
+			"developer":["Key"],
+			"synopsis":"A spin-off of Clannad which expands on the story of Tomoyo Sakagami, one of the heroines of the original title.<br><br>Tomoyo After's story revolves around Okazaki Tomoya and Sakagami Tomoyo. Tomoya has graduated from high school and is now employed as a garbage collector. He and Tomoyo are now seeing each other in a romantic relationship, though Tomoya lives alone in his apartment. One day it is discovered that Tomoyo has a younger half-sister named Mishima Tomo who had been living with her mother, but was recently abandoned. It is eventually decided that Tomo will live in Tomoya's apartment for the time being.<br><br>Beside the Adventure part that makes most of the game, Tomoyo After also has RPG elements. In order to complete the game entirely, the player must finish eight of the mini RPGs games called \"Dungeons & Takafumis\" which are available during certain scenarios as the player continues to play the game.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=oJB_kDG_2-w"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Tomoyo-After-Its-a-Wonderful-Life/achievements.htm"
+			},
+			{
+				"type":"Wiki",
+				"site":"Clannad Wiki",
+				"url":"http://clannad.wikia.com/wiki/Tomoyo_After_~It's_a_Wonderful_Life~"
+			}]
+		}
+	},
+	{
+		"id":1082,
+		"details":
+		{
+			"developer":["49Games"],
+			"synopsis":"Whether playing solo in the expansive career mode or competing with friends in the addictive four player multiplayer modes, Summer Stars 2012 brings you an exciting arcade-style sporting experience. Take on a huge variety of summer sports and special challenges and see if you've got what it takes to bring home the gold this summer!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=IBWsVyXBTlQ"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=HfUwA4eTANQ"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=p2s-dhsL-aM"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Summer-Stars-2012/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/summer-stars-2012"
+			}]
+		}
+	},
+	{
+		"id":1083,
+		"details":
+		{
+			"developer":["Cyanide"],
+			"synopsis":"Tour de France: The Official Game is a pure mix of action and adrenaline. Play as a professional cyclist that competes in the Tour de France, the most prestigious of all cycling competitions! This game will enable you to fight shoulder to shoulder with the greatest cycling champions during intense stages full of twists and turns! Manage the efforts of your riders over the grueling stages and ride honorably to gain the respect of the pack. Your loyalty and your actions will shape your reputation throughout the competition and will allow you to renew or destroy strategies and alliances which often prove decisive in this massive 21 stage race.<br><br>Nerves of steel, top physical shape and subtle tactics are required to win the Tour de France and its most prestigious \"maillots\", including the coveted and legendary yellow \"maillot\"!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Criterium International",
+				"releaseDate":"2011/11/09",
+				"type":0,
+				"synopsis":"Continue to experience the Tour de France and relive the latest Criterium International! Over three-stages blending Mountains, Plains and Time trials, draw the best from your riders to win this intense and fascinating race."
+			},
+			{
+				"id":2,
+				"name":"Database",
+				"releaseDate":"2011/11/16",
+				"type":7,
+				"synopsis":"This additional content updates rider characteristics according to their performance in the real Tour de France 2011."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=dgdEcIwv63k"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4iylFHFZkoY"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Tour-de-France-2011/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/tour-de-france-2011"
+			}]
+		}
+	},
+	{
+		"id":1084,
+		"details":
+		{
+			"developer":["Cyanide"],
+			"synopsis":"Play as a professional cyclist, and throw yourself in the most prestigious cycling competition: the Tour de France! Finely mixing simulation and action, Tour de France offers you to challenge all the biggest cycling champions on the leading race of the season! Get the best out of your teammates, and form alliances with other teams and their rider to win a stage, or battle for the famous Yellow Jersey! 21 stages, full of tension and adrenaline, await you: the turns of events in the mountains, the fierce sprint battles at the finish lines... all has been made so that you live, intensively, the Tour de France just like a real cycling champion!",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zs2c_5aX2Ts"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Tour-de-France-2012/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/le-tour-de-france-2012"
+			}]
+		}
+	},
+	{
+		"id":1085,
+		"details":
+		{
+			"developer":["Cyanide"],
+			"synopsis":"Become manager of one of the 80 professional teams. Plunge into a 2013 season and participate in over 180 competitions all around the world, including the spectacular 100th edition of the Tour de France. Manage all the aspects of a pro team's life: recruitment, riders' management, contracts, equipment, finances, registration to competitions, new management of sponsors and objectives... and demonstrate all your tactician skills during the real time races!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7VPnbhWd8uQ"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zXD_laUzBKg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Le-Tour-de-France-2013--100th-Edition/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/le-tour-de-france-2013---100th-edition"
+			}]
+		}
+	},
+	{
+		"id":1086,
+		"details":
+		{
+			"developer":["Cyanide"],
+			"synopsis":"Tour de France 2014 invites you to wear the jersey of the greatest champion cyclists and take part in a 2014 Tour packed with new features. Enter one of the most prestigious cycling competitions in the world that now takes you through the English countryside, London roads, cobbled sections in northern France, legendary mountain stages and the fabulous finish on the Champs Elys&eacute;es. This year we have new rider animations, more detailed and enthralling backdrops, reconnaissance of the stages and a brand new and more dynamic descent gameplay in store for you! Finally, the extra Pro Team mode will allow you to compete over several seasons and upgrade your team by recruiting the top champions to ensure that you win the coveted \"maillot jaune\"!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=brM21VFmIyg"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SdM3aERG7CE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Tour-de-France-2014/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/tour-de-france-2014"
+			}]
+		}
+	},
+	{
+		"id":1087,
+		"details":
+		{
+			"developer":["5pb."],
+			"synopsis":"Yuki just lives a peaceful life. But one day, his classmate says to him, \"Congratulations! You now have the rights to love someone\". He is told about the W.L.O. (World Love Organization). According to his classmate, the purpose of the organization is to help people achieve their love to deal with a decreasing birth rate. He also says, \"Use your natural born strong semen to save the world\". His partner is Aina, his neighbor. With support of Hotaru and Ina, his project starts. Arisa and Yuriko also get involved in the project. A grand love project now starts...",
+			"links":[
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Tm7xIiuHRuU"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=mPAPUQ0SmFE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/World-Love-Organization/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/forum/showthread.php?t=236037"
+			}]
+		}
+	},
+	{
+		"id":1088,
+		"details":
+		{
+			"developer":["Blade Interactive"],
+			"synopsis":"Players can create their own pool player or playing as one of the world's top pros in 20 officially licensed pool tournaments including the Mosconi Cup, World Cup, and U.S. Open. In Golden Cue mode, players test their versatility by challenging other pro-players to games of eight and nine-ball, and other cuesports within the same tournament. Pool sharks can also show their true skills in the World Trickshot Championship, where players can pull off their favorite crowd-pleasers from a vast selection of trickshots.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hxU3YFTflnw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=-SisMNEwB8c"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/World-Snooker-Championship-2007/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/world-pool-championship-2007"
+			}]
+		}
+	},
+	{
+		"id":1089,
+		"details":
+		{
+			"developer":["Blade Interactive"],
+			"synopsis":"WSC Real 09 promises to be the most authentic Snooker experience ever created, with a host of groundbreaking new features which immerse you in the shoes of a pro like never before. Create your own Snooker personality and get ready to compete at the very top in the Official game of World Snooker!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=pkUrBqeuTP0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xM8tdXnY6mU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/World-Snooker-Championship-2009/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/wsc-real-09-world-snooker-championship/guide/"
+			}]
+		}
+	},
+	{
+		"id":1090,
+		"details":
+		{
+			"developer":["Dark Energy Sports"],
+			"synopsis":"WSC Real 11 promises to be the most exciting version of the top selling snooker and pool franchise for years, with a host of jaw dropping new features including 100 percent pixel-perfect ball physics, spectacular time-control replay system, all new online tournaments, new rewind system allowing you to retake any shot and re-designed pick up and play controls.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=DjGAI27AfJc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Xk-8NltGOo0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/World-Snooker-Championship-Real-2011/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/wsc-real-11-world-snooker-championship/guide/"
+			}]
+		}
+	},
+	{
+		"id":1091,
+		"details":
+		{
+			"developer":["Yuke's Media Creations"],
+			"synopsis":"Japan's top professional go toe to toe in this next-gen wrestling game from the makers of SmackDown. Wrestle Kingdom favors a \"work the body\" style of gameplay, where you can focus on various body parts to wear out your opponent and make him more vulnerable. There's also a \"voltage\" meter that builds as you perform more impressive moves. Once your meter is filled, you can perform your wrestler's finishing move.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=BiwlzXI5EoU"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=l3IkXHBrsAM"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/929252-wrestle-kingdom/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Wrestle-Kingdom/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/wrestle-kingdom-ntscj/guide/"
+			}]
+		}
+	},
+	{
+		"id":1092,
+		"details":
+		{
+			"developer":["Activision"],
+			"synopsis":"Cabela's Adventure Camp is an arcade-style hunting game composed of a series of shooting galleries where YOU are the controller. The game includes fast paced, exciting outdoor activities that send you straight to summer camp, even in the middle of winter!<br><br>Players will lose themselves and forget they aren't outdoors as they compete in summer time activities such: Thrill Hill Biking, Wild River Kayaking, Full Throttle Wave Riding and more. Interactive Griefing allows idle players to grief others by knocking down trees and rocks creating in game obstacles that will add hilarious shenanigans to the mix. The brisk gameplay and fantastic variety keep everyone animated, excited and having fun!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=lHTr1ncT9xg"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Tx62-gl-8qc"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cabelas-Adventure-Camp/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/cabelas-adventure-camp/guide/"
+			}]
+		}
+	},
+	{
+		"id":1093,
+		"details":
+		{
+			"developer":["Cauldron"],
+			"synopsis":"With the world as their playground, players will explore a vast expanse of mountains and valleys with unprecedented choices in direction never before seen in a Cabela's hunting game. Players can climb an area to get a better angle for the shot but risk being spotted, or they can take a low elevation route with poor visibility but plenty of concealment. In order to bag the trophies, players will have to avoid detection through cunning, skill, and deception. They must also utilize master hunting skills such as advanced stalking techniques so they can quickly move through cover and close in on their targets.<br><br>With new multiplayer modes, gamers can enjoy playing with friends and family. Up to four people can take turns, work together or challenge each other in different arcade shooting galleries. With new modes such as Reflex and Target Shooting, Cabela's Big Game Hunter 2012 has enough fun to keep players hunting with friends for a long time!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Alaskan Rocks",
+				"releaseDate":"2011/09/27",
+				"type":0,
+				"synopsis":"That's right, Alaska rocks! You'll find some of the best hunting around in this shooting gallery. Don't miss out on the fun all in the warmth of your own house. In this arcade shooting gallery challenge, players will shoot their way through this level earning points to clear checkpoints as they go. Challenge your friends in 2 player co-op, 2 player versus, 3 and 4 player hot-seat variations."
+			},
+			{
+				"id":2,
+				"name":"Chile Plateau",
+				"releaseDate":"2011/09/27",
+				"type":0,
+				"synopsis":"Exotic animals galore in this shooting gallery. Cabela's is bringing the adventure of a lifetime to you. In this arcade shooting gallery, players will shoot their way through this level earning points to clear checkpoints as they go. This shooting gallery allows 2 player co-op, 2 player versus, 3 and 4 player hot-seat variations."
+			},
+			{
+				"id":3,
+				"name":"Texas Woods",
+				"releaseDate":"2011/09/27",
+				"type":0,
+				"synopsis":"This shooting gallery is Texas-sized. You'll have so much fun, you won't want to leave the lone star state! In this arcade shooting gallery challenge, players will shoot their way through this level earning points to clear checkpoints as they go. This shooting gallery allows 2 player co-op, 2 player versus, 3 and 4 player hot-seat variations."
+			}],
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vTRBI0GL-3E"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=rpNRz2_4XJI"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3OVRSXYwJAs"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=m2osDnVQmBQ"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cabelas-Big-Game-Hunter-2012/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/cabelas-big-game-hunter-2012/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/cabelas-big-game-hunter-2012"
+			}]
+		}
+	},
+	{
+		"id":1094,
+		"details":
+		{
+			"developer":["GamesFarm"],
+			"synopsis":"Challenge family and friends to a full-motion, total-body, big-game hunting adventure. Specially designed for the Kinect for Xbox 360, you will experience hectic, heart-racing game play as you race around the world to bag the biggest trophies. Shooting galleries span the globe, taking you to adventurous environments near and far. Unlock levels and upgrade gear in single-player mode. Challenge friends in survival mode, and see who can hunt the longest. Face off with friends in hot-seat multiplayer mode for head-to-head, high-score challenges. Bundled with the first-of-its-kind TOP SHOT Sport. Precise sensors track the TOP SHOT Sport and your body movements, allowing you to jump, dodge, aim and fire your way to the next level. Avoid obstacles, grab power-ups, harvest trophies and earn your bragging rights.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ANK2q1v5W0o"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=qLn3bskWfHQ"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=RzSeX1Jr4kM"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cabelas-Big-Game-Hunter-Hunting-Party/achievements.htm"
+			}]
+		}
+	},
+	{
+		"id":1095,
+		"details":
+		{
+			"developer":["Fun Labs"],
+			"synopsis":"Encounter the Arctic's deadliest creatures in an epic struggle for survival in Cabela's Survival: Shadows of Katmai. Packed with the game-changing Top Shot Elite controller, gamers will face non-stop challenges and the ride of a lifetime through the daunting Alaskan wilderness in an effort to complete a mysterious mission.<br><br>Witness the drama unfold as players take the role of bush pilot Logan James after he survives a horrific plane crash that leaves him in a remote corner of the Alaskan high country. Injured, isolated and in the middle of a hostile wilderness, Logan is cut off from all hope of rescue and it's up to players to guide him to safety in his epic battle against deadly predators and the frigid elements of nature.<br><br>With nothing but firearms and gear scavenged along the way, players will trek through a variety of hostile environments that include mountain peaks, icy cliff side trails, dense forests, frozen rivers and huge uncharted caverns. In order to stay alive in such harsh terrain, players will have to keep their wits about them and use all their survival skills. Every step might be their last as avalanches and snowstorms are compounded with dangerous predators that want nothing more than to eat them for dinner. As if that isn't enough to worry about, starvation is an ever looming problem. Survive, evade, and hunt through one of the most remarkable adventures ever to be released under the Cabela's brand.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=iB796SwBpvI"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=rAImqAp2bTM"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4vsdjUyQr1w"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=sWQGAt_Orb8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cabelas-Survival-Shadows-of-Katmai/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/cabelas-survival-shadows-of-katmai/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/cabelas-survival-shadows-of-katmai"
+			}]
+		}
+	},
+	{
+		"id":1096,
+		"details":
+		{
+			"developer":["Cauldron"],
+			"synopsis":"Cabela's Big Game Hunter: Pro Hunts takes players on a single-player campaign with four field-proven experts from the competitive world of big game hunting.<br><br>All four renowned hunters will impart their unique hunting skills to players through an exciting series of pro-guided hunts against North America's most cunning and sought-after trophy animals. Additionally, fans will find a richer, more engaging, first-person action experience, including improved ballistic physics, more realistic, thoughtful animal AI and four diversely populated, sweepingly beautiful environments across the continent.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=LO3UK5YVgU4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=2pVQ3a5GjEo"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cabelas-Big-Game-Hunter-Pro-Hunts/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/cabelas-big-game-hunter-pro-hunts"
+			}]
+		}
+	},
+	{
+		"id":1097,
+		"details":
+		{
+			"developer":["Ubisoft Montreal", "Ubisoft Annecy"],
+			"synopsis":"Assassin's Creed Revelations presents the most immersive experience available in the series to date and the culmination of Ezio's adventure. In Assassin's Creed Revelations, master assassin Ezio Auditore walks in the footsteps of his legendary mentor, Alta&iuml;r, on a journey of discovery and revelation. It is a perilous path - one that will take Ezio to Constantinople, the heart of the Ottoman Empire, where a growing army of Templars threatens to destabilize the region.<br><br>In addition to Ezio's award-winning story, the acclaimed online multiplayer experience from Assassin's Creed Brotherhood returns, refined and expanded, with more modes, more maps and more characters that allow players to test their assassin skills against others from around the world. The latest chapter in the Assassin's Creed saga also includes revolutionary gameplay, allowing players to manipulate the construct of Desmond's memories and the Animus to decipher the mysteries of his past and gain insight into the future.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"The Ancestors Character Pack",
+				"releaseDate":"2011/12/13",
+				"achievements":90,
+				"type":2,
+				"synopsis":"Download the Assassin's Creed Revelations \"Ancestors Multiplayer Character Pack\" and get 4 new multiplayer characters, including the swashbuckling Privateer, the deadly siren Corsair, the opportunistic Brigand and the bloodthirsty Gladiator. The Ancestors Multiplayer Character Pack DLC also includes new customization items for your characters."
+			},
+			{
+				"id":2,
+				"name":"Mediterranean Traveler Map Pack",
+				"releaseDate":"2012/01/24",
+				"achievements":150,
+				"type":1,
+				"synopsis":"The Mediterranean Traveler Map Pack extends the Assassin's Creed Revelations Multiplayer experience with the addition of 6 multiplayer maps, each introducing new gameplay opportunities through their varied terrains, perches and hideouts. This all new downloadable content also comes with a new collection of Achievements for those that want to try their hand at kills and escapes that are as impressive as they are effective. Journey to the majestic holy city of Jerusalem, the opulent Imperial District of Constantinople, and the colorful mercantile district of Dyers. Revisit your favorite Italian Renaissance maps from Assassin's Creed Brotherhood, starting with the historic city of Firenze, traveling to the mountain sides of San Donato, and to night time Siena with its carnival lights, talented performers and deadly hiding spots. Give all your multiplayer characters some personal style with bonus multiplayer customization items, also included in the pack."
+			},
+			{
+				"id":3,
+				"name":"The Lost Archive",
+				"releaseDate":"2012/02/28",
+				"achievements":250,
+				"type":0,
+				"synopsis":"Explore the mysterious pasts of Subject 16 and Lucy Stillman in 2 hours of all-new single player content, using the innovative narration style and puzzle-platforming gameplay pioneered in Assassin's Creed Revelations' present-day Desmond sequences. Download The Lost Archive and unlock new features: - New single player features: 3 skins (Ezio Turkish Assassin Armour, Alta&iuml;r robe and the Armour of Brutus) + Capacity upgrades (Gun, Crossbow and Bomb capacities) + 1 additional mission: \"Vlad the Impaler Prison\" - New multiplayer features: 3 characters (The Crusader, Ottoman Jester and Ottoman Doctor)"
+			}],
+			"links":[
+			{
+				"type":"Cinematic Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=HMsbMK9Odoc"
+			},
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SK2aGst1s-M"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6kmulGwfHrc"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=bI8Yc6QMk6c"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=fNr0OR24BJM"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/628358-assassins-creed-revelations/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Assassins-Creed-Revelations/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/assassins-creed-revelations/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/assassins-creed-revelations"
+			},
+			{
+				"type":"Wiki",
+				"site":"Assassin's Creed Wiki",
+				"url":"http://assassinscreed.wikia.com/wiki/Assassin's_Creed:_Revelations"
+			}]
+		}
+	},
+	{
+		"id":1098,
+		"details":
+		{
+			"developer":["Papaya Studios"],
+			"synopsis":"Mysterious forces are at work when worlds collide as 26 of the biggest Cartoon Network characters battle one another in this all-star brawler! This XL version of the fast-paced fighting game features iconic locations and an all-star cast of fan-favorites recruited from Cartoon Network's most popular television series including: Ben 10, Samurai Jack, Johnny Bravo, The Powerpuff Girls and Dexter's Laboratory. The all-new brawler video game with 26 playable characters, including eight new characters, gives players the power to duke it out with their friends for cartoon supremacy.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=r19kPaRYpk4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Dc_nDI7IubM"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cartoon-Network-Punch-Time-Explosion/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/cartoon-network-punch-time-explosion/guide/"
+			}]
+		}
+	},
+	{
+		"id":1099,
+		"details":
+		{
+			"developer":["High Impact Games"],
+			"synopsis":"DreamWorks Super Star Kartz brings together everyone's favorite DreamWorks Animation characters and locations as they compete in some of the zaniest racing challenges ever. Playing as famous faces from Shrek, Madagascar, How To Train Your Dragon and Monsters Vs. Aliens, gamers compete to be the first to cross the finish line. Speed, jump, power-up and boost through wacky, wild and wondrous kart courses. Amazing stunts, awesome tricks and unique weaponry lets players outrace and outwit their opponents all while enjoying hilarious commentary by King Julien, the game's announcer. Racers can put the pedal to the metal with multiple game modes including Battle, Circuit and Time Trial. Friends are invited to compete against each other in up to four player split screen challenges.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ePbe9HAUeSw"
+			},
+			{
+				"type":"Gameplay 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5vUy2pEya70"
+			},
+			{
+				"type":"Gameplay 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=wqID-jv1hJA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/DreamWorks-Kartz/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/dreamworks-super-star-kartz/guide/"
+			}]
+		}
+	},
+	{
+		"id":1100,
+		"details":
+		{
+			"developer":["Saber Interactive", "343 Industries"],
+			"synopsis":"Halo: Combat Evolved Anniversary immerses you in the landmark campaign and genre-defining multiplayer game that helped revolutionize the first-person shooter genre and sparked one of the most iconic science-fiction universes of all time. With a bounty of new features including cooperative play over Xbox Live, a bundle of some of the most beloved multiplayer maps in Halo history reimagined for Xbox Live, new challenges and a new story to uncover, Halo Anniversary compels you to return to return once more to the ringworld of Halo.<br><br>As a member of an elite military force, you must fight to defend the Earth from alien aggressors on the ancient alien artifact known as Halo. You must fight your way through Halo's mountainous terrain and underground labyrinth to discover the secrets of the mysterious world, and protect the human race. Escaping Halo with your life requires a cunning wit and a major arsenal of weapons.<br><br>Switch between foot-based fighting and vehicle-based attacks, where you can pilot flyers, tanks, or buggies, or man the guns while another squad member drives. Multiplayer action in Halo: Combat Evolved gives players the option of co-op missions or free-for-all shootouts.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=eOjED8my8iA"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=U95yDEhEUl8"
+			},
+			{
+				"type":"Trailer 3",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=irNVUe8PIM8"
+			},
+			{
+				"type":"Trailer 4",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Cq6qUB1kORk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ecIbh9CtYrs"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/632871-halo-combat-evolved-anniversary/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Halo-Anniversary/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/halo-ce-anniversary/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/halo-combat-evolved-anniversary"
+			},
+			{
+				"type":"Wiki",
+				"site":"Halo Nation",
+				"url":"http://halo.wikia.com/wiki/Halo:_Combat_Evolved_Anniversary"
+			},
+			{
+				"type":"Wiki",
+				"site":"Halopedia",
+				"url":"http://www.halopedia.org/Halo:_Combat_Evolved_Anniversary"
+			}]
+		}
+	}]
+}

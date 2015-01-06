@@ -1,0 +1,113 @@
+<manifest 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xboxcollectorsplace"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="15"/>
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <application
+        android:name="com.xboxcollectorsplace.App"
+        android:icon="@drawable/launcher_icon"
+        android:logo="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.TitleScreenActivity"
+            android:theme="@style/XboxActionBarTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.CollectionActivity"
+            android:theme="@style/XboxActionBarTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+       
+        <activity
+            android:name="com.xboxcollectorsplace.ui.CatalogActivity"
+            android:theme="@style/XboxActionBarTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.GameDetailActivity"
+            android:theme="@style/XboxActionBarTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.PhotoGalleryActivity"
+            android:theme="@style/XboxActionBarTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.ConfigActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+                
+        <activity
+            android:name="com.xboxcollectorsplace.ui.SummaryActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.FilterSortActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.EditAchievementsActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.EditPhotoTitleActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.SynopsisDetailActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.GoToActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <activity
+            android:name="com.xboxcollectorsplace.ui.FileSelectorActivity"
+            android:theme="@style/AppWindowTheme"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        
+        <service android:name="bl.extension.XboxDownloaderService"/>
+        <receiver android:name="bl.extension.XboxAlarmReceiver"/>
+        
+    </application>
+
+</manifest>

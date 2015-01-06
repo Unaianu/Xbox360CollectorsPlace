@@ -1,0 +1,4319 @@
+{
+	"catalog": [
+	{
+		"id":501,
+		"details":
+		{
+			"developer":["Lionhead Studios"],
+			"synopsis":"Fable Heroes is a fresh spin on the beloved Fable franchise in which up to four players play both cooperatively and competitively in this hack-and-slash adventure. Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Xbox 360.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=X6Vy0i284no"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=fitHm54lHfE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Fable-Heroes/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/fable-heroes/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/fable-heroes"
+			},
+			{
+				"type":"Wiki",
+				"site":"Fable Wiki",
+				"url":"http://fable.wikia.com/wiki/Fable_Heroes"
+			}]
+		}
+	},
+	{
+		"id":502,
+		"details":
+		{
+			"developer":["Mojang", "4JStudios"],
+			"synopsis":"The infinite possibilities in Minecraft just got bigger. Minecraft: Xbox 360 Edition brings the global phenomenon to console gamers for the first time. Minecraft let's you create worlds from the comfort of your sofa. Play alone or play with your friends. Explore, build and conquer! At night monsters come out, so make sure to build a shelter before that happens. After that, your world is your imagination!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Skin Pack 1",
+				"releaseDate":"2012/07/16",
+				"type":2,
+				"synopsis":"Customize your character with this selection of stunning skins!"
+			},
+			{
+				"id":2,
+				"name":"Skin Pack 2",
+				"releaseDate":"2012/08/24",
+				"type":2,
+				"synopsis":"Customize your Minecraft character with this 2nd selection of stunning skins!"
+			},
+			{
+				"id":3,
+				"name":"Skin Pack 3",
+				"releaseDate":"2012/10/17",
+				"type":2,
+				"synopsis":"Here's the third superb pack of skins for you to customise your Minecraft character with! It's been specially created for your enjoyment by renowned pixel artist \"Army of Trolls\"."
+			},
+			{
+				"id":4,
+				"name":"Festive Skin Pack",
+				"releaseDate":"2012/12/19",
+				"type":2,
+				"synopsis":"Here's a fab mini pack of 24 skins to customize your Minecraft character with, and get you in the mood for the holidays"
+			},
+			{
+				"id":5,
+				"name":"Skin Pack 4",
+				"releaseDate":"2013/03/13",
+				"type":2,
+				"synopsis":"This fourth skin pack brings you a fresh bunch of exciting skins for you to customise your Minecraft character with!"
+			},
+			{
+				"id":6,
+				"name":"Battle & Beasts Skin Pack",
+				"releaseDate":"2013/05/08",
+				"type":2,
+				"synopsis":"By popular demand, Warriors and Animals are the main flavours for this Skin Pack. Hope you enjoy customising your Minecraft character with these!"
+			},
+			{
+				"id":7,
+				"name":"Skin Pack 5",
+				"releaseDate":"2013/07/31",
+				"type":2,
+				"synopsis":"Dress up as your favorite Minecraft characters from this striking 5th collection."
+			},
+			{
+				"id":8,
+				"name":"Mass Effect Mash-up",
+				"releaseDate":"2013/09/04",
+				"type":2,
+				"synopsis":"Shape the fate of your Minecraft galaxy with this amazing Mass Effect Mash-up pack: includes thirty-six Mass Effect character skins, all-new Mass Effect inspired game textures, Mass Effect themed menus, a world featuring the Mars Base Camp and a Mass Effect 3 soundtrack compilation to set the mood."
+			},
+			{
+				"id":9,
+				"name":"Plastic Texture Pack",
+				"releaseDate":"2013/10/02",
+				"type":2,
+				"synopsis":"Simple, colourful and vibrant. Transform the look of your worlds with this incredible texture set for your Minecraft game."
+			},
+			{
+				"id":10,
+				"name":"Battle & Beasts 2 Skin Pack",
+				"releaseDate":"2013/10/09",
+				"type":2,
+				"synopsis":"This second Battle & Beasts pack brings you more Animals, more Warrior and some surprising Mammals too! I am the Walrus!!"
+			},
+			{
+				"id":11,
+				"name":"Natural Texture Pack",
+				"releaseDate":"2013/10/18",
+				"type":2,
+				"synopsis":"The beautiful Natural texture pack, designed to give your Minecraft worlds a more natural look."
+			},
+			{
+				"id":12,
+				"name":"Skyrim Mash-up",
+				"releaseDate":"2013/11/20",
+				"type":2,
+				"synopsis":"The Elder Scrolls V: Skyrim meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Skyrim and experience adventure with many of its most iconic characters. Legendary fun awaits."
+			},
+			{
+				"id":13,
+				"name":"Fantasy Texture Pack",
+				"releaseDate":"2013/12/11",
+				"type":2,
+				"synopsis":"Presenting the Fantasy texture pack. Let your imagination run free, transport yourselves to a time where Knights were heroes and legends were born. Why not create your own medieval empire?"
+			},
+			{
+				"id":14,
+				"name":"Marvel Avengers Skin Pack",
+				"releaseDate":"2013/12/23",
+				"type":2,
+				"synopsis":"Step into Minecraft dressed as one of Earth's Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel's Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe."
+			},
+			{
+				"id":15,
+				"name":"City Texture Pack",
+				"releaseDate":"2014/03/07",
+				"type":2,
+				"synopsis":"A creative texture set, ideal for building structures. Free your inner architect and shape the world around you. The perfect set for the focused builder."
+			},
+			{
+				"id":16,
+				"name":"Candy Texture Pack",
+				"releaseDate":"2014/04/15",
+				"type":2,
+				"synopsis":"Indulge your sweet tooth with this sugar-coated texture pack!"
+			},
+			{
+				"id":17,
+				"name":"Marvel Spider-Man Skin Pack",
+				"releaseDate":"2014/04/30",
+				"type":2,
+				"synopsis":"Look out! Here comes the Spider-Man Skin Pack! Featuring an assortment of 35 friends and foes straight from the saga of your favorite Wall-Crawler, this pack is sure to amaze. Catch it now!"
+			},
+			{
+				"id":18,
+				"name":"Halo Mash-up",
+				"releaseDate":"2014/05/28",
+				"type":2,
+				"synopsis":"Two of the greatest games ever come together on Xbox. Welcome to the Minecraft Halo Mash-up Pack, which includes new Skins, new Textures, classic Halo music, and an amazing Halo world filled with iconic moments to explore."
+			},
+			{
+				"id":19,
+				"name":"Cartoon Texture Pack",
+				"releaseDate":"2014/06/25",
+				"type":2,
+				"synopsis":"A Minecraft texture pack to surprise and amuse you. Even the spiders are happy!"
+			},
+			{
+				"id":20,
+				"name":"Skin Pack 6",
+				"releaseDate":"2014/06/25",
+				"type":2,
+				"synopsis":"A cool assortment of amazing characters is ready for you in this wonderful 6th collection. Don't miss out!"
+			},
+			{
+				"id":21,
+				"name":"Marvel Guardians of the Galaxy Skin Pack",
+				"releaseDate":"2014/08/01",
+				"type":2,
+				"synopsis":"Join Marvel's Guardians of the Galaxy in the most cosmic Marvel skin pack for for Minecraft yet! Star-Lord, Gamora, Rocket, Groot and Drax are only part of the pack of 24 skins inspired both by Marvel's blockbuster film and the comic books."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=WdsEGZvd6z4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=C-V5aTT5jcc"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/632873-minecraft-xbox-360-edition/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Minecraft/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/minecraft/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/minecraft-xbox-360-edition"
+			},
+			{
+				"type":"Wiki",
+				"site":"Minecraft Wiki",
+				"url":"http://minecraft.gamepedia.com/Minecraft_Wiki"
+			}]
+		}
+	},
+	{
+		"id":503,
+		"details":
+		{
+			"developer":["Zivix", "Frima Studios"],
+			"synopsis":"Get ready to experience and create music in an entirely new way! Jam Live Music Arcade gives you the freedom to become the DJ, producer and the band leader for total creative access in a live music sandbox. Allowing players to take on the role of lead guitarist, bassist, drummer, singer and synth player, Jam Live Music Arcade provides a deeper connection to the music through jamming, improvisation and exploration rather than all the emphasis being on the high score. Just grab any one of the plastic guitar peripherals most gamers have lying around (or your standard game pad) and you're ready to kick off a music gaming experience unlike any other.<br><br>Jam Live Music Arcade offers a new approach to the music genre with a real-time live music sandbox that allows the player to immediately build and customize their very own tunes. Starting with any one of the 30+ licensed songs featured in the game (including hits from Modest Mouse, Fallout Boy, Fatboy Slim, Rise Against, Atmosphere and more), you get to jam with and remix all aspects of the song -- guitar, bass, drums, synth and vocals -- to experiment with the song and re-create it to their own personality.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"\"I Love To Loop\" by Heatbox",
+				"releaseDate":"2012/09/05",
+				"type":9,
+				"synopsis":"\"I Love To Loop\" by Heatbox A fun beatbox mix full of organic sounds all generated from a human voice produced from the ground up for JAM Live Music Arcade"
+			},
+			{
+				"id":2,
+				"name":"\"Overdrive\" by Jaytech",
+				"releaseDate":"2012/09/05",
+				"type":9,
+				"synopsis":"\"Overdrive\" by Jaytech Featured on Above & Beyond's 'Anjunabeats Volume 9' compilation released in 2011."
+			},
+			{
+				"id":3,
+				"name":"\"Savior\" by Rise Against",
+				"releaseDate":"2012/09/05",
+				"type":9,
+				"synopsis":"\"Savior\" by Rise Against. The third single from Rise Against's seminal 2008 \"Appeal To Reason\" album."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=on_Ml7SOABE"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=y9mN6Vb61SA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Jam-Live-Music-Arcade/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/jam-live-music-arcade"
+			}]
+		}
+	},
+	{
+		"id":504,
+		"details":
+		{
+			"developer":["Sonic Team", "Dimps"],
+			"synopsis":"Available exclusively via download, Sonic the Hedgehog 4 Episode II continues the addictive side scrolling action that Sonic fans love in an all-new 2D adventure. Sonic the Hedgehog 4: Episode II comes complete with a totally reworked physics engine and all-new character animations as it expands the Sonic 4 storyline with new areas to speed through and new challenges to face.<br><br>Following the events of Episode I, Metal Sonic has returned to form a formidable alliance with Dr. Eggman! To face this new threat, Sonic will have to call upon an old friend to help him save the day! Joined by Tails, utilize ingenious combination moves and race across four brand new Zones, in order to put an end to their evil plans!<br><br>Play alone, or with a friend locally (and online), in an evolution of Sonic 2's collaborative gameplay! Unleash Sonic and Tails' devastating joint attacks and combination moves as you race through four unique Zones and a new Special Stage to fight the united force of Metal Sonic and Dr. Eggman.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=DHvOK2BIZ5w"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=BYWFyCiJlhI"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/623294-sonic-the-hedgehog-4-episode-ii/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Sonic-the-Hedgehog-4-Episode-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/sonic-the-hedgehog-4-episode-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sonic-the-hedgehog-4-episode-ii"
+			},
+			{
+				"type":"Wiki",
+				"site":"Sonic News Network",
+				"url":"http://sonic.wikia.com/wiki/Sonic_the_Hedgehog_4:_Episode_II"
+			}]
+		}
+	},
+	{
+		"id":505,
+		"details":
+		{
+			"developer":["BigPark Inc."],
+			"synopsis":"Jump back behind the wheel of this wild racing game series in this controller-based sequel featuring a Stunt Park to play around in and a wealth of new and classic tracks to race on against CPU challengers and friends on the couch or online. In the new Stunt Park, you're free to show off! There's no limit to the whacky tour de force you achieve with friends. It's a vibrant playground for your car -- jump off cliffs, shoot from a cannon, & more. Plus, explore and find collectibles that unlock cars -- giving you an edge for faster races and death-defying tricks. Race new tracks, old favorites and 3 modes of play: Battle Race, Pro Race & Time Trial. Challenge family & friends to local four-player split-screen or race up to eight on Xbox LIVE. With Joy Ride Turbo, everyone's in the driver's seat in this madcap kart racer.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xfzHKgqmOi4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=I4xUFEo7iLk"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/671043-joy-ride-turbo/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Joy-Ride-Turbo/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/joy-ride-turbo/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/joy-ride-turbo"
+			}]
+		}
+	},
+	{
+		"id":506,
+		"details":
+		{
+			"developer":["M2"],
+			"synopsis":"Experience a blast from past with this collection of classic Sega titles! Save kingdoms, shatter time trials, and destroy evil in Alex Kidd in Miracle World, Super Hang-on, and The Revenge of Shinobi! Now available on Xbox LIVE, Alex Kidd & Company have been updated with all new achievements, challenging new trial modes, and other goodies like recordable and downloadable game sessions, 3D mode in Super Hang-on, in game juke boxes, and the original Japanese dialogue.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=T-_mrtNFyzI"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/671550-sega-vintage-collection-alex-kidd-and-co/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SEGA-Vintage-Collection-Alex-Kidd-and-Co/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/svc-alex-kidd-and-co/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sega-vintage-collection-alex-kidd-co"
+			}]
+		}
+	},
+	{
+		"id":507,
+		"details":
+		{
+			"developer":["M2"],
+			"synopsis":"Bring peace back to Monster World in these three classic action RPG titles: Wonder Boy in Monster Land, Wonder Boy in Monster World, and for the first time outside of Japan, Monster World IV! This downloadable version of the Monster World saga features all new achievements, challenging new trial modes, leaderboards, and recordable and downloadable game sessions!",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=RJSREdyrOQY"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/635368-sega-vintage-collection-monster-world/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Monster-World-Collection/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/svc-monster-world/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sega-vintage-collection-monster-world"
+			}]
+		}
+	},
+	{
+		"id":508,
+		"details":
+		{
+			"developer":["Techland"],
+			"synopsis":"Mad Riders is an adrenaline-fueled off-road arcade racing game. Perform aerial stunts, use your boost wisely, and open shortcuts to dominate your friends on 45 tracks in stunning tropical locations across the globe. Mad Riders' breathtaking speed and accessible gameplay allow players of all skills to instantly pick up on the fun, while the competitive multiplayer and customization options will keep them coming back. This is the ultimate off-road racing experience for thrill seekers and fans of wheel-to-wheel action!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Zambia Pack",
+				"releaseDate":"2012/06/26",
+				"achievements":50,
+				"type":8,
+				"synopsis":"The Mad Riders are back for more action, this time in Africa ! Compete in two exclusive championships across Zambia to unlock new vehicles and defy your friends online in 10 exotic races."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=QV7A1CxMtZQ"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3e68HJ4Wk3w"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mad-Riders/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/mad-riders/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/mad-riders"
+			}]
+		}
+	},
+	{
+		"id":509,
+		"details":
+		{
+			"developer":["M2"],
+			"synopsis":"Grab your axe, swords, and mythic steeds to fight against evil in all three classic Golden Axe entries! Originally released for the Sega Genesis, the classic fantasy brawler series has now been updated for release on Xbox LIVE Arcade! Earn all new achievements, take on challenging new game trials, compete with others players across Xbox LIVE Leaderboards, and take on the forces of evil with a friend in two player local and online co-op!",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=HldtrO4kkf8"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/671549-sega-vintage-collection-golden-axe/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SEGA-Vintage-Collection-Golden-Axe/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/svc-golden-axe/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sega-vintage-collection-golden-axe"
+			}]
+		}
+	},
+	{
+		"id":510,
+		"details":
+		{
+			"developer":["M2"],
+			"synopsis":"Join Axel, Blaze, and company as they battle the evil Mr. X across all three Streets of Rage games. Originally released for the Sega Genesis, the classic brawler series has now been updated for release on Xbox LIVE Arcade! Earn all new achievements, take on challenging new game trials, compete with others players across Xbox LIVE Leaderboards, and clean up the streets with a friend in two player local and online co-op!",
+			"links":[
+			{
+				"type":"Gameplay (Streets of Rage 1)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Gumn0xffKKs"
+			},
+			{
+				"type":"Gameplay (Streets of Rage 2)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=paMVjEfnuFA&list=PLO0ha591rELYEmMxMNhVZcnn-KlfxeFr4"
+			},
+			{
+				"type":"Gameplay (Streets of Rage 3)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=2mjsDH7UVbo"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/671548-sega-vintage-collection-streets-of-rage/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SEGA-Vintage-Collection-Streets-of-Rage/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/svc-streets-of-rage/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sega-vintage-collection-streets-of-rage"
+			},
+			{
+				"type":"Wiki",
+				"site":"Streets of Rage Wiki",
+				"url":"http://streetsofrage.wikia.com/wiki/Streets_of_Rage_Wiki"
+			}]
+		}
+	},
+	{
+		"id":511,
+		"details":
+		{
+			"developer":["Digital Reality", "Playbox"],
+			"synopsis":"Bang Bang Racing is an arcade-style racing game focused not only on the speed but also on the technical driving skills. The intuitive control system and the exciting tracks provide endless fun for everyone in the family.<br><br>This racer delivers fast-paced racing around every corner and down every straight. Drive high-speed, pumped-up racing cars through cones, tires and exploding barrels! Be one step ahead of your competitors, finding shortcuts, repairing your car in the pitlane, and dominating your opponents from the top-down view.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=v688cUB3hrY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=XrwFV1mj6iE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Bang-Bang-Racing/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/bang-bang-racing/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/bang-bang-racing"
+			}]
+		}
+	},
+	{
+		"id":512,
+		"details":
+		{
+			"developer":["SEGA"],
+			"synopsis":"The fifth entry in SEGA's advanced, realistic fighting game series. Once again, the realtime level of visual detail and character animation has been upped to the most advanced levels, with next-generation lighting and detail on the fighters and environments. Players will be able to customize their characters by selecting from various patterned costumes and a wide range of attachable items that can be placed onto each fighter's various body parts. Players will not only achieve victory by defeating highly-skilled opponents, but will also compete for prizes and earn in-game money through the match to buy many items at an in-game shop.<br><br>Virtua Fighter 5 Final Showdown contains a full overhaul of Virtua Fighter 5's mechanics, balance and animations, along with new game modes, new dynamic fighting arenas, a massive collection of customizable character items and new characters.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Customisation Pack Bundle 1",
+				"releaseDate":"2012/06/06",
+				"type":2,
+				"synopsis":"The items in this Customisation Pack Bundle are also available as individual character Customisation Pack. Please be careful not to purchase the same contents twice. This bundle includes items for 9 characters; Akira, Sarah, Kage, Wolf, Lion, Aoi, Brad, El Blaze and Jean! Once downloaded, the items can be accessed via the TERMINAL menu."
+			},
+			{
+				"id":2,
+				"name":"Customisation Pack Bundle 2",
+				"releaseDate":"2012/06/06",
+				"type":2,
+				"synopsis":"The items in this Customisation Pack Bundle are also available as individual character Customisation Pack. Please be careful not to purchase the same contents twice. This bundle includes customisation items for 10 characters; Pai, Lau, Jacky, Jeffry, Shun, Lei-Fei, Vanessa, Goh, Eileen and T-Arashi! Once downloaded, the items can be accessed via the TERMINAL menu."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hGNMcif9RjA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=88nD2fzhZE0"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Virtua-Fighter-5-Final-Showdown/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/virtua-fighter-5-final-showdown/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/virtua-fighter-5-final-showdown"
+			},
+			{
+				"type":"Wiki",
+				"site":"Virtua Fighter Wiki",
+				"url":"http://virtuafighter.wikia.com/wiki/Virtua_Fighter_5_Final_Showdown"
+			}]
+		}
+	},
+	{
+		"id":513,
+		"details":
+		{
+			"developer":["Stainless Games"],
+			"synopsis":"Face a greater challenge with Magic: The Gathering - Duels of the Planeswalkers 2013!<br><br>In this version of this hit franchise, play with friends or the AI as you travel across fantastic planes, take on new encounters and opponents, solve challenging puzzles, and face up to three other players in the Planechase multiplayer format. After honing your skills, pit yourself against the ultimate villain of the Multiverse, the dragon Planeswalker Nicol Bolas.<br><br>Featuring ten customizable decks, Magic: The Gathering -- Duels of the Planeswalkers 2013 offers new features including individual records for your game play, new game items to unlock, and, for those already skilled in slinging spells, the option to choose what lands to tap when you cast your spells.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Expansion",
+				"releaseDate":"2012/09/19",
+				"achievements":50,
+				"type":0,
+				"synopsis":"In the Duels of the Planeswalkers 2013 Expansion enjoy five additional playable decks whose colors correspond to the guilds in Return to Ravnica, and additional elements including five more puzzling challenges and ten more single-player campaign levels. Put your spell-slinging skills to the test and try to defeat the guilds to unlock their new decks!"
+			},
+			{
+				"id":2,
+				"name":"Deck Pack 1: Act of War & Sky and Scale",
+				"releaseDate":"2012/11/07",
+				"type":2,
+				"synopsis":"This Duels of the Planeswalkers 2013 deck pack includes two brand-new decks for Campaign and Multiplayer play. With the red and white \"Act of War\" deck, your heroes will cut a path to the enemy's door. If they stumble, cast tide-turning spells to light their way. The green and blue \"Sky and Scale\" starts slow and steady but wins by summoning titanic flying creatures to end your foes' hopes. Hold your ground and rule the skies."
+			},
+			{
+				"id":3,
+				"name":"Deck Pack 2: Grim Procession & Berserker Rage",
+				"releaseDate":"2012/12/05",
+				"type":2,
+				"synopsis":"This Duels of the Planeswalkers 2013 deck pack includes two brand-new decks for Campaign and Multiplayer play. Wield the spirits, shades, and life-sapping magic in the white and black \"Grim Procession\" deck to show opponents that their defeat is inevitable. The end is nigh! Surge to victory with the red and green \"Berserker Rage\" deck. Summon formidable monsters, and when opponents let their guard down, use might magic to double their size!"
+			},
+			{
+				"id":4,
+				"name":"Deck Pack 3: Mana Mastery & Rogues' Gallery",
+				"releaseDate":"2013/01/09",
+				"type":2,
+				"synopsis":"This Duels of the Planeswalkers 2013 deck pack includes two brand-new decks for Campaign and Multiplayer play. The blue and black \"Rogues' Gallery\" deck disrupts your enemies' plans with spells, then summons stealthy mages and shadowy undead to deliver the killing blows. Wield all five colors of magic with the \"Mana Mastery\" deck. A pentacolor array of spells will help you keep the battlefield clear while you set the stage for towering, indomitable creatures!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jhVxsN8yUzo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=VUT6mHXC4qA"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/671863-magic-the-gathering-duels-of-the-planeswalkers/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Magic-The-Gathering-Duels-of-the-Planeswalkers-2013/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/magic-2013/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/magic-the-gathering---duels-of-the-planeswalkers-2013"
+			},
+			{
+				"type":"Wiki",
+				"site":"MTG Salvation",
+				"url":"http://mtgsalvation.gamepedia.com/Duels_of_the_Planeswalkers_2013"
+			},
+			{
+				"type":"Magic The Gathering Wiki",
+				"site":"Magic Wiki",
+				"url":"http://mtg.wikia.com/wiki/Magic:_The_Gathering_Wiki"
+			}]
+		}
+	},
+	{
+		"id":514,
+		"details":
+		{
+			"developer":["2XL Games"],
+			"synopsis":"In Jeremy McGrath's Offroad, players race four-wheeled 800 horsepower off road race trucks with tons of options including a host of tracks, single-player and multiplayer modes as well as a wide loadout of vehicle classes including Rally Cars, Pro Buggies, and Trophylite Trucks, all in crispy 1080p, 60 frames per second presentation. With multiplayer support for eight racers and a full career mode, Jeremy McGrath's Offroad will be the title for racing fans who want to get down and dirty on the track!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=XyDlbKaDBgQ"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=DSdx54PyGUg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Jeremy-McGraths-Offroad/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/jeremy-mcgraths-offroad/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/jeremy-mcgraths-offroad"
+			}]
+		}
+	},
+	{
+		"id":515,
+		"details":
+		{
+			"developer":["Kung Fu Factory"],
+			"synopsis":"Tape up for a fight to the title in Bellator: MMA Onslaught! Designed specifically to emphasize the organization's philosophy that, \"Title shots are earned, not given\", this game lets players go toe to toe with some of the top Bellator fighters as they compete in authentic Bellator events. Fight for the title shot through eight-fighter elimination tournaments within your weight class. In-depth customization systems let you design your fighter from his technique style and move set down to his tattoos and look, while a robust leveling system replicates the path of a fighter with class and experience gained through matches both offline and online.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Scouting Report",
+				"releaseDate":"2012/07/31",
+				"type":7,
+				"synopsis":"Receive opponent's advance stats to gain the edge before online matches: -Percentage of skills unlocked for each category -Fighter level -Active boosts -Specific stats about each win and loss (Strike KO's, Throw KO's, Submissions, Decisions)"
+			},
+			{
+				"id":2,
+				"name":"Muay Thai Style Pack",
+				"releaseDate":"2013/07/02",
+				"type":2,
+				"synopsis":"The Muay Thai style pack offers a new dynamic fighting style based on the ancient combat art of Muay Thai. Build a new Created Fighter with this style and unleash devastating Muay Thai combos. Bring the pain inside a new arena inspired by classic Muay Thai training gyms."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Et0FjCPh1Bk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3_WCI-2q6uk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Bellator-MMA-Onslaught/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/bellator-mma-onslaught"
+			}]
+		}
+	},
+	{
+		"id":516,
+		"details":
+		{
+			"developer":["Mossmouth"],
+			"synopsis":"Spelunky is a cave exploration / treasure-hunting game inspired by classic platform games and roguelikes, where the goal is to grab as much treasure from the cave as possible. Every time you play the cave's layout will be different. Use your wits, your reflexes, and the items available to you to survive and go ever deeper! Perhaps at the end you may find what you're looking for...",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Arenas DLC",
+				"releaseDate":"2013/02/20",
+				"type":1,
+				"synopsis":"Can't get enough of Spelunky's fast-paced Deathmatch Mode? The Arenas DLC reveals 24 new arenas to battle your friends in! These chaotic death traps offer up all kinds of devious ways to kill or be killed, from sacrificial altars to perilous bee hives. Will anyone survive?"
+			},
+			{
+				"id":2,
+				"name":"Explorers DLC",
+				"releaseDate":"2013/02/20",
+				"type":2,
+				"synopsis":"8 adventurous new souls have entered the caves seeking excitement and treasure! The Explorers DLC adds the Eskimo, the Robot, the Viking, the Round Girl, the Round Boy, the Cyclops, the Ninja, and the Golden Monk to Spelunky's lovable cast. These characters can be selected in both Adventure Mode and Deathmatch Mode."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Reh9KRQ4trs"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=9O0Zpkb8Gq8"
+			},
+			{
+				"type":"Speedrun (0:03:01)",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3kv0q9w4Qts"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/995285-spelunky/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Spelunky/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/spelunky/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/spelunky"
+			},
+			{
+				"type":"Wiki",
+				"site":"Spelunky Wiki",
+				"url":"http://spelunky.wikia.com/wiki/Spelunky_Wiki"
+			}]
+		}
+	},
+	{
+		"id":517,
+		"details":
+		{
+			"developer":["Zombie Studios"],
+			"synopsis":"Frogger's coin-op thrills are back and better than ever in Frogger: Hyper Arcade Edition! The arcade excitement of Frogger returns in time for its 30th anniversary celebrations with updates that are sure to delight fans old and new.<br><br>Players can jump into the action with classic and brand-new game modes like Tile Capture, Battle Royale, Freak Out and more that expand the challenge of Frogger's style of run-and-dodge gameplay. Players can even customize their game experience through a variety of different skins, from the modern neon style of Hyper Arcade to the 8-bit sprites from Frogger, Castlevania and even Contra! Competitive types can also throw down against friends or the CPU in up to 4 player matches to find out who's really the top frog!",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=XY9s0KQuxuY"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Frogger-Hyper-Arcade-Edition/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/frogger-hyper-arcade-edition"
+			}]
+		}
+	},
+	{
+		"id":518,
+		"details":
+		{
+			"developer":["Airtight Games"],
+			"synopsis":"In the first-person puzzle platformer Quantum Conundrum , players must use the unusual ability to shift dimensions to navigate the twisting corridors of Quadwrangle Manor. Players take on the role of a young kid dropped off on his uncle's doorstep for the weekend; his uncle just so happens to be the brilliant, eccentric inventor, Professor Fitz Quadwrangle. Upon entering the Professor's vast manor home retrofitted with crazy technology to test his latest hypotheses, players quickly realize their uncle has gone missing. Fortunately, players soon gain access to Professor Quadwrangle's latest invention, the Inter-Dimensional Shift Device, which, at the press of a button, will shift the world around them to an entirely new dimension. In order to find him, players must use the newly found IDS Device to dynamically change the world to and from a variety of different dimensions to progress through the complicated Quadwrangle Manor. While on the journey, becoming adept at utilizing the various dimensions will help them trek from one bizarre and challenging room to the next. It might sound easy enough, but it is a tall order for a kid in a giant puzzle of a manor!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"The Desmond Debacle",
+				"releaseDate":"2012/08/15",
+				"achievements":100,
+				"type":0,
+				"synopsis":"Power up your Inter-Dimensional Shift Device and get ready for a brand new adventure in an unexplored wing of Quadwrangle Manor. Experience Desmond, the drinking bird, as you've never seen him before in even more brain twisting and complex puzzles! The Desmond Debacle provides hours of inter-dimensional puzzle solving. Download it today!"
+			},
+			{
+				"id":2,
+				"name":"IKE-aramba!",
+				"releaseDate":"2012/09/12",
+				"achievements":100,
+				"type":0,
+				"synopsis":"Just when you thought you were done with rescue duty, it's up to you to save Ike! In this all-new adventure, rescue Ike and leap seemingly endless chasms as you travel through an all-new wing of Quadwrangle Manor. More puzzling challenges await, so download this puzzle pack today!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5pG0eeeuYdU"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=wt2C--z5FXI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Quantum-Conundrum/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/quantum-conundrum/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/quantum-conundrum"
+			},
+			{
+				"type":"Wiki",
+				"site":"Quantum Conondrum Wiki",
+				"url":"http://quantumconundrum.wikia.com/wiki/Quantum_Conundrum_Wiki"
+			}]
+		}
+	},
+	{
+		"id":519,
+		"details":
+		{
+			"developer":["PopCap Games"],
+			"synopsis":"Enter an all-new world of Zuma where evil tiki bosses rule the land! Conquer over 60 ribbeting levels by firing stone spheres to make matches and destroy the deadly stream of balls, then take on six tiki boss battles and guide your agile amphibian to victory.<br><br>The sequel to Zuma features all the fun of the original hit game, plus new power-ups, new agilities, high-definition graphics, and four game modes for hundreds of hours of fun.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=8kDOSIHgfe0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3a0xkl5Tyog"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Zumas-Revenge/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/zumas-revenge/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/zumas-revenge!"
+			}]
+		}
+	},
+	{
+		"id":520,
+		"details":
+		{
+			"developer":["Neople"],
+			"synopsis":"From the makers of Dungeon Fighter Online comes Dungeon Fighter Live: Fall of Hendon Myre, an Xbox Live Arcade action game featuring the original game's Slayer, Gunner, and Fighter character classes in intense, complex side-scrolling action encounters. Take on the role of three classic Dungeon Fighters to defend Hendon Myre from monsters spreading Phantasmalia. Customize your heroes by creating and enhancing gear, and deliver unique attacks by chaining and combining skills, all while playing with up to four players on the same console or via Xbox Live!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=li7XzMqXIwk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=LzdMfVnM4O4"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dungeon-Fighter-LIVE-Fall-of-Hendon-Myre/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/dungeon-fighter-online/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/dungeon-fighter-live-fall-of-hendon-myre"
+			}]
+		}
+	},
+	{
+		"id":521,
+		"details":
+		{
+			"developer":["Robomodo"],
+			"synopsis":"Tony Hawk's Pro Skater HD takes the best elements of the classic THPS games and gives them a fresh update to create an all new skateboarding experience. Tapping into fans' muscle memories, the gameplay in Tony Hawk's Pro Skater HD returns to controllers and focuses on the satisfaction of linking sick tricks for maximum points. Combining sharp visuals with the best controls ever in a Tony Hawk game, the feel is cutting edge yet timeless.<br><br>Beyond just bringing back classic skating memories, THPS HD gives skate fans something new with innovative game modes and online features. Hawkman mode makes its return, as players fly around levels collecting colored pellets before time runs out. Big Head Survival sticks players with a head that's constantly growing unless you perform tricks before it gets too big. And new PROjectives provide unique, harder objectives unlocked upon completing the game's originals. Online, get into modes such as Trick Attack (two minute scoring battles,) Graffiti mode (tag as many objects as possible by performing huge tricks on them,) Big Head Elimination (keep pulling tricks or your head will be first to pop), and Free Skate (just tool around the stages for fun with friends).",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Tony Hawk's Pro Skater 3 HD Revert Pack",
+				"releaseDate":"2012/12/05",
+				"type":0,
+				"synopsis":"Tony Hawk's Pro Skater 3 HD Revert Pack, the downloadable content for Tony Hawk's Pro Skater HD, expands on the game's winning formula with the inclusion of three levels from the original Tony Hawk's Pro Skater 3 (Airport, Los Angeles, and Canada). Skateboarding legends Steve Caballero and Geoff Rowley make their return to the world of Tony Hawk games and James Hetfield and Robert Trujillo from Metallica make a surprise appearance as playable characters. But perhaps most importantly for true fans, the Revert move makes it return for mindblowing combos!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=fXkW_FY1SMg"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=G2oR_MJO0y8"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/652996-tony-hawks-pro-skater-hd/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Tony-Hawks-Pro-Skater-HD/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/tony-hawks-pro-skater-hd/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/tony-hawks-pro-skater-hd"
+			},
+			{
+				"type":"Wiki",
+				"site":"Tony Hawk's Games Wiki",
+				"url":"http://tonyhawkgames.wikia.com/wiki/Tony_Hawk's_Pro_Skater_HD"
+			}]
+		}
+	},
+	{
+		"id":522,
+		"details":
+		{
+			"developer":["Tequila Works"],
+			"synopsis":"Surviving is much more than a daily routine in the original cinematic puzzle platformer Deadlight, where players cross the American west coast in an apocalyptic world where there is no reason to exist but no alternatives for those who cling to hope.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4vsIQQUh1m8"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SlNtO-76A00"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/657485-deadlight/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Deadlight/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/deadlight/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/deadlight"
+			}]
+		}
+	},
+	{
+		"id":523,
+		"details":
+		{
+			"developer":["5th Cell"],
+			"synopsis":"Hybrid is set in the post-apocalyptic year 2031, after an extinction-level asteroid collided with Earth wiping out billons. A single-celled alien bacterium buried deep within the asteroid spread into the atmosphere, infecting half of the survivors and turning them into the Variant, a genetically altered race. Six years later the Variant began a new world order and waged a massive global war against the immune populace, known as the Paladin.<br><br>Featuring a persistent online world war, Hybrid allows gamers to play online with friends and hundreds of thousands of other players across a single, unified world server. Players can choose a hero from one of two factions, the Variant or the Paladin, as they level up to unlock upgrades, abilities, armor, weapons, and more to aid their faction in capturing territories and countries, leading to global domination.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=dayuITbxA-E"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=mjO-LeSnfiw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Hybrid/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/hybrid/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/hybrid"
+			}]
+		}
+	},
+	{
+		"id":524,
+		"details":
+		{
+			"developer":["Humble Hearts"],
+			"synopsis":"Set in the beautiful yet mysterious world of Falana, Dust: An Elysian Tail is a 2D action-RPG game chronicling protagonist Dust's journey to liberate an oppressed village, and rediscover his past. He is aided by an ancient sword, Ahrah, and his helpful if unreserved sidekick, Fidget. Meticulously hand-animated and painted, this episode of Elysian Tail welcomes exploration, platforming, and above all else, mastery of a fighting system that rewards skilled gamers.<br><br>Featuring music by Alex Brandon and HyperDuck Studios.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=_MVaAZcxb54"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=0dXGMQOAfug"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/609388-dust-an-elysian-tail/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dust-An-Elysian-Tail/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/dust-an-elysian-tail/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/dust-an-elysian-tail"
+			},
+			{
+				"type":"Wiki",
+				"site":"Elysian Tail",
+				"url":"http://elysiantail.wikia.com/wiki/Dust:_An_Elysian_Tail"
+			}]
+		}
+	},
+	{
+		"id":525,
+		"details":
+		{
+			"developer":["ZootFly"],
+			"synopsis":"Control the ultimate elite mercenary force in The Expendables 2, a shooter based on the blockbuster action franchise. Play as one of four of the world's most legendary mercenaries -- Barney Ross, Gunner Jensen, Hale Caesar and Yin Yang -- on an adventure to rescue an extremely valuable, kidnapped billionaire. It's business as usual, until all hell breaks loose and the explosive mix of testosterone and kerosene detonates in a massive fireball that never lets up. The adventure concludes right where the new movie begins, creating a continuous story experience for fans of the Expendables' hard-boiled brand of action.<br><br>Players can join up to three friends locally and online to experience all-out action in cinematic, close-quarter combat or while controlling an arsenal of vehicles in exotic locations including Somalian deserts, Burmese jungles, and more, and fans looking to compete for bragging rights can play through several challenges for the top spots on leaderboards.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=RmQ7J3UZakk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=N-5dO7so8pg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/The-Expendables-2-Videogame/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/the-expendables-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/the-expendables-2-videogame"
+			},
+			{
+				"type":"Wiki",
+				"site":"Expendables Wiki",
+				"url":"http://expendables.wikia.com/wiki/The_Expendables_2_Game"
+			}]
+		}
+	},
+	{
+		"id":526,
+		"details":
+		{
+			"developer":["Valve", "Hidden Path Entertainment"],
+			"synopsis":"Counter-Strike: Global Offensive expands upon the team-based action gameplay that it pioneered with Half-Life: Counter-Strike. CS: GO features new maps, characters, and weapons, and delivers updated versions of the classic CS content. In addition, CS: GO introduces new gameplay modes, matchmaking, leader boards, and more.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=edYCtaNueQY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=s-zUD8I6E5c"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/639766-counter-strike-global-offensive/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/CounterStrike-Global-Offensive/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/counter-strike-global-offensive/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/counter-strike-global-offensive"
+			},
+			{
+				"type":"Wiki",
+				"site":"Counter-Strike Wiki",
+				"url":"http://counterstrike.wikia.com/wiki/Counter-Strike:_Global_Offensive"
+			}]
+		}
+	},
+	{
+		"id":527,
+		"details":
+		{
+			"developer":["Capcom"],
+			"synopsis":"Capcom's classic fighting game returns in this HD reincarnation of the crazy title from Japan. The HD version offers improvements on the original with HD graphic upgrades (with a toggle to switch back to the original presentation) and online multiplayer.<br><br>Based on the popular comic book series, JoJo's Bizarre Adventure HD is an arcade fighter that lets you duke it out with your favorite characters from the comics. JoJo must travel to Egypt to find a cure for his sick mother. Each fighting character has his or her own Stand, a guardian spirit that aids in the battle. Unlike mortal humans though, Stands can reanimate quickly after defeat, so use this to your advantage as you try to defeat the evil Dio and his minions.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KRja10q7K2I"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=0VoqdkykKMw"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/676744-jojos-bizarre-adventure-hd-ver/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/JoJos-Bizarre-Adventure-HD/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/jojos-bizarre-adventure-hd/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/jojos-bizarre-adventure-hd-ver"
+			},
+			{
+				"type":"Wiki",
+				"site":"JoJo's Bizarre Encylopedia",
+				"url":"http://jojo.wikia.com/wiki/Jojo's_Bizarre_Adventure_HD#JoJo.27s_Bizarre_Adventure_HD"
+			}]
+		}
+	},
+	{
+		"id":528,
+		"details":
+		{
+			"developer":["Harmonix"],
+			"synopsis":"Designed for use with a standard controller, Rock Band Blitz is beat-match gameplay evolved...no instrument peripherals required! Rock Band Blitz is a new way to experience your favorite Rock Band songs, with fast-paced, multi-track arcade gameplay that encourages you to compete against your friends for the highest scores. Use insane power-ups like the note-obliterating Bottle Rocket or the Pinball strategically to boost your scores and top the leaderboards!<br><br>Rock Band Blitz features over 20 tracks new to the Rock Band franchise, including Blink-182's \"Always\", Foster the People's \"Pumped Up Kicks\", Quiet Riot's \"Metal Health (Bang Your Head)\", and more. Rock Band Blitz is also compatible with most of your existing Rock Band Music Library, including all content from the Rock Band Music Store, as well as tracks exported from Rock Band, Rock Band 2, and more. As a bonus, all of the tracks that come with Rock Band Blitz are immediately playable in Rock Band 3 at no extra charge, so you can get the band back together and play Rock Band Blitz's 20-plus new tracks in Harmonix's award-winning full-band game!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Downloadable tracks",
+				"releaseDate":"2012/08/29",
+				"type":9,
+				"synopsis":"More than 1000 tracks available for download at the marketplace"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=kJd8_bJhwRw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5ssYv_qBRkA"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/666403-rock-band-blitz/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Rock-Band-Blitz/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/rock-band-blitz/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/rock-band-blitz"
+			},
+			{
+				"type":"Wiki",
+				"site":"Rock Band Wiki",
+				"url":"http://rockband.wikia.com/wiki/Rock_Band_Blitz"
+			}]
+		}
+	},
+	{
+		"id":529,
+		"details":
+		{
+			"developer":["CI Games"],
+			"synopsis":"Players assume the role of one of four pilots taking on the Axis alliance during four different air campaigns, including the intense Battle of Britain, the war in Africa, the Eastern Front and the Pacific island-hopping campaign.<br><br>With more than 20 types of aircraft from both sides of the conflict -- from the fabled P-38 Lightning and Britain's Spitfire to the feared Messerschmitt 109 and Japanese Kate -- players take on the same missions as WWII pilots, ranging from bombing runs and dog fights to manning defensive positions such as a gunner on a bomber or anti-aircraft site.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Russia under Siege",
+				"releaseDate":"2012/09/12",
+				"achievements":50,
+				"type":0,
+				"synopsis":"Germany's dominant air force is pounding at the gates of the Soviet Empire and Blitzkrieg is at full swing. It doesn't take the overwhelming Nazi force long to push the Soviets far inland, towards Moscow. Mother Russia is chilled to the bone as winter wreaks havoc all across the land. The Soviet Empire is at its knees. Become Russia's bravest and fight fiercely over the vast skies of the Motherland: free Leningrad, reign fire over Kursk and drop explosive greetings from Russia on Berlin."
+			},
+			{
+				"id":2,
+				"name":"Fire over Africa",
+				"releaseDate":"2012/09/12",
+				"achievements":50,
+				"type":0,
+				"synopsis":"An ominous shadow of the Axis Alliance is being cast over the sands of Africa. The scorching hot African sky will soon burn with the flames of heavy cannons and fill with smoke of bullet-ridden fighter planes. Become Britain's top pilot and help the Allies repel the Nazi threat. Face the infamous general Rommel, clash with his forces above Tobruk and stand up to the challenge in one of the most pivotal battles on the African front - the Battle of El Alamein."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=kwP7B4eiy-k"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=5U86b5epQ68"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dogfight-1942/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/dogfight-1942/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/search/all/Dogfight%201942/results"
+			}]
+		}
+	},
+	{
+		"id":530,
+		"details":
+		{
+			"developer":["Qooc Soft"],
+			"synopsis":"General Loh is a warrior struggling to avenge his father's death while around him ancient China spirals out of control due to warring factions that threaten to split the country apart. Will Loh find out who is responsible for his father's death? Can he save his homeland from destruction? And will he ever discover what the mysterious 'Zen Room of Emptiness' is?<br><br>Kung Fu Strike is a fast-paced beat-em-up where you can seamlessly blend powerful punches, high kicks and perfectly timed blocks to pull off combos that devastate hordes of enemies. Taking its inspiration from ancient Chinese tales of revenge and retribution and adding a dash of over-the-top martial arts movies and old school arcade fun, Kung Fu Strike uses a fluid combat system that turns brawling into an art form ... of PAIN.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=lCu_g7X8SWA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zYmPZPqp_SE"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/KungFu-Strike-The-Warriors-Rise/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/kung-fu-strike-the-warriors-rise/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/kung-fu-strike-the-warriors-rise"
+			}]
+		}
+	},
+	{
+		"id":531,
+		"details":
+		{
+			"developer":["Klei Entertainment"],
+			"synopsis":"Hold your breath and slow your heart. You can't make a sound. You're a ninja. From the shadow of a deep doorway, you hear footsteps echoing in the alley, pacing back and forth. Out here the city is asleep, and there are few noises to cover you. Your hiding place keeps you safe, but it also blocks your view.The target is out here somewhere, but he's not alone...<br><br>Mark of the Ninja is a stealth game developed by Klei Entertainment. Observe your enemies from afar, manipulate them with your tools, and execute your plan with precision. But be careful -- you're as fragile as you are powerful.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Special Edition",
+				"releaseDate":"2013/08/16",
+				"type":2,
+				"synopsis":"Mark of the Ninja Special Edition adds new content and unique behind the scenes insights. A new level focusing on the tattoo artist Dosan contains two new items and a new playstyle, both also usable in the main game. Additionally, every level in the game was enhanced with over 1300 lines of developer commentaries, detailing how Ninja was created and other anecdotes from the team."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=o0knqt0qSds"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=eePqh_r4yZw"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/661391-mark-of-the-ninja/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mark-of-the-Ninja/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/mark-of-the-ninja/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/mark-of-the-ninja"
+			}]
+		}
+	},
+	{
+		"id":532,
+		"details":
+		{
+			"developer":["WayForward Technologies"],
+			"synopsis":"Fight as twin brothers Billy and Jimmy Lee on an exciting adventure to save their shared love interest, Marian from the evil Skullmageddon across 16 brawling levels filled with elaborate missions, malicious enemies and over-the-top battles.<br><br>Double Dragon: Neon is the reinvigorated update to the 80's beat'em up smash hit that is reminiscent to the original. Trained by their sensei in the special form of martial arts called Sosetsuken, Billy and Jimmy are equipped with lethal combat skills and weaponry to bust some faces and battle the baddest goons around as they journey across the galaxy to rescue the love of their lives.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ZjoV0SoRRhA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=U7BJaS1nYZI"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/666512-double-dragon-neon/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Double-Dragon-Neon/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/double-dragon-neon/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/double-dragon-neon"
+			},
+			{
+				"type":"Wiki",
+				"site":"Double Dragon Neon",
+				"url":"http://doubledragon.wikia.com/wiki/Double_Dragon_Neon"
+			}]
+		}
+	},
+	{
+		"id":533,
+		"details":
+		{
+			"developer":["Lexis Numerique"],
+			"synopsis":"Get ready to solve a unique puzzle-based investigation that will immerse you in a noir world with Red Johnson's Chronicles: One Against All. Red Johnson, one of the best private investigators in Metropolis City has recently gained a fame that turns out to be deadly. A price on his head and a brother that has been abducted will force him to give the best of himself. To sort out this situation, you will need to use you wit, your persuasion skills and even your fists sometimes.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Osf8IsWfzwo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=cl2xlxTRAis"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Red-Johnsons-Chronicles-One-Against-All/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/red-johnson-episode-1/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/red-johnsons-chronicles---one-against-all"
+			}]
+		}
+	},
+	{
+		"id":534,
+		"details":
+		{
+			"developer":["Hello Games"],
+			"synopsis":"Joe Danger, the world's most determined stuntman, returns in Joe Danger: The Movie: The Video Game! This sequel will allow players to create their own action film scene by scene, performing every stunt themselves. On the set of the greatest blockbuster \"Movie\" ever made, create your own action film scene by scene, performing every stunt yourself. Using dozens of stunt vehicles and spanning every action film genre imaginable perfect every stunt to thrill the audience, or crack them up with your failed attempts. Strap on the helmet of Joe Danger, and defy death to impress the Director.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Undead Movie Pack",
+				"releaseDate":"2013/05/15",
+				"achievements":100,
+				"type":8,
+				"synopsis":"Join Joe Danger on the set of a very scary movie! Featuring 15 new scenes, across 3 complete tours, with 6 ghoulish new characters. Hunt brains as a Zombie, sabotage dark rituals as a Vampire Hunter and escape the haunted abyss as a Werebear! Unlock horrifying characters in Movie and Multiplayer modes and get a whole new set of leaderboards and Achievements! "
+			},
+			{
+				"id":2,
+				"name":"Nasty Championship Pack",
+				"releaseDate":"2013/06/19",
+				"type":8,
+				"synopsis":"A whole new campaign for Joe Danger 2 The Movie! Step into the boots of the legendary Team Nasty and win races the reckless way, with 5 all new tours and 25 levels! 25 brand new levels, including new leaderboards, ghosts, pro medals and even hidden challenges. Experiment with new skills in the ultimate Joe Danger experience to become a true Master of Disaster!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=z962FIkpHpE"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Bk3nDACNd88"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Joe-Danger-The-Movie/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/joe-danger-the-movie/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/joe-danger-2-the-movie"
+			}]
+		}
+	},
+	{
+		"id":535,
+		"details":
+		{
+			"developer":["Smilebit", "BlitWorks"],
+			"synopsis":"This downloadable game brings the classic Dreamcast game to the Xbox 360.<br><br>The government is attempting to silence the kids of Tokyo, but with their Overdrive Magnetic-Motor Skating Shoes, the cops will have to catch 'em first. The Jet Set Radio program keeps the kids unified and inspired to fight for their rights of expression, which includes graffiti art. Grab your spray cans and design your own piece on one of the immense walls in the 3D, interactive city. You might be forced to protect your territory from adversaries that want to take over your neighborhood. Join up with like-minded hip individuals that will help you keep your area the way you want it. The cops will be after you too, so you'll have to be quick. The 10 cartoon-style characters are pumped up with polygons so they come alive in 3D. Uniqueness is key to these kids and each character stands apart with exclusive abilities and style. They like to show off too, and with 18 missions, there's plenty of time to impress. It's fast, it's fun, and it's definitely funky.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Yvca4CoW0C0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=2Hlixw-NSRc"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/662136-jet-set-radio/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Jet-Set-Radio/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/jet-set-radio-hd/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/jet-set-radio"
+			},
+			{
+				"type":"Wiki",
+				"site":"JetSetPedia",
+				"url":"http://jetsetradio.wikia.com/wiki/Main_Page"
+			}]
+		}
+	},
+	{
+		"id":536,
+		"details":
+		{
+			"developer":["Wizarbox"],
+			"synopsis":"The heroic-fantasy hack 'n' slash game R.A.W.: Realms of Ancient War takes you on a continent ravaged by a war that raged ten years earlier. The four Kingdoms of Men, Elves and Dwarves lay in ruins, preyed on by raiders and looters. In this chaos, a new, unknown threat is looming... To discover its true nature, the kingdoms sent detachments to investigate, a dangerous mission from which no one returned. But what about you? You, who were in the wrong place at the wrong time...<br><br>Take control of a powerful Warrior, a dark Sorcerer or a Rogue master of stealth, and plunge into a grand quest full of action! The world of R.A.W. leads you, alone or in 2-player co-op, through many levels as rich as varied in every corner of the continent. Along your quest, the experience gained through the violent battles you will fight and the weapons and magic items you will loot on the lifeless bodies of your opponents will allow you to develop the power of your chosen character. You will learn new powers and spells ever more devastating, some of which, when mastered, will allow you to inflict tremendous damage and eradicate several dozens of enemies at once... as they will often rally in hordes to fight you!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=THWuE3Ki-4k"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=45nK7fLm7nU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Realms-of-Ancient-War/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/raw-realms-of-ancient-war/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/realms-of-ancient-war"
+			}]
+		}
+	},
+	{
+		"id":537,
+		"details":
+		{
+			"developer":["Spike"],
+			"synopsis":"One of the greatest and most customizable wrestling games ever is now on your Xbox 360 -- and for the first time ever, YOU are the contender fighting your way up the ladder for that championship belt. This game uses the Xbox Avatar characters, allowing you to drop an elbow and fly off the top ropes at your friends and neighbors.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Legend Series",
+				"releaseDate":"2012/09/21",
+				"achievements":50,
+				"type":8,
+				"synopsis":"Have you claimed the title belt? Are you hungry for more? Then prepare yourself for another fierce round of Pro Wrestling, with the matches, 20 new wrestlers, a set of spectacular new moves and an Legend Series. Legend Series brings you 12 bone-rattling new assortment of fun costumes, all in one pack!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=XJlaBENr5tw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=2lxnfHg0IbU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Fire-Pro-Wrestling/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/fire-pro-wrestling"
+			}]
+		}
+	},
+	{
+		"id":538,
+		"details":
+		{
+			"developer":["Arkedo Studio"],
+			"synopsis":"You think 2012 is going to suck? You're probably right. That's why Arkedo came up with Hell Yeah! - the ultimate anti-crisis remedy, a game designed to clear your mind, put a smile on your face and bring a little bit of peace to mankind. But what's it all about?<br><br>Hell Yeah! is a crazy action-adventure platformer. In Hell.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"The Virtual Rabbit Missions",
+				"releaseDate":"2012/10/24",
+				"type":0,
+				"synopsis":"You thought it was over? Nothing is over!! The Virtual Rabbit Missions will test your shooting and speed-running skills in 50 exciting new challenges. Taking place in a brand new Virtual Reality level, these challenges are spread across 3 difficulty settings and add more than 3 hours of gameplay. Only the mightiest rabbit can survive!"
+			},
+			{
+				"id":1,
+				"name":"Pimp My Rabbit Pack",
+				"releaseDate":"2012/10/24",
+				"type":2,
+				"synopsis":"Take Ash and his deadly jet pack driller into a new dimension of fashion and cool with the Pimp My Rabbit pack - a unique collection of 58 new masks and 11 new driller skins, some of which based on classic SEGA franchises and characters: Shinobi, Jet Set Radio, Crazy Taxi, Shenmue, Golden Axe, Super Monkey Ball, Skies of Arcadia and many more!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=sPilH9S6reo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=H9JWLCDQKUA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Hell-Yeah-Wrath-of-the-Dead-Rabbit/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/hell-yeah-wrath-of-the-dead-rabbit/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/hell-yeah!-wrath-of-the-dead-rabbit"
+			}]
+		}
+	},
+	{
+		"id":539,
+		"details":
+		{
+			"developer":["Capcom"],
+			"synopsis":"Marvel vs. Capcom Origins offers both the one-on-one gameplay of Marvel Super Heroes and the two-on-two carnage of the original Marvel vs. Capcom: Clash of Super Heroes, featuring a tag system, assists, and the wild Duo Team Attack. Bringing forth a host of features never before seen in these games, Marvel vs. Capcom Origins features GGPO-enhanced online play with 8-player lobbies and spectator mode, HD graphical upgrades, dynamic challenges and replay saving.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zuoAcV4enMI"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=H5f0RCvL3ms"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/676131-marvel-vs-capcom-origins/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Marvel-vs-Capcom-Origins/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/marvel-vs-capcom-origins/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/marvel-vs-capcom-origins"
+			},
+			{
+				"type":"Wiki",
+				"site":"Marvel vs Capcom Wiki",
+				"url":"http://marvelvscapcom.wikia.com/wiki/Marvel_vs._Capcom_Origins"
+			}]
+		}
+	},
+	{
+		"id":540,
+		"details":
+		{
+			"developer":["Sonic Team"],
+			"synopsis":"Fly through a world of dreams filled with amazing effects, mystical creatures, and terrible monsters in this HD remake of SEGA's fan-favorite flying platformer, NiGHTS into Dreams! Slip off into the dream world and go on an aerial adventure as NiGHTS, flying through a world of dreams filled with amazing effects, mystical creatures, and terrible monsters. Collect Ideya (colored orbs), rack up points, and battle bosses to help Elliot and Claris save Nightopia from Wizeman the Wicked. With enhanced graphics, achievements, and leaderboards this beloved title is back and better than ever. Face your worst nightmares and defeat them in NiGHTS into Dreams...",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=NDu90x9kc4M"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=XZUfxMsAIzg"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/676128-nights-into-dreams/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Nights-into-Dreams/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/nights-into-dreams/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/nights-into-dreams"
+			},
+			{
+				"type":"Wiki",
+				"site":"Nights Wiki",
+				"url":"http://nid.wikia.com/wiki/Main_Page"
+			}]
+		}
+	},
+	{
+		"id":541,
+		"details":
+		{
+			"developer":["Sonic Team"],
+			"synopsis":"This downloadable game brings the classic Dreamcast game. Hailed as one of the last great Dreamcast releases, this Sonic story features a full cast of playable heroes and villains, exciting two-player competitive modes, Chao Gardens, and more than 30 action-packed stages, all remastered in HD!<br><br>Sonic Adventure 2 features the world-famous blue hedgehog in a hyper-fast adventure where players can either save the world or conquer it in an action-packed showdown between Hero and Dark characters! You play as Sonic, Tails, or Knuckles and attempt to save the world -- or play as Shadow, Dr. Robotnik, or Rouge and triumph over all who stand in your way. Mistaken for a villain and kidnapped by a military squad, Sonic must escape his captors and discover who is responsible for all his trouble. Jump into the action and check out Sonic's new moves as he grinds rails, swings from poles, and somersaults past the bad guys. Get ready for Sonic action across more than 150 missions spread over 30-plus frenetic, action-packed stages.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Battle Mode DLC",
+				"releaseDate":"2012/10/05",
+				"achievements":100,
+				"type":1,
+				"synopsis":"Up the ante in the fight between heroes and villains with Sonic Adventure 2's Battle Mode DLC! Upgrade your Sonic Adventure 2 experience with six new characters, 21 additional two-player battle maps, and Chao Karate from Sonic Adventure 2: Battle! To access the Downloadable Content, please restart the game from the Xbox Dashboard."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=0koY8weGmBI"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hH-cF9vuylo"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/674874-sonic-adventure-2/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Sonic-Adventure-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/sonic-adventure-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sonic-adventure-2"
+			},
+			{
+				"type":"Wiki",
+				"site":"Sonic News Network",
+				"url":"http://sonic.wikia.com/wiki/Sonic_Adventure_2"
+			}]
+		}
+	},
+	{
+		"id":542,
+		"details":
+		{
+			"developer":["Behaviour Interactive"],
+			"synopsis":"In Naughty Bear: Panic in Paradise, players will take on the role of Naughty Bear who is once again shunned and outcast by the inhabitants of Perfect Island. This time the bears depart for the luxury holiday destination of Paradise Island but didn't invite poor Naughty Bear along. Armed with a hit-list of bears that have wronged him, Naughty is going to make them pay, one by one.<br><br>Naughty Bear Panic in Paradise takes everything fans loved about the first game and brings an entirely new level of naughtiness. Thanks to a completely over-hauled combat system, brand new leveling up system, equipment customization with thousands of combinations, and over 30 mission set across 11 distinct areas of Paradise Island, there is a whole new world for players to explore and unleash their inner-naughty in as many ways as they can imagine.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Naughty Weapon Set",
+				"releaseDate":"2012/12/12",
+				"type":2,
+				"synopsis":"A bear can never have too many weapons, especially a Naughty Bear. This Naughty Weapon Set combines all your favourite weapons from your favourite characters! The Teddy Krubear Gardening Gloves and Paradise Island Chainsaw have devastating Ultra Kills too! Other weapons you can get your paws on in this set are: Squeaky Mallet, Stabby the Knife and the brutal Mjolnpaw Hammer. Being this naughty has never felt so good!"
+			},
+			{
+				"id":2,
+				"name":"Naughty Costume Set",
+				"releaseDate":"2012/12/12",
+				"type":2,
+				"synopsis":"You're going to need a lot of disguises to get past those sneaky bears of Paradise Island. The Naughty Costume Set gives you a vast range of perfect disguises to include: Teddy Krubear Jason Pawhees Paradise Island Chainsaw Massacre Pennybear Ghostfacebear Batbear."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KwFXPwXScuc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=eE4yw1ffMIg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Naughty-Bear-Panic-in-Paradise/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Naughty-Bear-Panic-in-Paradise/walkthrough.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/naughty-bear-panic-in-paradise"
+			},
+			{
+				"type":"Wiki",
+				"site":"Naughtypedia",
+				"url":"http://naughtybear.wikia.com/wiki/Naughty_Bear:_Panic_In_Paradise"
+			}]
+		}
+	},
+	{
+		"id":543,
+		"details":
+		{
+			"developer":["Team17 Software"],
+			"synopsis":"Worms Revolution sticks an exploding sheep under worm-on-worm conflict and blasts it squarely into the 21st century with this revitalization of the acclaimed strategy series. Developed from the ground up on a completely new game-engine Worms Revolution delivers exciting new features and stunning 3D graphics with the classic 2D, turn-based gameplay of everyone's favorite warring invertebrates. Choose to play the extensive single player mode which features both campaign and puzzle missions or dive straight into multiplayer warfare via online or local play. For the first time ever see the inclusion of dynamic water, physics objects and worm classes! Customize your experience by choosing what classes you play with, what they look like and even how they speak!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Funfair Pack",
+				"releaseDate":"2012/10/24",
+				"type":8,
+				"synopsis":"Roll up, roll up. Enjoy all the fun of the fair with these 5 new puzzles and theme. Experience new puzzles, weapons, customisation and more: Funfair Pack includes:<br>- New Puzzle Missions. 5 new single player puzzle missions set in the new Funfair theme.<br>- Funfair theme. A stunning new Funfair theme for Worms Revolution that can be used in local and online matches.<br>- 4 New Weapons. Armageddon, Skunk, Napalm Strike and the brand new Knock Out weapon.<br>- Funfair Themed Customisation. 2 new trinkets, 2 new accessories, 1 new gravestone and 1 new soundbank.<br>- Voice Over Talent. Matt Berry reprises his role as Don Keystone, the unseen narrator who will guide you through the 5 new puzzles."
+			},
+			{
+				"id":2,
+				"name":"Mars Pack",
+				"releaseDate":"2012/11/07",
+				"achievements":50,
+				"type":8,
+				"synopsis":"Extend your single player experience as you take on more missions in this one giant leap for wormkind. Experience new missions, weapons, customisation and more: Mars Pack includes:<br>- New Campaign Missions. 5 new single player campaign missions set in the new Mars theme.<br>- Mars Theme. A stunning new Mars theme for Worms Revolution that can be used in local and online matches.<br>- 4 New Weapons. Buffalo, Poison Gun, Lightning Strike and the brand new Crate Strike utility.<br>- Mars Themed Customisation. 2 new trinkets, 2 new accessories, 1 new gravestone and 1 new soundbank.<br>- Voice Over Talent. Matt Berry reprises his role as Don Keystone, the unseen narrator who will guide you through the 5 new missions.<br>- 6 New Achievements"
+			},
+			{
+				"id":3,
+				"name":"Medieval Tales Pack",
+				"releaseDate":"2012/11/21",
+				"type":8,
+				"synopsis":"Tony Bluster-Comb is Don Keystone's spineless assistant and with his boss in hiding he needs your help to further document the life of Wormius-Fistycuffius. Now's your chance to do so and become a legendry hero! Storm a series of puzzle-laden castles in these 10 all-new medieval single-player quest missions. Medieval Tales includes: 10 all-new single player campaign missions set in the new medieval theme with narration scripted by award-winning writer, Dean Wilkinson; one stunning new Medieval theme for Worms Revolution that can be used in both local and online matches; 5 New Hats, choose from Hero, Wizard, Peasant, Guard and Executioner hats for your Worms to wear; and 3 New Speechbanks, ever wanted your worm to speak like a Hero, Hostage or Villain? Now they can!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=lCO97KwBTCA"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xQSXu7XJCYQ"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/665659-worms-revolution/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Worms-Revolution/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/worms-revolution/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/worms-revolution"
+			},
+			{
+				"type":"Wiki",
+				"site":"Worms Wiki",
+				"url":"http://worms.wikia.com/wiki/Worms_Revolution"
+			}]
+		}
+	},
+	{
+		"id":544,
+		"details":
+		{
+			"developer":["Toylogic"],
+			"synopsis":"Happy Wars is a multi-player action game that pits different comic-style characters against each other in over-the-top combat arenas. Its original communication system allows players from all over the world to bypass the language barrier and have fun together.<br><br>Each time the game begins, the player spawns as a Level 1 character of one of three classes - Warrior, Mage or Cleric. The player will advance towards the enemy's castle with his/her teammate through a map set in a fantasy world. During battles against the enemy team, the Warrior will use a sword and shield to fight at close range, the Mage will cast spells such as Fireball and Lightning Bolt from long range, and the Cleric will support his/her allies with healing and buffing spells. It is also possible to set up catapults and crossbow turrets on the castle ramparts, as well as set up pit traps on flatland. The player earns Experience Points and advances in levels by defeating enemies and capturing bases.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=F1OuyWZZDfU"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=w6DphI28G5E"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/643391-happy-wars/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Happy-Wars/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/happy-wars/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/happy-wars"
+			},
+			{
+				"type":"Wiki",
+				"site":"Happy Wars Wiki",
+				"url":"http://happywars.wikia.com/wiki/Happy_Wars_Wiki"
+			}]
+		}
+	},
+	{
+		"id":545,
+		"details":
+		{
+			"developer":["Croteam"],
+			"synopsis":"The third in Croteam's wild and fast-paced shooter series, Serious Sam 3: BFE is a glorious throwback to the golden age of first-person shooters where men were men, cover was for amateurs and pulling the trigger made things go boom. Serving as a prequel to the original indie sensation, Serious Sam: The First Encounter, Serious Sam 3: BFE takes place during the Earth's final struggle against Mental's invading legions of beasts and mercenaries. Set against the collapsing temples of an ancient civilization and the crumbling cities of 22nd century Egypt, Serious Sam 3: BFE is an exhilarating fusion of classic twitch shooters and modern gameplay features.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Jewel of the Nile",
+				"releaseDate":"2013/02/27",
+				"achievements":50,
+				"type":8,
+				"synopsis":"Follow the legendary hero to the mysterious Temple of Isis on the island or Philae where a monstrous temple guardian lies in wait in three all-new single-player and cooperative campaign missions. The Jewel of the Nile DLC also contains all Serious Sam 3: BFE multiplayer versus modes including Deathmatch, CTF, Last Team Standing, and My Burden."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=NeqHkvDCQgg"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=-rWgGByacYk"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/623058-serious-sam-3-bfe/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Serious-Sam-3-BFE/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/serious-sam-3/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/serious-sam-3-bfe"
+			},
+			{
+				"type":"Wiki",
+				"site":"Serious Sam Wiki",
+				"url":"http://serioussam.wikia.com/wiki/Serious_Sam_3:_BFE"
+			}]
+		}
+	},
+	{
+		"id":546,
+		"details":
+		{
+			"developer":["EXOR Studios"],
+			"synopsis":"In Zombie Driver HD, players find themselves trapped in a city full of walking corpses, locked in by a military quarantine. The only way to survive is to use their driving skills to smash through hordes of zombies and try to save anyone left alive in the city.<br><br>Zombie Driver HD features a more varied narrative campaign that is twice as long as the original, adding epic boss fights, demolition missions, new enemies and special vehicles such as a fire truck, bulldozer and even a tank, as well as many more gameplay enhancements. The gameplay mechanics have received a new round of polish by introducing an improved camera system, a recharging afterburner that will help players get out of tough spots and a minimap that will guide them through a labyrinth of zombie-filled streets.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=82MbBKsT8RY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xo_Nzf2d1Do"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Zombie-Driver-HD/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/zombie-driver-hd/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/zombie-driver-hd"
+			}]
+		}
+	},
+	{
+		"id":547,
+		"details":
+		{
+			"developer":["ARC System Works"],
+			"synopsis":"Arc System Works' high-resolution fighter now comes to the Xbox Live Arcade. In Guilty Gear XX Accent Core, all of your favorite characters have returned with more moves and an alternate EX version of each. With the extended \"Plus\" version, you can dish out even more mind-numbing, insane combos with 25 crazy combatants.<br><br>In Accent Core Plus, discover the back story to all the fighters in the Guilty Gear mythos, including fan favorites Kliff Undersn and Justice. The Force Break, Throw Escape and Slash Back systems added in Accent Core give all the fighters a wide variety of defensive and offensive capabilities.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=3j0bu7dzs5U"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ENTfyhu6fnI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Guilty-Gear-XX-Accent-Core-Plus/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/guilty-gear-xx-accent-core-plus"
+			},
+			{
+				"type":"Wiki",
+				"site":"Guilty Gear Wiki",
+				"url":"http://guilty-gear.wikia.com/wiki/Guilty_Gear_XX_%CE%9B_Core_Plus"
+			}]
+		}
+	},
+	{
+		"id":548,
+		"details":
+		{
+			"developer":["Might and Delight"],
+			"synopsis":"Pid is a creative, stylish, retro-flavored platforming adventure game designed to turn everything you know about 2D gameplay upside down. You play as a young boy that gets stranded on an old remote planet. He must fight off a variety of malicious robots bent on stopping him and befriend unlikely allies to shed light on a huge conspiracy that keeps the planet mesmerized and prevents him from ever reaching home.<br><br>The core feature in Pid allows players to manipulate a powerful force that can be used to maneuver around the levels in thousands of unique ways. In Pid, two players can experience the adventure together in co-op mode and help one another navigate tricky puzzles.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vkxt6aMEMX4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=qP5eXG_mT8g"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Pid/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/pid"
+			}]
+		}
+	},
+	{
+		"id":549,
+		"details":
+		{
+			"developer":["Cherry Pop Games"],
+			"synopsis":"Rack them up for Pool Nation, a billiards game with photo-realistic graphics, real-world physics, and a wealth of game modes and rule sets. Slow down and rewind time with the unique replay system which lets you review the action close up. Take on skilled virtual opponents in the extensive career modes, unlocking new balls, locations, and cues. Play other users around the world on Xbox Live, with single matches and tournaments. Get hooked on the insanely challenging Endurance mode, a frantic pot-against-the clock game which will keep you coming back for more. Share your times, scores and achievements with friends, family and the world through Facebook.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=7hMyk-feVrk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=fsNaW0PmGvc"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Pool-Nation/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/pool-nation/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/pool-nation"
+			}]
+		}
+	},
+	{
+		"id":550,
+		"details":
+		{
+			"developer":["Liquid Entertainment"],
+			"synopsis":"Bringing back the classic fighting game by Jordan Mechner, this project is based on the complex and award-winning original fighting action game but will expand on the franchise in an all new way. The new Karateka serves as both a remake and a re-imagining of the original game with modern game game design, with art by Jeff Matsuda (of Batman: The Animated Series fame) and music by Grammy-winning composer Christopher Tin (Civilization IV.) Fight to save the lovely Mariko from the evil warlord Akuma and reunite her with her True Love!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=uZY1zzTVhv8"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=58t2WS-P4Qk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Karateka/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/karateka/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/karateka"
+			}]
+		}
+	},
+	{
+		"id":551,
+		"details":
+		{
+			"developer":["ToeJam & Earl Productions"],
+			"synopsis":"Funk at last, funk at last, ToeJam & Earl, funk at last! That's right people, SEGA brings you the game that funneled funk directly from the mothership right here to Spaceship Earth in this collection of the first two ToeJam & Earl games, originally released on the SEGA Genesis.<br><br>TOEJAM & EARL: In 1991, two aliens, Toejam and Earl, were cruising in their Rapmaster Rocket Ship, when ToeJam decided to let Earl drive. Bad move! After crash landing on Earth, ToeJam and Earl began their mission to get back home to Funkotron. Along the way, they traversed this most un-funky planet, avoiding earthlings, hunting down the pieces of their spaceship, and searching for elevators to take them from level to level. In this one- or two-player game, the goal was to find all 10 pieces of the rocket ship, and return ToeJam and Earl to Funkotron.<br><br>PANIC IN FUNKOTRON: The year 1993 found the popular alien duo ToeJam and Earl on their home planet of Funkotron. Unknowingly, as they left earth for their return voyage to Funkotron, their cargo included a hoard of earthling stowaways. Because earthlings disrupt the Funk balance on Funkotron, the objective was to capture all the earthlings in jars, and ship them back to earth in rocket ships at the end of each level.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=RLcrXhlLE8g"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/687877-sega-vintage-collection-toejam-and-earl/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/SEGA-Vintage-Collection-ToeJam--Earl/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/svc-toejam-and-earl/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sega-vintage-collection-toejam-earl"
+			}]
+		}
+	},
+	{
+		"id":552,
+		"details":
+		{
+			"developer":["Targem Games"],
+			"synopsis":"Roar through a faraway galaxy, completing an array of diverse missions in the realtime strategy game Planets Under Attack. The new El Dorado has been found in a galaxy far away, and money-hungry space jockeys are flocking to the outer reaches of space like it's the second gold rush! Follow Mr. Goodman, a desperate human pilot looking to conquer star systems and make some cash on the edges of the known universe.<br><br>Fight for dominance in multiple self-contained planetary systems as you take the helm of your own space fleet. Each level provides loads of diversity, from goals to modes to difficulty levels. Conquer an entire planet system before an infested planet hatches aliens, or conquer a planet and hold off all comers! In addition, every mission offers three levels of difficulty, with each level unlocking additional challenges. Learn the ropes in the tutorial, discover the widely different gameplay mechanics between the two playable races, then choose which race works best for you in complex multiplayer and skirmish battles!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=m5GMMO13pio"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=r2nT3V0Lu3Y"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Planets-Under-Attack/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/planets-under-attack"
+			}]
+		}
+	},
+	{
+		"id":553,
+		"details":
+		{
+			"developer":["Griptonite Games"],
+			"synopsis":"Show no mercy and take no prisoners as you fight to the death for title of the almighty Warlord in this multiplayer arcade action game based on the Atari classic. Defend your castle from mischievous minions and ferocious fireballs spun from the mouth of a maniacal dragon in this whimsical reinvention of the beloved classic. In the ultimate battle of speed, strategy and survival, command your troops with shrewdness and skill to capture control points, collect power-ups and destroy the other warring factions!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=GYhqKMMWRmc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=emigRMDjMgI"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/625782-warlords-2012/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Warlords-2012/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/warlords-hd/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/warlords-2012"
+			}]
+		}
+	},
+	{
+		"id":554,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/3-Point-Contest/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/3-point-contest/guide/"
+			}]
+		}
+	},
+	{
+		"id":555,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Darts-Vs-Zombies/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Darts-Vs-Zombies/walkthrough.htm"
+			}]
+		}
+	},
+	{
+		"id":556,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall. So much to experience - at a fraction of the cost of real-life lessons!",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Darts-Vs-Zombies/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Ski-Race/walkthrough.htm"
+			}]
+		}
+	},
+	{
+		"id":557,
+		"details":
+		{
+			"developer":["SEGA-AM2"],
+			"synopsis":"Fight with flair in the return of Fighting Vipers, the classic arcade game from AM2 that was later playable on the Sega Saturn. Choose one of nine zany characters--including Grace the roller blader and Raxel the metal guitarist-- and break your opponent's costume-based armor to maximize damage. Take advantage of all-new online modes to battle friends across the world.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=JyfydIcM9e4"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/687862-fighting-vipers/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Fighting-Vipers/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/fighting-vipers/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/fighting-vipers"
+			}]
+		}
+	},
+	{
+		"id":558,
+		"details":
+		{
+			"developer":["SEGA-AM2"],
+			"synopsis":"Join Sonic and friends in battle in this classic arcade game from AM2. Originally on consoles as part of the Sonic Gems collection, Sonic the Fighters is back with an all-new online mode, including both online versus and tournament play. In single player mode, choose from 10 playable characters and fight through 8 stages to stop Dr. Robotnik and Metal Sonic from unleashing the Death Egg II!",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=eMAo_QQDeFE"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/687863-sonic-the-fighters/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Sonic-the-Fighters/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/sonic-the-fighters/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sonic-the-fighters"
+			},
+			{
+				"type":"Wiki",
+				"site":"Sonic News Network",
+				"url":"http://sonic.wikia.com/wiki/Sonic_the_Fighters"
+			}]
+		}
+	},
+	{
+		"id":559,
+		"details":
+		{
+			"developer":["SEGA-AM2"],
+			"synopsis":"Experience the legendary polygon-based 3-D graphics and fluid fighting mechanics that made the game so influential in the arcades, and later on the SEGA Saturn. With all-new online play, you can battle friends throughout the world.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=y9dYUZs1pi4"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/687864-virtua-fighter-2/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Virtua-Fighter-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/virtua-fighter-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/virtua-fighter-2"
+			},
+			{
+				"type":"Wiki",
+				"site":"Virtua Fighter Wiki",
+				"url":"http://virtuafighter.wikia.com/wiki/Virtua_Fighter_2"
+			}]
+		}
+	},
+	{
+		"id":560,
+		"details":
+		{
+			"developer":["SEGA-AM4"],
+			"synopsis":"Virtua Striker is a Sports game, published by Sega, which was originally released in 1994.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=y4JA4bOiTT8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Virtua-Striker/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/virtua-striker/guide/"
+			}]
+		}
+	},
+	{
+		"id":561,
+		"details":
+		{
+			"developer":["Monolith Productions"],
+			"synopsis":"A shadow grows over Middle-earth as the greatest armies of the Third Age prepare for the coming battle. Take up arms in the clash over Middle-earth with the most powerful heroes from the greatest fantasy epic of all time.<br><br>Inspired by The Lord of the Rings saga, Guardians of Middle-earth brings up to 10 players together in five versus five competitive multiplayer battle arenas in the epic setting of Middle-earth. The game offers more than 20 iconic guardians, including Gandalf, Sauron, Gollum, Thr&aacute;in and many more, for players to control in player versus player (PVP) matches. Gamers will have the ability to connect with other players via an in-game voice communication system, as well as access to a comprehensive online stat and leader board system where they can track friends' victories and defeats, and more.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Bilbo Baggins - Playable Guardian",
+				"releaseDate":"2012/12/14",
+				"type":2,
+				"synopsis":"Download and play as Bilbo Baggins, a good-aligned striker class guardian."
+			},
+			{
+				"id":2,
+				"name":"Bert - Playable Guardian",
+				"releaseDate":"2012/12/14",
+				"type":2,
+				"synopsis":"Download and play as Bert, an evil-aligned tactician class guardian."
+			},
+			{
+				"id":3,
+				"name":"Great Goblin - Playable Guardian",
+				"releaseDate":"2012/12/19",
+				"type":2,
+				"synopsis":"Download and play as Great Goblin, an evil-aligned defender class guardian."
+			},
+			{
+				"id":4,
+				"name":"Thorin Oakenshield - Playable Guardian",
+				"releaseDate":"2012/12/19",
+				"type":2,
+				"synopsis":"Download and play as Thorin Oakenshield."
+			},
+			{
+				"id":5,
+				"name":"Radagast - Playable Guardian",
+				"releaseDate":"2013/01/30",
+				"type":2,
+				"synopsis":"Download and play as the Radagast."
+			},
+			{
+				"id":6,
+				"name":"Gloin - Playable Guardian",
+				"releaseDate":"2013/02/06",
+				"type":2,
+				"synopsis":"Download and play as Gl&oacute;in."
+			},
+			{
+				"id":7,
+				"name":"Snaga - Playable Guardian",
+				"releaseDate":"2013/02/20",
+				"type":2,
+				"synopsis":"Download and play as Snaga, an evil-aligned enchanter class guardian."
+			},
+			{
+				"id":8,
+				"name":"Survival Game Mode",
+				"releaseDate":"2013/02/27",
+				"type":8,
+				"synopsis":"Download and play the Survival game mode and test your guardian skills in a whole new way. Do you have what it takes to survive?"
+			},
+			{
+				"id":9,
+				"name":"Barrow-wight Lord - Playable Guardian",
+				"releaseDate":"2013/03/06",
+				"type":2,
+				"synopsis":"Download and play as Barrow-wight Lord."
+			},
+			{
+				"id":10,
+				"name":"Saruman - Playable Guardian",
+				"releaseDate":"2013/03/13",
+				"type":2,
+				"synopsis":"Download and play as Saruman."
+			},
+			{
+				"id":11,
+				"name":"Unglob - Playable Guardian",
+				"releaseDate":"2013/03/20",
+				"type":2,
+				"synopsis":"Download and play as Unglob."
+			},
+			{
+				"id":12,
+				"name":"Frodo - Playable Guardian",
+				"releaseDate":"2013/04/03",
+				"type":2,
+				"synopsis":"Download and play as Frodo."
+			},
+			{
+				"id":13,
+				"name":"Kili - Playable Guardian",
+				"releaseDate":"2013/04/17",
+				"type":2,
+				"synopsis":"Download and play as Kili."
+			},
+			{
+				"id":14,
+				"name":"Elrond - Playable Guardian",
+				"releaseDate":"2013/05/01",
+				"type":2,
+				"synopsis":"Download and play as Elrond."
+			},
+			{
+				"id":15,
+				"name":"Mouth of Sauron - Playable Guardian",
+				"releaseDate":"2013/05/15",
+				"type":2,
+				"synopsis":"Download and play as Mouth of Sauron."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=DCBAsRwM14c"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=GjlJyMiT1xw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Guardians-of-MiddleEarth/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/guardians-of-middle-earth/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/guardians-of-middle-earth"
+			},
+			{
+				"type":"Wiki",
+				"site":"Guardians of Middle-Earth Wiki",
+				"url":"http://guardiansofmiddleearth.wikia.com/wiki/Guardians_of_Middle-earth_Wiki"
+			},
+			{
+				"type":"The Lord of the Rings Wiki",
+				"site":"The Lord of the Rings Wiki",
+				"url":"http://lotr.wikia.com/wiki/Guardians_of_Middle-earth"
+			}]
+		}
+	},
+	{
+		"id":562,
+		"details":
+		{
+			"developer":["Silverball Studios"],
+			"synopsis":"Mensa Academy is a brain training game that will give player's minds the ultimate cerebral workout. Created in direct collaboration with Mensa, Mensa Academy is packed with 100+ replayable levels of fun and stimulating mini-games and challenges for everyone, plus for those really looking to test their grey matter, there is a rigorous test designed to calculate your Mensa score, directly inspired by questions faced by those attempting to join the renowned global high IQ society.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=qVjFwoJj6KA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Mensa-Academy/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/american-mensa-academy/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/american-mensa-academy"
+			}]
+		}
+	},
+	{
+		"id":563,
+		"details":
+		{
+			"developer":["Grasshopper Manufacture"],
+			"synopsis":"From the twisted and brilliant mind of Suda 51 comes Black Knight Sword, a platforming adventure with an unprecedented visual style. Black Knight Sword is a retro side-scrolling adventure featuring surreal, dream-like graphics with a look and feel unlike anything else. In this fresh, modern and interactive take on the classic fairy tale, The Black Knight treks through a dark and mysterious world filled with whimsical and memorable creatures to kill the dark princess and ending her reign of terror.Slash, platform and puzzle your way through this unique title with each level more bizarre and intriguing than the last.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=kRIpfybHUjY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=h6zfsoVwP0k"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Black-Knight-Sword/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/black-knight-sword"
+			}]
+		}
+	},
+	{
+		"id":564,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Field-Goal-Contest/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/field-goal-contest/guide/"
+			}]
+		}
+	},
+	{
+		"id":565,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.xboxachievements.com/game/prize-driver/overview/"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/prize-driver/guide/"
+			}]
+		}
+	},
+	{
+		"id":566,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Reaction-Rally/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/reaction-rally/guide/"
+			}]
+		}
+	},
+	{
+		"id":567,
+		"details":
+		{
+			"developer":["Vblank Entertainment Inc."],
+			"synopsis":"Retro City Rampage is an open-world action game parody of the popular crime city genre. The game is designed to represent a classic NES game with a level of carnage and chaos never imagined in the '80s.<br><br>This send-up to '80s and '90s video games and pop-culture includes both a full Story Mode of open-world adventure as well as an Arcade Mode for quick pick-up-and-play action. If that's not enough, it also packs an interactive city full of shops, minigames, customizations, collectibles, special guest stars, and more.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=8pW3e7x2T3U"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Z6eYGAeSJiM"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/640532-retro-city-rampage/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Retro-City-Rampage/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/retro-city-rampage/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/retro-city-rampage"
+			}]
+		}
+	},
+	{
+		"id":568,
+		"details":
+		{
+			"developer":["Double Fine Productions"],
+			"synopsis":"The Cave is an adventure game in which the player can control three of seven characters at once as they explore a mysterious cave while solving puzzles. Players can also explore the game with up to two friends in co-op mode.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=D0NhUSvhxJ4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=bu4fkO1hVuc"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/671773-the-cave/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/The-Cave/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/the-cave/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/the-cave"
+			}]
+		}
+	},
+	{
+		"id":569,
+		"details":
+		{
+			"developer":["17-BIT"],
+			"synopsis":"Washing up on the shores of the afterlife, players meet and join forces with vibrant ghost-samurai warriors, magical animal-monks, and mustachioed samurai generals on the way to capture Skulls of the Shogun.<br><br>Players immerse themselves in battle with fun and unique game play features amidst lush, eerie environments. Also featuring 4-player local and networked multi-player and an original score inspired by old samurai films and dub, Skulls of the Shogun offers simple-yet-deep, refined and offbeat gameplay.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=Nl_YZQf0_lc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=n7pxIZoCrdY"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/998291-skulls-of-the-shogun/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Skulls-of-the-Shogun/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/skulls-of-the-shogun/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/skulls-of-the-shogun"
+			}]
+		}
+	},
+	{
+		"id":570,
+		"details":
+		{
+			"developer":["Zombie Studios"],
+			"synopsis":"Special Forces: Team X is a stylized, team centric 3rd Person Shooter, featuring brutal firefights between elite squads of Special Forces operatives. The game introduces a brand new take on multiplayer map creation, giving the players the chance to create their own battle arenas. The game supports two, three, and four teams during matches, so staying with your team has never been more important as players that stick together will be richly awarded in the game.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=LMIarEnhcdw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ubY6OKXKM5c"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Special-Forces-Team-X/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/special-forces-team-x/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/special-forces-team-x"
+			}]
+		}
+	},
+	{
+		"id":571,
+		"details":
+		{
+			"developer":["SEGA-AM3"],
+			"synopsis":"Strap yourself into the cockpit of a Virtualoid and grab any weapons you can find because you're about to battle 50-foot cyborg mercenaries. Take on the massive enemy in a variety of arenas, with complete freedom of movement -- including the capacity for flight. Once you have mastered the ability to make your computerized challengers fall into a heap with ease, try to do the same thing with your friends. Keep your Virtualoid in one piece in Virtual-On.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zfNN7TvqQro"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Cyber-Troopers-Virtual-On/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/cyber-troopers-virtual-on/guide/"
+			},
+			{
+				"type":"Wiki",
+				"site":"Super Robot Wars Wiki",
+				"url":"http://superrobotwars.wikia.com/wiki/Virtual_On"
+			}]
+		}
+	},
+	{
+		"id":572,
+		"details":
+		{
+			"developer":["Capcom"],
+			"synopsis":"Capcom Arcade Cabinet offers you many of the greats from the Capcom gaming vaults all in one place. Browse through a library of classic games, now loaded with special features that extend the gaming fun. A \"casual mode\" geared towards newcomers and less score-minded players lets first-time gamers discover Capcom's greats. Or, if you are a hardcore gamer, take on players from around the world in \"score attack\" and even play together in select titles that support online co-op!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Ghosts'n Goblins",
+				"releaseDate":"2013/03/19",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Ghosts'n Goblins! You can also play the trial versions of \"Side Arms\", \"Legendary Wings\", and \"Trojan\"."
+			},
+			{
+				"id":2,
+				"name":"Gun.Smoke",
+				"releaseDate":"2013/03/19",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Gun.Smoke! You can also play the trial versions of \"Side Arms\", \"Legendary Wings\", and \"Trojan\"."
+			},
+			{
+				"id":3,
+				"name":"Section Z",
+				"releaseDate":"2013/03/19",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Section Z! You can also play the trial versions of \"Side Arms\", \"Legendary Wings\", and \"Trojan\"."
+			},
+			{
+				"id":4,
+				"name":"Side Arms",
+				"releaseDate":"2013/04/02",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Side Arms! You can also play the trial versions of \"Commando\", \"The Speed Rumbler\", and \"Savage Bees\"."
+			},
+			{
+				"id":5,
+				"name":"Legendary Wings",
+				"releaseDate":"2013/04/02",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Legendary Wings! You can also play the trial versions of \"Commando\", \"The Speed Rumbler\", and \"Savage Bees\"."
+			},
+			{
+				"id":6,
+				"name":"Trojan",
+				"releaseDate":"2013/04/02",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Trojan! You can also play the trial versions of \"Commando\", \"The Speed Rumbler\", and \"Savage Bees\"."
+			},
+			{
+				"id":7,
+				"name":"Commando",
+				"releaseDate":"2013/04/16",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Commando! You can also play the trial versions of \"1942\", \"SonSon\", and \"Pirate Ship Higemaru\"."
+			},
+			{
+				"id":8,
+				"name":"The Speed Rumbler",
+				"releaseDate":"2013/04/16",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play The Speed Rumbler! You can also play the trial versions of \"1942\", \"SonSon\", and \"Pirate Ship Higemaru\"."
+			},
+			{
+				"id":9,
+				"name":"Savage Bees",
+				"releaseDate":"2013/04/16",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Savage Bees! You can also play the trial versions of \"1942\", \"SonSon\", and \"Pirate Ship Higemaru\"."
+			},
+			{
+				"id":10,
+				"name":"1942",
+				"releaseDate":"2013/03/05",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play 1942!"
+			},
+			{
+				"id":11,
+				"name":"SonSon",
+				"releaseDate":"2013/03/05",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play SonSon!"
+			},
+			{
+				"id":12,
+				"name":"Pirate Ship Higemaru",
+				"releaseDate":"2013/03/05",
+				"achievements":10,
+				"type":8,
+				"synopsis":"Play Pirate Ship Higemaru!"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=iA4X9a_9pmw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=nAvW7zXypU8"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/697679-capcom-arcade-cabinet/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Capcom-Arcade-Cabinet/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/capcom-arcade-cabinet"
+			}]
+		}
+	},
+	{
+		"id":573,
+		"details":
+		{
+			"developer":["Mommy's Best Games"],
+			"synopsis":"Inspired by the shout-out-loud awesome adventures of Serious Sam, this title is part of the Serious Sam Indie Series -- a collection of Serious Sam games designed and developed by some of the most talented independent developers in the world. Acclaimed indie developers take the reins of the award-winning series and unleash their own brand of mayhem on carnage-craving gamers!<br><br>Serious Sam explodes across the second dimension as Mommy's Best Games (Weapon of Choice, Explosionade, Shoot 1UP) slams the legendary hero into a frantic side-scrolling shooter. Featuring killer hand drawn artwork, classic and original enemies, and the innovative weapon stacking system, Serious Sam: Double D is a uniquely exciting chapter in the Serious Sam saga. All that stands between victory and annihilation is a man with a T-shirt and jeans... and a great big pile of guns.<br><br>Serious Sam Double D XXL packs even more under the wire with all-new features, missions, and weapons with a wild campaign cooperative mode featuring titular Serious Sam and his brother-in-arms, \"Dan Huff\" Huffington. The revolutionary Gunstacker goes even deeper with over 30 new guns to mix and match for some of the most ridiculously awesome action ever to grace Xbox Live Arcade.",
+			"links":[
+			{
+				"type":"Trailer 1",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=tM52hKJ3big"
+			},
+			{
+				"type":"Trailer 2",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=k1rWyvZ0aPY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=M0N4bNQmfEw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Serious-Sam-Double-D-XXL/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/serious-sam-double-d-xxl/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/serious-sam-double-d-xxl"
+			},
+			{
+				"type":"Wiki",
+				"site":"Serious Sam Wiki",
+				"url":"http://serioussam.wikia.com/wiki/Serious_Sam:_Double_D:_XXL"
+			}]
+		}
+	},
+	{
+		"id":574,
+		"details":
+		{
+			"developer":["Gaijin Games"],
+			"synopsis":"Runner 2 is the sequel to the critically acclaimed and IGF award winning Bit. Trip Runner. In the style of the Bit. Trip series, Runner 2 is a rhythm-music platforming game. Players will run through fantastic environments, using brand new moves, to brand new soundtracks as they run, jump, slide, kick, and soar toward the goal of tracking down the Timbletot and thwarting his evil plans to destroy not only our world, but every world there is.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=juEY-CvjlY0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=BsII2S1YboM"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/645907-bittrip-presentsrunner2-future-legend-of-rhythm/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Runner-2-Future-Legend-of-Rhythm-Alien/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/bit-trip-runner-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/bittrip-presentsrunner2-future-legend-of-rhythm-alien"
+			}]
+		}
+	},
+	{
+		"id":575,
+		"details":
+		{
+			"developer":["Release Universal Network"],
+			"synopsis":"A spinoff to the fighting game Phantom Breaker, Phantom Breaker: Battle Grounds is a cooperative action game for up to four players. Cute versions of the series' characters dash around the screen in this action packed title. Defeat enemies to raise your characters' levels and freely assign skills to your liking.Also enjoy head to head fights in the Battleground mode.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=D8PnjSpsm3A"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=4VGWhlrMf1Q"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Phantom-Breaker-Battle-Grounds/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/phantom-breaker-battle-grounds"
+			}]
+		}
+	},
+	{
+		"id":576,
+		"details":
+		{
+			"developer":["Candygun Games"],
+			"synopsis":"Dollar Dash will have you shouting for joy and screaming in despair, as you make a dash with the cash. You must attack, defend or outrun your fellow thieves using unique comedic tactics and crazy weapons while making sure you deposit your hard-earned cash in the getaway vehicle before it disappears, hold onto the safe or simply blast your opponent on your way to victory.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=D3aK4BDXNxc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=61ACBGfTTpo"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Dollar-Dash/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/dollar-dash/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/dollar-dash"
+			}]
+		}
+	},
+	{
+		"id":577,
+		"details":
+		{
+			"developer":["Milestone"],
+			"synopsis":"WRC Powerslide is a fast-paced racer which mixes amazing and exciting gameplay elements in one game. With a colorful and smart style, this game offers the chance to try all the WRC licensed elements with an arcade attitude. Pick up a car from WRC Class, Class 2 and Class 3, and choose between eight different rallies. Compete against your friends/opponents on the same special stage and collect special Power Ups. Thanks to an arcade physics system and a unique top-down camera view, the action will be frenetic as never before.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=-NCaP970rBY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=KRi3UzIgXuk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/WRC-Powerslide/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/wrc-powerslide/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/wrc-powerslide"
+			}]
+		}
+	},
+	{
+		"id":578,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/10-Frame-Bowling/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/10-frame-bowling/guide/"
+			}]
+		}
+	},
+	{
+		"id":579,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Penalty-Saver/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/penalty-saver/guide/"
+			}]
+		}
+	},
+	{
+		"id":580,
+		"details":
+		{
+			"developer":["Rare"],
+			"synopsis":"Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+			"links":[
+			{
+				"type":"Kinect Sports Gems Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=vt2aFtjnD8s"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Ping-Pong/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/ping-pong/guide/"
+			}]
+		}
+	},
+	{
+		"id":581,
+		"details":
+		{
+			"developer":["Iron Galaxy Studios"],
+			"synopsis":"The beloved Darkstalkers fighting game franchise is back and ready to take the fight to current gen consoles in this double-pack of Darkstalkers games.<br><br>Featuring a unique and colorful cast of characters blended with fast-paced fighting action, Darkstalkers Resurrection contains two games (Night Warriors: Darkstalkers Revenge and Darkstalkers 3), for the price of one. Each game has a slew of features added including: robust GGPO-enabled online game play, HD graphical filtering with multiple viewing options, replay sharing, Spectator Mode, in-game achievements, Challenge/Tutorial Mode and an un-lockable vault filled with concept artwork, videos and more.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Victor Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the corpse-built monster, Victor."
+			},
+			{
+				"id":2,
+				"name":"Bishamon Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the cursed samurai, Bishamon."
+			},
+			{
+				"id":3,
+				"name":"Lord Raptor Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the rock-and-roll ghoul, Lord Raptor."
+			},
+			{
+				"id":4,
+				"name":"B.B. Hood Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the evil Darkhunter, B.B. Hood."
+			},
+			{
+				"id":5,
+				"name":"Q-Bee Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the soul-eating insect, Q-Bee."
+			},
+			{
+				"id":6,
+				"name":"Lilith Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the younger succubus, Lilith."
+			},
+			{
+				"id":7,
+				"name":"Hsien-Ko Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the jiang-shi, Hsien-Ko."
+			},
+			{
+				"id":8,
+				"name":"Felicia Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the dancing catgirl, Felicia."
+			},
+			{
+				"id":9,
+				"name":"Pyron Cabinet Skin",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the look of your arcade cabinet view mode with this skin based on the fiery alien, Pyron."
+			},
+			{
+				"id":10,
+				"name":"Mansion Arcade Theme",
+				"releaseDate":"2013/03/26",
+				"type":2,
+				"synopsis":"Customize the room your arcade cabinet view mode is in with this theme that makes it look like a dignified mansion."
+			}],
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=brSyt1fJr_s"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/686409-darkstalkers-resurrection/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Darkstalkers-Resurrection/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/darkstalkers-resurrection"
+			},
+			{
+				"type":"Wiki",
+				"site":"Darkstalkersopedia",
+				"url":"http://darkstalkers.wikia.com/wiki/Darkstalkers_Resurrection"
+			}]
+		}
+	},
+	{
+		"id":582,
+		"details":
+		{
+			"developer":["Enigma"],
+			"synopsis":"After losing contact with his explorer friend Virgi, our fearless alien hero Spidy heads to Earth in his spacecraft to find her in Alien Spidy. While entering the Earth's atmosphere, his spacecraft suddenly fails and starts to break up, causing Spidy to crash-land on the strange planet, with his craft scattered across forests, throughout ponds and into dark caves. Spidy finds himself alone on an alien world and faces the epic challenge of tracking down Virgi, battling strange new enemies and finding the missing pieces from his spacecraft in order to repair the damage and make their escape home.<br><br>The stage is set for the adventure of a lifetime as Spidy embarks on a perilous journey through a visually stunning 2D/3D world, where quick reflexes and fast-paced platform action create a fun and rewarding gameplay experience, which is easy to pick up, but challenging to master.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Easy Breezy",
+				"releaseDate":"2013/07/16",
+				"type":0
+			},
+			{
+				"id":2,
+				"name":"Between a Rock and a Hard Place",
+				"releaseDate":"2013/07/23",
+				"type":0
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=lTg0vFGSHTk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=s4vIr13bPLA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Alien-Spidy/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/alien-spidy"
+			}]
+		}
+	},
+	{
+		"id":583,
+		"details":
+		{
+			"developer":["Black Forest Games"],
+			"synopsis":"Fluffy clouds and rainbows - what a nightmare! Being trapped in a lollipop world infuriates Giana, driving her to smash everything in her path... but the walls between dreams are thin. A tenebrous boneyard lurks just beyond the veil, soothing Giana's temper and lightening her step.<br><br>Project Giana is a phantasmagorical platformer with contrasting themes. Twist one dream into another at will to transform the world and Giana, putting an array of world-warping tricks at your fingertips.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=sQcVgc4bmo4"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=OiVRw48BjCw"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Giana-Sisters-Twisted-Dreams/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/giana-sisters-twisted-dreams"
+			}]
+		}
+	},
+	{
+		"id":584,
+		"details":
+		{
+			"developer":["Re-Logic", "Engine Software"],
+			"synopsis":"Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. The world is your canvas and the ground itself is your paint.<br><br>Grab your tools and go! You can do many things in Terraria: make weapons and fight off a variety of enemies in numerous biomes, dig deep underground to find accessories, money, and other useful things, gather wood, stone, ores, and other resources to create everything you need to make the world your own and defend it. Build a house, a fort, even a castle, and people will move in to live there and perhaps even sell you different wares to assist you on your journey. But beware, there are even more challenges awaiting you ... Are you up to the task?",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=y35VEECRkxc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=e7ynZhnLSjE"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/683105-terraria/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Terraria/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/terraria/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/terraria"
+			},
+			{
+				"type":"Wiki",
+				"site":"Terraria Wiki",
+				"url":"http://terraria.gamepedia.com/Terraria_Wiki"
+			}]
+		}
+	},
+	{
+		"id":585,
+		"details":
+		{
+			"developer":["The Behemoth"],
+			"synopsis":"BattleBlock Theater is a side-scrolling action game by videogame developer The Behemoth, the studio behind Alien Hominid and Castle Crashers. Having shipwrecked on a mysterious island you find yourself both betrayed by your best friend Hatty and captured by the locals. All of this is happening while being forced into deadly performances. This however, is just the start of your problems...",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=pv1ZoHt6poI"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=WtU5VpbXVAI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/BattleBlock-Theater/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/battleblock-theater/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/battleblock-theater"
+			},
+			{
+				"type":"Wiki",
+				"site":"Battlepedia",
+				"url":"http://battlewiki.battleblocktheater.com/Battlepedia"
+			}]
+		}
+	},
+	{
+		"id":586,
+		"details":
+		{
+			"developer":["Barunson Interactive Co."],
+			"synopsis":"One of the greatest side-scrolling action game is back! Double Dragon II keeps the original's story plot, while making vast improvements on all other aspects of the game. Team up and take control of Jimmy and Billy, whose looks and actions are completely modernized. Battle through the newly drawn 3D stages, which hide their own secrets and surprises. Both fans of classic arcade games from the 80's and those who just love to have a good time punching out baddies will find a thrill rider in Double Dragon II - the Wander of Dragons.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=aTIg9_3r0Z8"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Double-Dragon-II-Wander-of-the-Dragons/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/double-dragon-2-wander-of-the-dragons/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/double-dragon-ii-wander-of-the-dragons"
+			}]
+		}
+	},
+	{
+		"id":587,
+		"details":
+		{
+			"developer":["Bongfish GmbH"],
+			"synopsis":"The classic MX series returns in Avatar Motocross Madness! Engage in intense MX racing, exploration and social competition. Fly over huge jumps and perform insane tricks in extreme off-road races, competing with your friends in the Bike Club async social network. Challenge your friend's times, beat their scores and race against their ghost to stay at the top of your club. Then take your bike to explore three vast environments, freestyle riding, collecting special items and discovering hidden secrets. Avatar Motocross Madness brings back all of the fun and excitement of the original series in a whole new way!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Trick Jam",
+				"releaseDate":"2013/09/25",
+				"achievements":100,
+				"type":8,
+				"synopsis":"Expand your game with 3 NEW exotic tracks in Egypt, Australia and Iceland. New tracks change the game with a arena style layouts each with tight switchbacks, even bigger jumps and for the first time; cross over jumps! Unlock 10 new exciting skills to take the skills to a whole new level! Enjoy a new combo system that is both rewarding and engaging while enjoying the new acobatic stunts that are pulled off."
+			}],
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=dx3zf3jPEhI"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Motocross-Madness/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/motocross-madness/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/motocross-madness"
+			}]
+		}
+	},
+	{
+		"id":588,
+		"details":
+		{
+			"developer":["Southend Interactive"],
+			"synopsis":"Sacred Citadel is an intense side-scrolling arcade brawler for up to three players. Set in the realm of the RPG saga, the game reinvents the familiar arcade feel of classic hack-and-slash brawlers with sophisticated game design, complex RPG elements and luscious graphics.<br><br>The once peaceful land of Ancaria is in grave danger. Lord Zane's evil Ashen Empire empire has enslaved its population and is using the orc-like Grimmoc to wipe out the Seraphim, who swore to protect it. Three warriors set forth to battle this evil -- only when these heroes unite and use their skills to support each other they will stand a chance! Prove yourself as a warrior by riding terrifying mounts, acquiring earth shattering skills and looting powerful weapons and valuable treasures. So grab your friends and join the resistance!",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Jungle Hunt",
+				"releaseDate":"2013/04/17",
+				"achievements":100,
+				"type":8,
+				"synopsis":"The battle has been won, but the war is not over yet! \"Big Mama\", the malodorous leader of the evil Grimmoc has escaped with the stolen Seraphim artifact into the menacing jungles of Ancaria! Bring \"Big Mama\" to justice and retrieve the valuable item. Gather together once again, combine your friend's skills and enjoy this enthralling new chapter of Sacred Citadel. Enjoy a brand new setting as well as 3 exciting bonus levels."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=zEwtyNEjjDk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=moeVDXPvVZk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Sacred-Citadel/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/sacred-citadel/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sacred-citadel"
+			}]
+		}
+	},
+	{
+		"id":589,
+		"details":
+		{
+			"developer":["Saber Interactive", "OldSchool Games"],
+			"synopsis":"God Mode is set in a twisted version of Greek mythology and the afterlife. The player is a descendant of an ancient God whose family has been banished by Hades from Mt. Olympus and turned into a mere mortal. To avoid an afterlife of eternal damnnation, the player must battle through this purgatory known as the Maze of Hades against an army of the underworld.<br><br>God Mode combines non-linear gameplay, fast and frantic shooting, hordes of on-screen enemies, and a fully functional online coop mode. Matches rarely ever play out the same, as dozens of in-game modifiers can significantly alter the gameplay on the fly. Characters are fully customizable, both in appearance and equipment, which continually evolve. Gold and experience is constantly accrued and used to unlock new satisfying weaponry and unique powerful abilities, both of which can be further upgraded.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6p1Wrpcr8mo"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=75UF6F8k-OY"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/God-Mode/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/god-mode/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/god-mode"
+			}]
+		}
+	},
+	{
+		"id":590,
+		"details":
+		{
+			"developer":["Telltale Games"],
+			"synopsis":"In Telltale Games' Poker Night 2, players will be joined by an all-star cast: Claptrap from Borderlands, Brock Samson from Venture Bros., Sam from the Sam & Max, Ash Williams from Army of Darkness, and more.<br><br>Players at the table will be assured of a fair hand dealt under the unblinking gaze of a Genetic Lifeform and Disk Operating System from Aperture Science research facilities. Otherwise known as GLaDOS from the Portal and Portal 2 games. Telltale Games' Poker Night 2 also offers the chance to win Bounty Unlocks: rewards for use within other games when special goals are achieved. With cunning and skill, players can unlock prizes for different in-game items.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=6LrxeK95O_0"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=VKbQY6c5yCk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Telltale-Games-Poker-Night-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/poker-night-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/poker-night-2"
+			}]
+		}
+	},
+	{
+		"id":591,
+		"details":
+		{
+			"developer":["Ubisoft Montreal"],
+			"synopsis":"Developed by Ubisoft Montreal, Far Cry 3 Blood Dragon lets players get the girl, kill the bad guys and save the world in a VHS-era vision of the future.<br><br>As Sergeant Rex Colt, you are part man, part machine, all American. You are a state-of-the art Mark IV cyber-commando on a mission...of vengeance. You're out to bring down your old commanding officer and his battalion of ruthless killer cyborgs and you'll stop at nothing to get the job done. Hollywood action icon Michael Biehn (The Terminator, Aliens, and The Abyss), returns in this explosive 1980s style sci-fi vision of a dark future. Turn off your VCR, plug in your video game cabinet, and get ready to experience all of the thrills of Far Cry 3 Blood Dragon.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=av5pqJaIeCk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=jZUueizrR0A"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/710754-far-cry-3-blood-dragon/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Far-Cry-3-Blood-Dragon/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/far-cry-3-blood-dragon/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/far-cry-3-blood-dragon"
+			},
+			{
+				"type":"Wiki",
+				"site":"Far Cry Wiki",
+				"url":"http://farcry.wikia.com/wiki/Far_Cry_3:_Blood_Dragon"
+			}]
+		}
+	},
+	{
+		"id":592,
+		"details":
+		{
+			"developer":["Echo Peak"],
+			"synopsis":"Everyone has a heart beat. For some, it's the pursuit of money. Others are driven by power. And then there are the beats that are less clear. All those rhythms, they overlap, but the noise of the city don't matter to America Jones. All he cared about was his woman and his fights, and he was the once best fighter in the city ... but then one night everything changed. Hell-bent on a revenge-fuelded rampage, America comes to the temple to train with Snoop Dogg. Finding the way means finding the beat that drives his fight. And that's why you are here, to train AJ and learn the Way of the Dogg!<br><br>Battle for the future of the streets in unique rhythm-based action combat fights set to classic Snoop Dogg tracks in Way of the Dogg. Brawl your way through 20 levels of beat-matching, brutal combat, and learn your technique in intense training sessions with your mystical mentor, Snoop.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=xvA6RthatzY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=guI1XctRfeU"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Way-of-the-Dogg/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/way-of-the-dogg/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/way-of-the-dogg"
+			}]
+		}
+	},
+	{
+		"id":593,
+		"details":
+		{
+			"developer":["Behaviour Interactive"],
+			"synopsis":"Doritos Crash Course 2 is the sequel to the XBLA smash hit Doritos Crash Course. Run, jump, slide and wall jump your Avatar through four new worlds of irreverent obstacles, traps and pitfalls. In this 2.5 platformer, compete for medals and find stars to progress. Use your stars to unlock new courses, power-ups and vanity items. Compare your best time against up to three asynchronous game clips of your friends.",
+			"links":[
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=10TUANYMRWg"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Doritos-Crash-Course-2/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/doritos-crash-course-2/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/doritos-crash-course-2"
+			}]
+		}
+	},
+	{
+		"id":594,
+		"details":
+		{
+			"developer":["Pocketwatch Games"],
+			"synopsis":"Monaco: What's Yours Is Mine is a single player or co-op heist game. Assemble a crack team of thieves, case the joint, and pull off the perfect heist. Sneak, steal, and run for your lives in single player or with up to four friends in local or online co-op.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=hC7b6642AWM"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=SVrMWjRevTk"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Monaco/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/monaco/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/monaco-whats-yours-is-mine"
+			},
+			{
+				"type":"Wiki",
+				"site":"Monaco: What's Yours Is Mine Wiki",
+				"url":"http://monacowhatsyoursismine.wikia.com/wiki/Monaco:_Whats_Yours_Is_Mine_Wiki"
+			}]
+		}
+	},
+	{
+		"id":595,
+		"details":
+		{
+			"developer":["Coffee Stain Studios"],
+			"synopsis":"Sanctum 2 provides a mix of intense action and strategic gameplay that combines thrilling multiplayer and stunning graphics, raising the bar for indie games. Melding the best elements of the tower defense and first-person shooter genres, players are challenged to protect oxygen-producing Cores from hordes of deadly aliens who are threatened by their existence.<br><br>Outfit your character exactly the way you want through the new and extensive customization system. Choose your own loadout of towers, weapons and perks, but choose wisely because you are humanity's last defense against the unrelenting hordes set out to destroy it. In Sanctum 2, you will utilize elements from multiple gameplay genres to succeed. Construct towers and walls during the building phase before the enemies attack, then jump into the fray and blast everything to pieces in FPS mode. You can progress through the single-player campaign yourself, or play with up to four friends in co-op to discover the secrets of the planet LOEK III and learn the backstory on why the aliens are so intent on destroying the Cores you are sworn to protect.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Expansion Pack",
+				"releaseDate":"2014/03/14",
+				"achievements":100,
+				"type":8,
+				"synopsis":"Play as the mysterious new character TSYGAN, a rogue insurgent that joins the Core Guardians in defending the only enclave of humanity left on the planet LOEK III. Featuring new areas to explore with eight new maps, new unlockable towers, weapons and perks! Explore the dark depths of the Slums of Brightholme! This expansion adds four new maps that will once again brutally challenge your maze building abilities! Key Features New Playable Character 8 New Unique Maps New Weapons New Towers New and Enhanced Enemies Additional Perks"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=sHwlvzaNBDk"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=S6Bp31Wp9CA"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Sanctum-2/achievements.htm"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/sanctum-2"
+			},
+			{
+				"type":"Wiki",
+				"site":"Sanctum Wiki",
+				"url":"http://sanctum.gamepedia.com/Sanctum_Wiki"
+			}]
+		}
+	},
+	{
+		"id":596,
+		"details":
+		{
+			"developer":["Kylotonn"],
+			"synopsis":"Experience all the excitement of the hunt in America! From brown bear to elk, track 25 different preys in this hunting simulation set in the most beautiful countryside of the USA. Complete 30 hunting plans, play as your hunting dog during tracking phases and take on a friend in Ball-Trap mode!",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=amzBDf2avpw"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ZHTmJSYnyyc"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Hunters-Trophy-2-America/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/hunters-trophy-2-america/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/hunters-trophy-2---america"
+			}]
+		}
+	},
+	{
+		"id":597,
+		"details":
+		{
+			"developer":["Techland"],
+			"synopsis":"From the dust of a gold mine to the dirt of a saloon, Call of Juarez: Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter onto the trail of the West's most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=U5_9M60crGs"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=w32H29EQBd8"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/682516-call-of-juarez-gunslinger/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Call-of-Juarez-Gunslinger/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/call-of-juarez-gunslinger/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/call-of-juarez-gunslinger"
+			},
+			{
+				"type":"Wiki",
+				"site":"Call of Juarez Wiki",
+				"url":"http://callofjuarez.wikia.com/wiki/Call_of_Juarez:_Gunslinger"
+			}]
+		}
+	},
+	{
+		"id":598,
+		"details":
+		{
+			"developer":["Zen Studios"],
+			"synopsis":"Set in a colorful medieval world, CastleStorm is a new breed of 2D archery projectile warfare and 2D physics-based structure destruction game. Players will experience a challenging mix of real time strategy, resource management, and a variety of different gameplay scenarios.<br><br>CastleStorm features medieval ballista weaponry, allowing players to launch an assortment of explosive weapons including Morningstars, Apple Grenades, Homing Eagles, and even flying sheep to defeat an onslaught of enemies trying to capture your flag and destroy your castle. Deploy a fearsome ground attack of swordsmen, knights, and donkey riders in order to protect your castle games, and if all else fails, call upon powerful spells to help keep the enemy at bay.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"From Outcast to Savior",
+				"releaseDate":"2013/07/31",
+				"achievements":100,
+				"type":8,
+				"synopsis":"The CastleStorm war continues with 'From Outcast to Savior,' featuring a new 20 battle campaign, new hero, new Royal Guard-class troops, new weapons, and new Achievements (100 <G>)! Lead your army into battle across stunning new environments including Stonecrest, The Royal Airport, The Skyship Harbor and the Bladgard Icefields in your quest to capture the belligerent and power-hungry Viking warrior, Chief Ramhorn."
+			},
+			{
+				"id":2,
+				"name":"The Warrior Queen",
+				"releaseDate":"2013/09/27",
+				"achievements":100,
+				"type":8,
+				"synopsis":"All hail to 'The Warrior Queen,' the newest CastleStorm expansion. A new class of Viking Elite warrior is at your service and ready for your command as you lead them in a quest for revenge against the infamous Chief Ramhorn. The Warrior Queen DLC is packed with 20 new battles, a new hero, a new Viking Elite warrior class, new survival levels, and plenty of new weapons and Achievements."
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=ko0K9t6wykc"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=EjYuO88_3ec"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/CastleStorm/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/castlestorm/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/castlestorm"
+			}]
+		}
+	},
+	{
+		"id":599,
+		"details":
+		{
+			"developer":["Kylotonn"],
+			"synopsis":"Realistic animal behaviour, a variety of environments, weapons, animals, hunting plans, equipment and skills to unlock, online leaderboards, training in shooting at fixed and moving targets...all are brought together to offer a unique gaming experience which will delight experienced and novice hunters as well as players just looking to experience something new.",
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=l4caHlaNf4g"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=mQ7Qpwofi0c"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/Hunters-Trophy-2-Australia/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/hunters-trophy-2-australia/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/hunters-trophy-2---australia"
+			}]
+		}
+	},
+	{
+		"id":600,
+		"details":
+		{
+			"developer":["Undead Labs"],
+			"synopsis":"State of Decay is designed to let zombie fans answer the ultimate question: What would you do in the face of the zombie apocalypse?<br><br>The end is here. Human civilization has been annihilated. The few, scattered survivors must band together, rebuilding civilization in a third- person action game packed with sweet guns, fast cars, hand-to-hand combat, and copious amounts of zombie gore. Players choose where to make their stand, designing and fortifying their settlements, performing daring raids for valuable stores of food and ammunition, and rescuing other playable survivors. The open world develops in real-time, shaped by player actions, with content determined by their choices and the ever-increasing zombie threat.",
+			"dlcs":[
+			{
+				"id":1,
+				"name":"Breakdown",
+				"releaseDate":"2013/11/29",
+				"achievements":100,
+				"type":0,
+				"synopsis":"You've survived State of Decay. Now it's time to move forward and tell your own story. Take on an endless campaign with twists and turns based entirely on your own choices. Build up your score in the face of an ever-escalating zombie threat, and compete with survivors around the world. Complete challenges to unlock new heroes with unique weapons and skills. The deeper you go, the tougher it gets, and every choice is yours."
+			},
+			{
+				"id":2,
+				"name":"Lifeline",
+				"releaseDate":"2014/05/30",
+				"achievements":100,
+				"type":2,
+				"synopsis":"State of Decay: Lifeline puts you into the boots of Greyhound One, a military unit sent into a zombie-infested city to rescue the team of scientists who can put an end to the outbreak. Lifeline features a new map, new characters, and a new way to play: Defend your base against hordes of zombies, using the best military equipment and personnel your unit can scrape together. The fate of the city is in your hands. How many people can you save?"
+			}],
+			"links":[
+			{
+				"type":"Trailer",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=-yvUGEmj_MY"
+			},
+			{
+				"type":"Gameplay",
+				"site":"YouTube",
+				"url":"https://www.youtube.com/watch?v=B0Q1l07NeKU"
+			},
+			{
+				"type":"FAQs, walkthroughs and cheats",
+				"site":"GameFAQs",
+				"url":"http://www.gamefaqs.com/xbox360/681534-state-of-decay/faqs"
+			},
+			{
+				"type":"Achievement list",
+				"site":"TrueAchievements",
+				"url":"http://www.trueachievements.com/State-of-Decay/achievements.htm"
+			},
+			{
+				"type":"Achievement guide",
+				"site":"XboxAchievements",
+				"url":"http://www.xboxachievements.com/game/state-of-decay/guide/"
+			},
+			{
+				"type":"Reviews",
+				"site":"Metacritic",
+				"url":"http://www.metacritic.com/game/xbox-360/state-of-decay"
+			},
+			{
+				"type":"Wiki",
+				"site":"State of Decay Wiki",
+				"url":"http://stateofdecay.wikia.com/wiki/State_of_Decay_Wiki"
+			}]
+		}
+	}]
+}
