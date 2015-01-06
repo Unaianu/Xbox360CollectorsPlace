@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:com.xbox="http://schemas.android.com/apk/res-auto">
+    
+    <item android:id="@+id/options_add"
+        android:icon="@drawable/options_add"
+        android:title="@string/options_add_game"
+        com.xbox:showAsAction="always"/>
+
+    <item android:id="@+id/options_filter_sort"
+		android:icon="@drawable/options_filter_sort"
+   	  	android:title="@string/options_filter_sort"
+   	  	com.xbox:showAsAction="always"/>
+    
+    <item android:icon="@drawable/options_more_options"
+        android:title="@string/options_more_options"
+        com.xbox:showAsAction="always">
+    	
+    	<menu>
+    	    
+	    	<group android:id="@+id/options_more_options">
+	        	
+	    	    <item android:id="@+id/options_goto"
+	          	  	android:title="@string/options_goto"/>
+	    	    
+	    	    <item android:id="@+id/options_clear"
+	          	  	android:title="@string/options_clear"/>
+	    	    
+	      		<item android:id="@+id/options_summary"
+	          	  	android:title="@string/options_summary"/>
+	      		
+	      		<item android:id="@+id/options_export"
+	          	  	android:title="@string/file_selector_export"/>
+	      		
+	      		<item android:id="@+id/options_import"
+	          	  	android:title="@string/file_selector_import"/>
+	      		
+	      		<item android:id="@+id/options_photo_gallery"
+	          	  	android:title="@string/options_photo"/>
+	      
+	      		<item android:id="@+id/options_config"
+	          	  	android:title="@string/options_config"/>
+	      		
+        	</group>
+        	
+        </menu>
+        
+    </item>
+    
+</menu>

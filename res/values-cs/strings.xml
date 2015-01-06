@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Ano</string>
+	<string name="general_no">Ne</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Zrušit</string>
+	<string name="general_players">Hráči</string>
+    <string name="general_players_short">hr.</string>
+    <string name="general_error">Došlo k chybě při provádění vybrané akce</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">Kolekce</string>
+	<string name="title_arcade_collection_icon">Kolekce Arcade</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Nastavení</string>
+	<string name="config_language">Jazyk</string>
+	<string name="config_translate_synopsis">Přeložit synopse</string>
+	<string name="config_translate_synopsis_yes">Ano (pomocí Google Translate)</string>
+	<string name="config_translate_synopsis_no">Ne (původní anglický text)</string>
+	<string name="config_intro">Intro</string>
+	<string name="config_intro_classic">Klasický</string>
+	<string name="config_intro_new">Nový</string>
+	<string name="config_show_genre">Show v kolekci</string>
+	<string name="config_show_genre_year">Rok vydání</string>
+	<string name="config_show_genre_genre">Styl</string>
+	<string name="config_button_save">Ušetřit</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Filtry a třídění</string>
+	<string name="filter_sort_sort_title">TŘÍDĚNÍ</string>
+	<string name="filter_sort_sort">Seřadit podle</string>
+	<string name="filter_sort_filter_title">FILTRY</string>
+	<string name="filter_sort_filter_name">Název</string>
+	<string name="filter_sort_filter_title_hint">[Insert Title]</string>
+	<string name="filter_sort_filter_status">Postavení</string>
+	<string name="filter_sort_filter_genre">Styl</string>
+	<string name="filter_sort_filter_year">Rok vydání</string>
+	<string name="filter_sort_filter_year_hint">[Insert Rok]</string>
+	<string name="filter_sort_filter_online">Online hráči</string>
+	<string name="filter_sort_filter_coop">Co-op hráči</string>
+	<string name="filter_sort_filter_split_screen">Místní hráči</string>
+	<string name="filter_sort_filter_system_link">System Link hráči</string>
+	<string name="filter_sort_filter_multiplayer_hint">[Insert minimální počet hráčů]</string>
+	<string name="filter_sort_button_accept">Akceptovat</string>
+	<string name="filter_sort_button_clear">Jasný</string>
+	<string name="filter_sort_sort_year_asc">Rok - Vzestupně</string>
+	<string name="filter_sort_sort_year_desc">Rok - Sestupně</string>
+	<string name="filter_sort_sort_title_asc">Název - Vzestupně</string>
+	<string name="filter_sort_sort_title_desc">Název - Sestupně</string>
+	<string name="filter_sort_sort_achievements_asc">Úspěchy - Vzestupně</string>
+	<string name="filter_sort_sort_achievements_desc">Úspěchy - Sestupně</string>
+	<string name="filter_sort_filter_status_all">Všechny hry</string>
+	<string name="filter_sort_filter_status_games_own">Hry vlastní</string>
+	<string name="filter_sort_filter_status_games_left">Hry vlevo</string>
+	<string name="filter_sort_filter_status_games_finished">Hry dokončil</string>
+	<string name="filter_sort_filter_status_games_completed">Hry dokončeno</string>
+	<string name="filter_sort_filter_status_games_not_finished">Hry neskončil</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">Vše</string>
+	<string name="filter_sort_filter_kinect_not_required">Není nutné</string>
+	<string name="filter_sort_filter_kinect_used">Používá se ve hře</string>
+	<string name="filter_sort_filter_kinect_required">Potřebný</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Přejít na</string>
+	<string name="goto_name">Název</string>
+	<string name="goto_name_hint">[Insert Title]</string>
+	<string name="goto_year">Rok vydání</string>
+	<string name="goto_year_hint">[Insert Rok]</string>
+	<string name="goto_button_accept">Akceptovat</string>
+	<string name="goto_nothing_found">Nebyly nalezeny žádné hry</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Vaše sbírka je v současné době prázdná, stiskněte ikonu \"+\" na horní liště procházet katalog a přidejte hry</string>
+	<string name="catalog_empty_filters">Nejsou k dispozici žádné hry odpovídající vybrané filtry</string>
+	<string name="catalog_empty_catalog">Nejsou žádné hry, které splňují současné filtry</string>
+	<string name="catalog_icon">Ikona</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Potřebný Kinect</string>
+	<string name="catalog_year">Rok</string>
+	<string name="catalog_achievements">Úspěchy</string>
+	<string name="catalog_status_not_own">Ne vlastní</string>
+	<string name="catalog_status_own">Vlastní</string>
+	<string name="catalog_status_finished">Dokončeno</string>
+	<string name="catalog_status_completed">Dokončený</string>
+	<string name="catalog_retrieving_collection">Načítání sběr, prosím vyčkejte&#8230;</string>
+	<string name="catalog_retrieving_catalog">Načítání katalog, prosím vyčkejte&#8230;</string>
+	<string name="catalog_clear_collection">Jste si jisti, že chcete vymazat své sbírky? Tím se odstraní všechny vaše hry.</string>
+	<string name="catalog_collection_clean">Kolekce odstraněn</string>
+	<string name="catalog_games_recovered">X her zpět</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">Přední</string>
+	<string name="detail_release">Datum vydání</string>
+	<string name="detail_genre">Styl</string>
+	<string name="detail_developer">Vývojka</string>
+	<string name="detail_status">Postavení</string>
+	<string name="detail_achievements">Úspěchy</string>
+	<string name="detail_multiplayer">Multiplayer</string>
+	<string name="detail_multiplayer_online">Online:</string>
+	<string name="detail_multiplayer_coop">Co-op:</string>
+	<string name="detail_multiplayer_split_screen">Místní:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC</string>
+	<string name="detail_synopsis">Synopse</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Volitelné funkce</string>
+	<string name="detail_kinect_required">Povinné hrát</string>
+	<string name="detail_original_game">Původní hra</string>
+	<string name="detail_total_achievements">Celkové úspěchy</string>
+	<string name="detail_no_dlc">No DLC je k dispozici</string>
+	<string name="detail_links">Links</string>
+	<string name="detail_no_links">Žádné odkazy nejsou k dispozici</string>
+	<string name="detail_notes">Poznámky</string>
+	<string name="detail_notes_hint">[Vložte své poznámky zde]</string>
+	<string name="detail_read_more">Dotkněte se dozvíte více.</string>
+	<string name="detail_add_game">\"X\" přidal do sbírky</string>
+	<string name="detail_remove_game">\"X\" odstraní z kolekce</string>
+	<string name="detail_remove_game_confirmation">Jste si jisti, že chcete odstranit vybranou hru ze své sbírky?</string>
+	<string name="detail_edit_game">\"X\" aktualizováno</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">Shrnutí</string>
+	<string name="summary_own_games">Vlastní hry</string>
+	<string name="summary_finished_games">Ukončené hry</string>
+	<string name="summary_completed_games">Dokončené hry</string>
+	<string name="summary_unlocked_achievements">Odemčený úspěchy</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">Nastavení</string>
+	<string name="options_summary">Shrnutí</string>
+	<string name="options_sound_on">Povolit zvuk</string>
+	<string name="options_sound_off">Zakázat zvuk</string>
+	<string name="options_add_game">Procházet katalog</string>
+	<string name="options_save_changes">Uložit změny</string>
+	<string name="options_photo">Fotogalerie</string>
+	<string name="options_add">Přidat</string>
+	<string name="options_clear">Clear kolekce</string>
+	<string name="options_remove_game">Odstranit Game</string>
+	<string name="options_edit">Edit</string>
+	<string name="options_filter_sort">Filter/Sort</string>
+	<string name="options_goto">Přejít na</string>
+	<string name="options_more_options">Další možnosti</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Úspěchy</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">Vše</string>
+	<string name="genre_action">Akce</string>
+	<string name="genre_adventure">Dobrodružství</string>
+	<string name="genre_action_adventure">Akce-dobrodružství</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">RPG</string>
+	<string name="genre_jrpg">Japonský RPG</string>
+	<string name="genre_rts">Strategie</string>
+	<string name="genre_tbs">Turn strategii založenou</string>	
+	<string name="genre_racing">Dostihy</string>
+	<string name="genre_sports">Sportovní</string>	
+	<string name="genre_survival">Přežití</string>	
+	<string name="genre_fighting">Bojování</string>	
+	<string name="genre_open_world">Otevřený Svět</string>	
+	<string name="genre_stealth">Tajnost</string>	
+	<string name="genre_platformer">Platformer</string>	
+	<string name="genre_hs">Hack &amp; Slash</string>	
+	<string name="genre_arpg">Akční RPG</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Sejmi</string>	
+	<string name="genre_tower_defense">Tower Defense</string>	
+	<string name="genre_musical">Music &amp; Rhythm</string>	
+	<string name="genre_cfs">Combat Flight/Námořní Simulator</string>	
+	<string name="genre_sim">Simulator/Správa</string>	
+	<string name="genre_hunting_fishing">Lov a Rybaření</string>	
+	<string name="genre_party">Party &amp; Trivia</string>	
+	<string name="genre_poker">Poker</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Karty/Desková Hra</string>
+	<string name="genre_visual_novel">Visual Novel/Seznamka Simulator</string>
+	<string name="genre_pinball">Pinball</string>
+	<string name="genre_trpg">Tactical RPG</string>
+	<string name="genre_fitness">Fitness</string>
+	<string name="genre_mmorpg">Masivní Multiplayer RPG</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_mp_add_on">Multiplayer Add-On</string>
+	<string name="dlc_type_equipment">Vybavení/Oblečení</string>
+	<string name="dlc_type_car_pack">Auto/Track Balení</string>
+	<string name="dlc_type_minor_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Single-Player Add-On (prodává se samostatně)</string>
+	<string name="dlc_type_mp_add_on_separately">Multiplayer Add-On (prodává se samostatně)</string>
+	<string name="dlc_type_other">Další</string>
+	<string name="dlc_type_sp_mp_add_on">Single/Multiplayer Add-On</string>
+	<string name="dlc_type_track_pack">Track Balení</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">Datum vydání:</string>
+	<string name="dlc_downloaded">Staženo:</string>
+	<string name="dlc_achievements">Úspěchy:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">Kolekce Dovoz</string>
+	<string name="file_selector_import">Dovoz</string>
+	<string name="file_selector_export_title">Kolekce Vývoz</string>
+	<string name="file_selector_export">Vývoz</string>
+	<string name="file_selector_path">Cesta:</string>
+	<string name="file_selector_exported">Kolekce úspěšně exportovány</string>
+	<string name="file_selector_imported">Kolekce úspěšně importována</string>
+	<string name="file_selector_error_importing">Vybraný soubor nelze importovat</string>
+	<string name="file_selector_import_confirmation">Jste si jisti, že chcete importovat vybrané kolekce? Tím se odstraní všechny aktuální hry.</string>
+	<string name="file_selector_image_selection_title">Výběr Image</string>
+	<string name="file_selector_image_selection">Vybrat</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">Fotografie</string>
+	<string name="photo_gallery_take_photo">Vyfotit s kamerou</string>
+	<string name="photo_gallery_select_photo">Vyberte fotografie z paměti</string>
+	<string name="photo_gallery_rotating">Rotační foto, čekejte prosím&#8230;</string>
+	<string name="photo_gallery_delete_photo">Jste si jisti, že chcete odstranit aktuální fotku?</string>
+	<string name="photo_gallery_photo_deleted">Photo odstraněn</string>
+	<string name="photo_gallery_edit_title">Název fotografie</string>
+	<string name="photo_gallery_game">Hra</string>
+	<string name="photo_gallery_no_photos">Žádné fotografie na aktuální hry</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Stažení hry kryty</string>
+    <string name="expansion_paused_device">Chtěli byste, aby stahování přes připojení zařízení? V závislosti na datovém tarifu, může to stát peníze.</string>
+    <string name="expansion_paused_device_2">Pokud se rozhodnete povolit stahování přes připojení zařízení, stahování bude automaticky pokračovat, když wi-fi je k dispozici.</string>
+    <string name="expansion_button_resume_device">Obnovit stahování</string>
+    <string name="expansion_button_wifi_settings">Nastavení Wi-Fi</string>
+    <string name="expansion_verifying_download">Ověření stahování</string>
+    <string name="expansion_validation_complete">Validace soubor XAPK kompletní. Klepněte na tlačítko OK zavřete okno.</string>
+    <string name="expansion_validation_failed">XAPK Ověření souboru se nezdařilo.</string>
+    <string name="expansion_button_pause">Pauza stahování</string>
+    <string name="expansion_button_resume">Obnovit stahování</string>
+    <string name="expansion_button_cancel_verify">Zrušit ověřování</string>
+    
+</resources>

@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Bai</string>
+	<string name="general_no">Ez</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Utzi</string>
+	<string name="general_players">Jokalari</string>
+    <string name="general_players_short">jo.</string>
+    <string name="general_error">Errore bat gertatu da hautatutako ekintza egiterakoan</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">Kolekzioa</string>
+	<string name="title_arcade_collection_icon">Arcade kolekzioa</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Ezarpenak</string>
+	<string name="config_language">Hizkuntza</string>
+	<string name="config_translate_synopsis">Sinopsia itzuli</string>
+	<string name="config_translate_synopsis_yes">Bai (Google Translate erabiliz)</string>
+	<string name="config_translate_synopsis_no">Ez (textu originala ingeleraz)</string>
+	<string name="config_intro">Intro</string>
+	<string name="config_intro_classic">Klasikoa</string>
+	<string name="config_intro_new">Berria</string>
+	<string name="config_show_genre">Kolekzioan erakutsi</string>
+	<string name="config_show_genre_year">Argitalpen urtea</string>
+	<string name="config_show_genre_genre">Generoa</string>
+	<string name="config_button_save">Gorde</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Filtroak eta Ordenazioa</string>
+	<string name="filter_sort_sort_title">ORDENAZIOA</string>
+	<string name="filter_sort_sort">Ordenatu</string>
+	<string name="filter_sort_filter_title">FILTROAK</string>
+	<string name="filter_sort_filter_name">Izenburua</string>
+	<string name="filter_sort_filter_title_hint">[Izenburua sartu]</string>
+	<string name="filter_sort_filter_status">Egoera</string>
+	<string name="filter_sort_filter_genre">Generoa</string>
+	<string name="filter_sort_filter_year">Argitalpen urtea</string>
+	<string name="filter_sort_filter_year_hint">[Urtea sartu]</string>
+	<string name="filter_sort_filter_online">Online Jokalariak</string>
+	<string name="filter_sort_filter_coop">Co-op Jokalariak</string>
+	<string name="filter_sort_filter_split_screen">Jokalari Lokalak</string>
+	<string name="filter_sort_filter_system_link">System Link Jokalariak</string>
+	<string name="filter_sort_filter_multiplayer_hint">[Jokalari zenbaki gutxienekoa sartu]</string>
+	<string name="filter_sort_button_accept">Onartu</string>
+	<string name="filter_sort_button_clear">Garbitu</string>
+	<string name="filter_sort_sort_year_asc">Urtea - Gorantz</string>
+	<string name="filter_sort_sort_year_desc">Urtea - Beherantz</string>
+	<string name="filter_sort_sort_title_asc">Izenburua - Gorantz</string>
+	<string name="filter_sort_sort_title_desc">Izenburua - Beherantz</string>
+	<string name="filter_sort_sort_achievements_asc">Desblokeatutako Lorpenak - Gorantz</string>
+	<string name="filter_sort_sort_achievements_desc">Desblokeatutako Lorpenak - Beherantz</string>
+	<string name="filter_sort_filter_status_all">Joko guztiak</string>
+	<string name="filter_sort_filter_status_games_own">Jabetutako jokoak</string>
+	<string name="filter_sort_filter_status_games_left">Jabetugabeko jokoak</string>
+	<string name="filter_sort_filter_status_games_finished">Amaitutako jokoak</string>
+	<string name="filter_sort_filter_status_games_completed">%100 amaitutako jokoak</string>
+	<string name="filter_sort_filter_status_games_not_finished">amaitugabeko jokoak</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">Guztiak</string>
+	<string name="filter_sort_filter_kinect_not_required">Ez da beharrezkoa</string>
+	<string name="filter_sort_filter_kinect_used">Jokoan erabilia</string>
+	<string name="filter_sort_filter_kinect_required">Beharrezkoa</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Joan</string>
+	<string name="goto_name">Izenburua</string>
+	<string name="goto_name_hint">[Izenburua sartu]</string>
+	<string name="goto_year">Argitalpen urtea</string>
+	<string name="goto_year_hint">[Urtea sartu]</string>
+	<string name="goto_button_accept">Onartu</string>
+	<string name="goto_nothing_found">Ez dira jokorik aurkitu</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Zure kolekzioa utsik dago, sakatu \"+\" ikonoa goiko barran katalogoa arakatzekoeta jokoak gehitzeko</string>
+	<string name="catalog_empty_filters">Ez da sartutako filtroak konplitzen duen jokorik aurkitu</string>
+	<string name="catalog_empty_catalog">Ez da filtroak konplitzen duen jokorik aurkitu</string>
+	<string name="catalog_icon">Ikonoa</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Kinect beharrezkoa</string>
+	<string name="catalog_year">Urtea</string>
+	<string name="catalog_achievements">Lorpenak</string>
+	<string name="catalog_status_not_own">Ez jabetua</string>
+	<string name="catalog_status_own">Jabetua</string>
+	<string name="catalog_status_finished">Amaitua</string>
+	<string name="catalog_status_completed">%100 amaitua</string>
+	<string name="catalog_retrieving_collection">Kolekzioa arakatzen, itxoin mesedez&#8230;</string>
+	<string name="catalog_retrieving_catalog">Katalogoa arakatzen, itxoin mesedez&#8230;</string>
+	<string name="catalog_clear_collection">Ziur zaude kolekzio osoa ezabatu nahi duzula? Joko guztiak ezabatuko dituzu.</string>
+	<string name="catalog_collection_clean">Kolekzioa ezabatua</string>
+	<string name="catalog_games_recovered">X joko berreskuratuta</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">Azala</string>
+	<string name="detail_release">Argitalpen data</string>
+	<string name="detail_genre">Generoa</string>
+	<string name="detail_developer">Egilea</string>
+	<string name="detail_status">Egoera</string>
+	<string name="detail_achievements">Lorpenak</string>
+	<string name="detail_multiplayer">Jokalariak</string>
+	<string name="detail_multiplayer_online">Online:</string>
+	<string name="detail_multiplayer_coop">Co-op:</string>
+	<string name="detail_multiplayer_split_screen">Lokalak:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC</string>
+	<string name="detail_synopsis">Sinopsis</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Aukerako ezaugarriak</string>
+	<string name="detail_kinect_required">Beharrezkoa jolasteko</string>
+	<string name="detail_original_game">Joko originala</string>
+	<string name="detail_total_achievements">Lorpen totalak</string>
+	<string name="detail_no_dlc">Ez daude DLC rik</string>
+	<string name="detail_links">Linkak</string>
+	<string name="detail_no_links">Ez daude linkerik</string>
+	<string name="detail_notes">Oharrak</string>
+	<string name="detail_notes_hint">[Idatzi zure oharrak hemen]</string>
+	<string name="detail_read_more">Ukitu gehiago irakurtzeko.</string>
+	<string name="detail_add_game">\"X\" bildumara gehituta</string>
+	<string name="detail_remove_game">\"X\" bildumatik kenduta</string>
+	<string name="detail_remove_game_confirmation">Ziur zaude hautatutako jokoak zure bildumatik kendu nahi duzula?</string>
+	<string name="detail_edit_game">\"X\" eguneratua</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">Laburpena</string>
+	<string name="summary_own_games">Jabetutako jokoak</string>
+	<string name="summary_finished_games">Amaitutako jokoak</string>
+	<string name="summary_completed_games">%100 amaitutako jokoak</string>
+	<string name="summary_unlocked_achievements">Desblokeatutako Lorpenak</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">Ezarpenak</string>
+	<string name="options_summary">Laburpena</string>
+	<string name="options_sound_on">Soinua aktibatu</string>
+	<string name="options_sound_off">Soinua desaktibatu</string>
+	<string name="options_add_game">Katalogoa Arakatu</string>
+	<string name="options_save_changes">Aldaketak Gorde</string>
+	<string name="options_photo">Argazki Galeria</string>
+	<string name="options_add">Gehitu</string>
+	<string name="options_clear">Kolekzioa ezabatu</string>
+	<string name="options_remove_game">Jokoa ezabatu</string>
+	<string name="options_edit">Editatu</string>
+	<string name="options_filter_sort">Filtroak/Ordenazioa</string>
+	<string name="options_goto">Joan</string>
+	<string name="options_more_options">Ezarpen gehiago</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Lorpenak</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">Guztiak</string>
+	<string name="genre_action">Akzioa</string>
+	<string name="genre_adventure">Abentura</string>
+	<string name="genre_action_adventure">Akzio-abentura</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">Rol jokoa</string>
+	<string name="genre_jrpg">Rol joko japoniarra</string>
+	<string name="genre_rts">Denbora errealeko estrategia</string>
+	<string name="genre_tbs">Txandakako Strategy</string>	
+	<string name="genre_racing">Lasterketak</string>
+	<string name="genre_sports">Kirolak</string>	
+	<string name="genre_survival">Survival</string>	
+	<string name="genre_fighting">Borroka</string>	
+	<string name="genre_open_world">Mundu irekia</string>	
+	<string name="genre_stealth">Infiltrazioa</string>	
+	<string name="genre_platformer">Plataformak</string>	
+	<string name="genre_hs">Hack &amp; Slash</string>	
+	<string name="genre_arpg">Akzio rol jokoa</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Puzzle</string>	
+	<string name="genre_tower_defense">Tower Defense</string>	
+	<string name="genre_musical">Musika eta erritmoa</string>	
+	<string name="genre_cfs">Guda egazkin/Ontzi simulagailua</string>	
+	<string name="genre_sim">Simulagailua/Kudeaketa</string>	
+	<string name="genre_hunting_fishing">Ehiza eta arrantza</string>	
+	<string name="genre_party">Party &amp; Trivia</string>	
+	<string name="genre_poker">Poker</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Kartak/Mahai jokoa</string>
+	<string name="genre_visual_novel">Visual Novel/Dating Simulator</string>
+	<string name="genre_pinball">Pinball</string>
+	<string name="genre_trpg">Rol joko taktikoa</string>
+	<string name="genre_fitness">Fitness</string>
+	<string name="genre_mmorpg">Jokalari masiboko rol jokoa</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Jokalari bakarreko Add-On</string>
+	<string name="dlc_type_mp_add_on">Jokalari anizkuneko Add-On</string>
+	<string name="dlc_type_equipment">Tresnak/Jantziak</string>
+	<string name="dlc_type_car_pack">Auto/Track Pack</string>
+	<string name="dlc_type_minor_sp_add_on">Jokalari bakarreko Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Jokalari bakarreko Add-On (Aparte saldua)</string>
+	<string name="dlc_type_mp_add_on_separately">Jokalari anizkuneko Add-On (Aparte saldua)</string>
+	<string name="dlc_type_other">Besteak</string>
+	<string name="dlc_type_sp_mp_add_on">Jokalari bakar/anizkuneko Add-On</string>
+	<string name="dlc_type_track_pack">Abestiak</string>
+		
+	<!-- DLC -->
+	<string name="dlc_release_date">Argitalpen data:</string>
+	<string name="dlc_downloaded">Deskargatua:</string>
+	<string name="dlc_achievements">Lorpenak:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">Kolekzioa Inportatu</string>
+	<string name="file_selector_import">Inportatu</string>
+	<string name="file_selector_export_title">Kolekzioa Esportatu</string>
+	<string name="file_selector_export">Esportatu</string>
+	<string name="file_selector_path">Kokapena:</string>
+	<string name="file_selector_exported">Kolekzioaren esportazioa arrakastatsua izan da</string>
+	<string name="file_selector_imported">Kolekzioaren inportazioa arrakastatsua izan da</string>
+	<string name="file_selector_error_importing">Aukeratutako fitxategia ezin da inportatu</string>
+	<string name="file_selector_import_confirmation">Ziur zaude hautatutako kolekzioa inportatu nahi duzula? Akzio hau orain dituzun joko guztiak ezabatuko ditu.</string>
+	<string name="file_selector_image_selection_title">Irudia Aukeratu</string>
+	<string name="file_selector_image_selection">Aukeratu</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">Argazkia</string>
+	<string name="photo_gallery_take_photo">Argazkia atera kamararekin</string>
+	<string name="photo_gallery_select_photo">Argazkia aukeratu memoriatik</string>
+	<string name="photo_gallery_rotating">Argazkia biratzen, itxoin mesedez&#8230;</string>
+	<string name="photo_gallery_delete_photo">Ziur zaude aukeratutako argazkia ezabatu nahi duzula?</string>
+	<string name="photo_gallery_photo_deleted">Argazkia ezabatuta</string>
+	<string name="photo_gallery_edit_title">Argazkiaren izena</string>
+	<string name="photo_gallery_game">Jokoa</string>
+	<string name="photo_gallery_no_photos">Aukeratutako jokoa ez du argazkirik</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Joko azalak deskargatzen</string>
+    <string name="expansion_paused_device">Sare mobilak gaitu nahi dituzu? Zure tarifaren arabera, dirua kostatu ahal dizu.</string>
+    <string name="expansion_paused_device_2">Sare mobilak gaitzen ez badituzu, deskarga automatikoki jarraitu egingo du Wi-Fi sare bat eskuragarri dagoenean.</string>
+    <string name="expansion_button_resume_device">Deskargarekin Jarraitu</string>
+    <string name="expansion_button_wifi_settings">Wi-Fi ezarpenak</string>
+    <string name="expansion_verifying_download">Deskarga Egiaztatzen</string>
+    <string name="expansion_validation_complete">XAPK fitxategiaren egiaztapena bukatuta. OK aukeratu irteteko.</string>
+    <string name="expansion_validation_failed">XAPK fitxategiaren egiaztapena huts egin du.</string>
+    <string name="expansion_button_pause">Deskarga Gelditu</string>
+    <string name="expansion_button_resume">Deskargarekin Jarraitu</string>
+    <string name="expansion_button_cancel_verify">Egiaztapena Deuseztu</string>
+    
+</resources>

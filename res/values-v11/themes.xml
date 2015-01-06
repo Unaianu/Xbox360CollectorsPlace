@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="XboxActionBarTheme"
+           parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/XboxActionBarStyle</item>
+        <item name="actionBarStyle">@style/XboxActionBarStyle</item>
+        <item name="actionBarItemBackground">@drawable/actionbar_icon_background</item>
+    </style>
+
+    <style name="XboxActionBarStyle"
+           parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/background_action_bar</item>
+        <item name="background">@drawable/background_action_bar</item>
+    </style>
+    
+</resources>

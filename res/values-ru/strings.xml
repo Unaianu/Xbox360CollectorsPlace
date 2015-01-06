@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Да</string>
+	<string name="general_no">Нет</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Отменить</string>
+	<string name="general_players"></string>
+    <string name="general_players_short">иг.</string>
+    <string name="general_error">Произошла ошибка при выполнении выбранного действия</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">коллекция</string>
+	<string name="title_arcade_collection_icon">коллекция Аркады</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Настройки</string>
+	<string name="config_language">Язык</string>
+	<string name="config_translate_synopsis">Перевести краткий</string>
+	<string name="config_translate_synopsis_yes">Да (с помощью Google Translate)</string>
+	<string name="config_translate_synopsis_no">Нет (оригинал английский текст)</string>
+	<string name="config_intro">Введение</string>
+	<string name="config_intro_classic">классический</string>
+	<string name="config_intro_new">Новинка</string>
+	<string name="config_show_genre">Показывать в коллекции</string>
+	<string name="config_show_genre_year">Год выпуска</string>
+	<string name="config_show_genre_genre">Жанр</string>
+	<string name="config_button_save">Сохранить</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Фильтры и сортировка</string>
+	<string name="filter_sort_sort_title">СОРТИРОВКА</string>
+	<string name="filter_sort_sort">Сортировать по</string>
+	<string name="filter_sort_filter_title">ФИЛЬТРЫ</string>
+	<string name="filter_sort_filter_name">Название</string>
+	<string name="filter_sort_filter_title_hint">[указать название]</string>
+	<string name="filter_sort_filter_status">статус</string>
+	<string name="filter_sort_filter_genre">Жанр</string>
+	<string name="filter_sort_filter_year">Год выпуска</string>
+	<string name="filter_sort_filter_year_hint">[указать год]</string>
+	<string name="filter_sort_filter_online">Игроков</string>
+	<string name="filter_sort_filter_coop">Кооператив Игроки</string>
+	<string name="filter_sort_filter_split_screen">Местные Игроки</string>
+	<string name="filter_sort_filter_system_link">System Link Игроки</string>
+	<string name="filter_sort_filter_multiplayer_hint">[указать минимальное количество игроков]</string>
+	<string name="filter_sort_button_accept">принимать</string>
+	<string name="filter_sort_button_clear">ясно</string>
+	<string name="filter_sort_sort_year_asc">Год - По возрастанию</string>
+	<string name="filter_sort_sort_year_desc">Год - по убыванию</string>
+	<string name="filter_sort_sort_title_asc">Название - по возрастанию</string>
+	<string name="filter_sort_sort_title_desc">Название - по убыванию</string>
+	<string name="filter_sort_sort_achievements_asc">разблокирована Достижения - по возрастанию</string>
+	<string name="filter_sort_sort_achievements_desc">разблокирована Достижения - по убыванию</string>
+	<string name="filter_sort_filter_status_all">Все игры</string>
+	<string name="filter_sort_filter_status_games_own">Игры владеть</string>
+	<string name="filter_sort_filter_status_games_left">Игры оставил</string>
+	<string name="filter_sort_filter_status_games_finished">Игры готовые</string>
+	<string name="filter_sort_filter_status_games_completed">Завершенные игры</string>
+	<string name="filter_sort_filter_status_games_not_finished">Игры не закончена</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">все</string>
+	<string name="filter_sort_filter_kinect_not_required">Не требуется</string>
+	<string name="filter_sort_filter_kinect_used">Используется в игре</string>
+	<string name="filter_sort_filter_kinect_required">требуется</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Перейти к</string>
+	<string name="goto_name">Название</string>
+	<string name="goto_name_hint">[указать название]</string>
+	<string name="goto_year">Год выпуска</string>
+	<string name="goto_year_hint">[указать год]</string>
+	<string name="goto_button_accept">принимать</string>
+	<string name="goto_nothing_found">Игры не найдены</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Ваша коллекция пуста, нажмите значок \"+\" на верхней панели, чтобы просмотреть каталог и добавлять игры</string>
+	<string name="catalog_empty_filters">Там нет игр, соответствующие выбранным фильтрам</string>
+	<string name="catalog_empty_catalog">Там нет игр отвечающие текущие фильтры</string>
+	<string name="catalog_icon">значок</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">требуется Kinect</string>
+	<string name="catalog_year">Год</string>
+	<string name="catalog_achievements">Достижения</string>
+	<string name="catalog_status_not_own">Не самостоятельно</string>
+	<string name="catalog_status_own">собственный</string>
+	<string name="catalog_status_finished">Готовые</string>
+	<string name="catalog_status_completed">Завершен</string>
+	<string name="catalog_retrieving_collection">Получение коллекции, пожалуйста, подождите&#8230;</string>
+	<string name="catalog_retrieving_catalog">Получение каталог, пожалуйста, подождите&#8230;</string>
+	<string name="catalog_clear_collection">Вы уверены, что хотите удалить вашу коллекцию? Это позволит удалить все ваши игры.</string>
+	<string name="catalog_collection_clean">Коллекция удалены</string>
+	<string name="catalog_games_recovered">X игр восстановлены</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">крышка</string>
+	<string name="detail_release">Дата выпуска</string>
+	<string name="detail_genre">Жанр</string>
+	<string name="detail_developer">разработчик</string>
+	<string name="detail_status">статус</string>
+	<string name="detail_achievements">достижения</string>
+	<string name="detail_multiplayer">Мультиплеер</string>
+	<string name="detail_multiplayer_online">Интернет:</string>
+	<string name="detail_multiplayer_coop">Кооператив:</string>
+	<string name="detail_multiplayer_split_screen">Местное время:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC</string>
+	<string name="detail_synopsis">конспект</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Дополнительные функции</string>
+	<string name="detail_kinect_required">Требуется, чтобы играть</string>
+	<string name="detail_original_game">Оригинальная игра</string>
+	<string name="detail_total_achievements">Всего достижений</string>
+	<string name="detail_no_dlc">Нет DLC, что доступно</string>
+	<string name="detail_links">связи</string>
+	<string name="detail_no_links">Нет ссылок в наличии</string>
+	<string name="detail_notes">примечания</string>
+	<string name="detail_notes_hint">[Вставьте свои заметки здесь]</string>
+	<string name="detail_read_more">Нажмите, чтобы читать больше.</string>
+	<string name="detail_add_game">\"X\" добавлен в коллекцию</string>
+	<string name="detail_remove_game">\"X\" удален из коллекции</string>
+	<string name="detail_remove_game_confirmation">Вы уверены, что хотите удалить выбранную игру из вашей коллекции?</string>
+	<string name="detail_edit_game">\"X\" обновленный</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">резюме</string>
+	<string name="summary_own_games">Отдельная игры</string>
+	<string name="summary_finished_games">Готовые игры</string>
+	<string name="summary_completed_games">Завершенные игры</string>
+	<string name="summary_unlocked_achievements">разблокирована достижения</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">настройки</string>
+	<string name="options_summary">резюме</string>
+	<string name="options_sound_on">Включить звук</string>
+	<string name="options_sound_off">Отключить звук</string>
+	<string name="options_add_game">Показать каталог</string>
+	<string name="options_save_changes">Сохранить изменения</string>
+	<string name="options_photo">Фотогалерея</string>
+	<string name="options_add">добавлять</string>
+	<string name="options_clear">Ясно коллекция</string>
+	<string name="options_remove_game">Удалить игру</string>
+	<string name="options_edit">редактировать</string>
+	<string name="options_filter_sort">Фильтр / Сортировать</string>
+	<string name="options_goto">Перейти к</string>
+	<string name="options_more_options">Другие варианты</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Достижения</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">все</string>
+	<string name="genre_action">Действие</string>
+	<string name="genre_adventure">Приключение</string>
+	<string name="genre_action_adventure">Боевик-приключения</string>
+	<string name="genre_fps">Шутер от первого лица</string>
+	<string name="genre_tps">шутер от третьего лица</string>
+	<string name="genre_rpg">Ролевая игра</string>
+	<string name="genre_jrpg">Японский ролевая игра</string>
+	<string name="genre_rts">Стратегия в реальном времени</string>
+	<string name="genre_tbs">Пошаговая стратегия</string>	
+	<string name="genre_racing">гоночный</string>
+	<string name="genre_sports">спортивный</string>	
+	<string name="genre_survival">выживание</string>	
+	<string name="genre_fighting">борьба</string>	
+	<string name="genre_open_world">Открытый мир</string>	
+	<string name="genre_stealth">хитрость</string>	
+	<string name="genre_platformer">платформер</string>	
+	<string name="genre_hs">Взломать &amp; Slash</string>	
+	<string name="genre_arpg">Действие ролевая игра</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Головоломки</string>	
+	<string name="genre_tower_defense">башня обороны</string>	
+	<string name="genre_musical">Музыка и ритм</string>	
+	<string name="genre_cfs">Combat Flight/военно-морской симулятор</string>	
+	<string name="genre_sim">Симулятор / управление</string>	
+	<string name="genre_hunting_fishing">Охота и Рыбалка</string>	
+	<string name="genre_party">Партия и мелочи</string>	
+	<string name="genre_poker">Покер</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Карты / настольная игра</string>
+	<string name="genre_visual_novel">Визуальная новелла / свидания симулятор</string>
+	<string name="genre_pinball">Pinball</string>
+	<string name="genre_trpg">Тактический ролевая игра</string>
+	<string name="genre_fitness">фитнес</string>
+	<string name="genre_mmorpg">Многопользовательская ролевая игра</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Единственный игрок Add-On</string>
+	<string name="dlc_type_mp_add_on">Мультиплеер Add-On</string>
+	<string name="dlc_type_equipment">Оборудование / Одежда</string>
+	<string name="dlc_type_car_pack">Автомобиль / Track обновления</string>
+	<string name="dlc_type_minor_sp_add_on">Единственный игрок Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Единственный игрок Add-On (продается отдельно)</string>
+	<string name="dlc_type_mp_add_on_separately">Мультиплеер Add-On (продается отдельно)</string>
+	<string name="dlc_type_other">Другой</string>
+	<string name="dlc_type_sp_mp_add_on">Одноместный / Мультиплеер Add-On</string>
+	<string name="dlc_type_track_pack">Трек обновления</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">Дата выпуска:</string>
+	<string name="dlc_downloaded">Скачано:</string>
+	<string name="dlc_achievements">Достижения:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">коллекция Импорт</string>
+	<string name="file_selector_import">импорт</string>
+	<string name="file_selector_export_title">коллекция Экспорт</string>
+	<string name="file_selector_export">Экспорт</string>
+	<string name="file_selector_path">путь:</string>
+	<string name="file_selector_exported">Коллекция успешно экспортируется</string>
+	<string name="file_selector_imported">Коллекция успешно импортированы</string>
+	<string name="file_selector_error_importing">Выбранный файл не может быть импортирован</string>
+	<string name="file_selector_import_confirmation">Вы уверены, что вы хотите, чтобы импортировать выбранный коллекцию? Это позволит удалить все текущие игр.</string>
+	<string name="file_selector_image_selection_title">Выбор изображения</string>
+	<string name="file_selector_image_selection">выбрать</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">фото</string>
+	<string name="photo_gallery_take_photo">Возьмите фотографию с камеры</string>
+	<string name="photo_gallery_select_photo">Выберите фотографию из памяти</string>
+	<string name="photo_gallery_rotating">Вращение фото, пожалуйста, подождите&#8230;</string>
+	<string name="photo_gallery_delete_photo">Вы уверены, что хотите удалить текущую фотографию?</string>
+	<string name="photo_gallery_photo_deleted">Фото удалена</string>
+	<string name="photo_gallery_edit_title">название фото</string>
+	<string name="photo_gallery_game">игра</string>
+	<string name="photo_gallery_no_photos">Нет фотографий по текущей игре</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Загрузка игры крышки</string>
+    <string name="expansion_paused_device">Хотите, чтобы разрешить загрузку через соединение устройств? В зависимости от тарифного плана данных, это может стоить вам денег.</string>
+    <string name="expansion_paused_device_2">Если вы не хотите разрешить загрузку подключениями устройств, загрузка автоматически возобновится, когда Wi-Fi доступен.</string>
+    <string name="expansion_button_resume_device">Возобновление загрузки</string>
+    <string name="expansion_button_wifi_settings">Настройки Wi-Fi</string>
+    <string name="expansion_verifying_download">Проверка загрузки</string>
+    <string name="expansion_validation_complete">Валидация файлов XAPK завершена. Выберите OK, чтобы выйти.</string>
+    <string name="expansion_validation_failed">XAPK проверки файла не удалось.</string>
+    <string name="expansion_button_pause">Пауза скачать</string>
+    <string name="expansion_button_resume">Возобновление загрузки</string>
+    <string name="expansion_button_cancel_verify">Отменить проверку</string>
+    
+</resources>

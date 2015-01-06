@@ -1,0 +1,337 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="30dp"
+    android:layout_gravity="center"
+    android:baselineAligned="false"
+    android:background="@drawable/background_popup"
+    android:orientation="vertical">
+    
+    <TextView
+        android:id="@+id/txtFilterSortTitle"
+        style="@style/TxtWindowsStyleLarge"
+	    android:text="@string/filter_sort_title"
+	    android:layout_marginBottom="5dp"
+		android:focusable="true"
+	    android:focusableInTouchMode="true"/>
+    
+    <ScrollView
+        android:id="@+id/lytScroll"
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_below="@+id/txtFilterSortTitle"
+    	android:layout_above="@+id/lytButtons">
+    	
+        <LinearLayout
+            android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:orientation="vertical">
+    	
+		    <TextView
+			    android:layout_width="match_parent"
+		   	 	android:layout_height="wrap_content"
+		   	 	android:layout_marginLeft="5dp"
+		   	 	android:layout_marginRight="5dp"
+		   	 	android:gravity="center"
+		   	 	android:text="@string/filter_sort_sort_title"
+			    android:textStyle="bold"
+			    android:textSize="20sp"/>
+		    
+		    <View
+		        android:layout_width="match_parent"
+		        android:layout_height="1dp"
+		        android:layout_marginLeft="5dp"
+		   	 	android:layout_marginRight="5dp"
+		        android:layout_marginBottom="5dp"
+		   		android:background="@color/black"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+		 		android:layout_marginTop="5dp"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_sort"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		        
+		    <Spinner
+		        android:id="@+id/spnSort"
+		        android:layout_width="match_parent"
+		   		android:layout_height="wrap_content"
+		   		android:layout_margin="5dp"
+		   	 	android:textSize="18sp"
+		   	 	android:paddingLeft="5dp"
+		        android:paddingTop="0dp"
+		        android:paddingBottom="0dp"
+		   		android:layout_marginBottom="10dp"
+		   		android:background="@drawable/spinner_background"/>
+		    
+		    <TextView
+			    android:layout_width="match_parent"
+		   	 	android:layout_height="wrap_content"
+		   	 	android:layout_marginTop="5dp"
+		    	android:layout_marginLeft="5dp"
+		   	 	android:layout_marginRight="5dp"
+		   	 	android:gravity="center"
+		   	 	android:text="@string/filter_sort_filter_title"
+			    android:textStyle="bold"
+			    android:textSize="20sp"/>
+		    
+		    <View
+		        android:layout_width="match_parent"
+		        android:layout_height="1dp"
+		        android:layout_marginLeft="5dp"
+		   	 	android:layout_marginRight="5dp"
+		        android:layout_marginBottom="5dp"
+		   		android:background="@color/black"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+		 		android:layout_marginTop="5dp"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_name"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <EditText
+		        android:id="@+id/edtFilterTitle"
+		        android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="5dp"
+			    android:inputType="text"
+			    android:lines="1"
+			    android:textSize="16sp"
+		   		android:padding="6dp"
+	  	 		android:hint="@string/filter_sort_filter_title_hint"
+			    android:background="@drawable/textfield_background"/>
+		    
+		    <TextView
+		 		android:id="@+id/txtLabelFilterStatus"
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_status"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <Spinner
+		        android:id="@+id/spnFilterStatus"
+		        android:layout_width="match_parent"
+		   		android:layout_height="wrap_content"
+		   		android:layout_margin="5dp"
+		   	 	android:textSize="18sp"
+		   	 	android:paddingLeft="5dp"
+		        android:paddingTop="0dp"
+		        android:paddingBottom="0dp"
+		   		android:background="@drawable/spinner_background"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_genre"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <Spinner
+		        android:id="@+id/spnFilterGenre1"
+		        android:layout_width="match_parent"
+		   		android:layout_height="wrap_content"
+		   		android:layout_margin="5dp"
+		   	 	android:textSize="18sp"
+		   	 	android:paddingLeft="5dp"
+		        android:paddingTop="0dp"
+		        android:paddingBottom="0dp"
+		   		android:background="@drawable/spinner_background"/>
+		    
+		    <Spinner
+		        android:id="@+id/spnFilterGenre2"
+		        android:layout_width="match_parent"
+		   		android:layout_height="wrap_content"
+		   		android:layout_margin="5dp"
+		   	 	android:textSize="18sp"
+		   	 	android:paddingLeft="5dp"
+		        android:paddingTop="0dp"
+		        android:paddingBottom="0dp"
+		   		android:background="@drawable/spinner_background"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_year"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <EditText
+		        android:id="@+id/edtFilterYear"
+		        android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="5dp"
+			    android:inputType="number"
+			    android:lines="1"
+			    android:textSize="16sp"
+		   		android:padding="6dp"
+	  	 		android:hint="@string/filter_sort_filter_year_hint"
+			    android:maxLength="4"
+			    android:background="@drawable/textfield_background"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_online"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <EditText
+		        android:id="@+id/edtFilterOnline"
+		        android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="5dp"
+			    android:inputType="number"
+			    android:lines="1"
+			    android:textSize="16sp"
+		   		android:padding="6dp"
+	  	 		android:hint="@string/filter_sort_filter_multiplayer_hint"
+			    android:maxLength="2"
+			    android:background="@drawable/textfield_background"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_coop"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <EditText
+		        android:id="@+id/edtFilterCoop"
+		        android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="5dp"
+			    android:inputType="number"
+			    android:lines="1"
+			    android:textSize="16sp"
+		   		android:padding="6dp"
+	  	 		android:hint="@string/filter_sort_filter_multiplayer_hint"
+			    android:maxLength="2"
+			    android:background="@drawable/textfield_background"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_split_screen"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <EditText
+		        android:id="@+id/edtFilterSplitScreen"
+		        android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="5dp"
+			    android:inputType="number"
+			    android:lines="1"
+			    android:textSize="16sp"
+		   		android:padding="6dp"
+	  	 		android:hint="@string/filter_sort_filter_multiplayer_hint"
+			    android:maxLength="2"
+			    android:background="@drawable/textfield_background"/>
+		    
+		    <TextView
+		        android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_system_link"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <EditText
+		        android:id="@+id/edtFilterSystemLink"
+		        android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="5dp"
+			    android:inputType="number"
+			    android:lines="1"
+			    android:textSize="16sp"
+		   		android:padding="6dp"
+	  	 		android:hint="@string/filter_sort_filter_multiplayer_hint"
+			    android:maxLength="2"
+			    android:background="@drawable/textfield_background"/>
+		    
+		    <TextView
+		 		android:layout_width="match_parent"
+		 		android:layout_height="wrap_content"
+			    android:layout_marginLeft="5dp"
+		   		android:text="@string/filter_sort_filter_kinect"
+		   		android:textSize="16sp"
+		   		android:textStyle="bold"/>
+		    
+		    <Spinner
+		        android:id="@+id/spnFilterKinect"
+		        android:layout_width="match_parent"
+		   		android:layout_height="wrap_content"
+		   		android:layout_margin="5dp"
+		   	 	android:textSize="18sp"
+		   	 	android:paddingLeft="5dp"
+		        android:paddingTop="0dp"
+		        android:paddingBottom="0dp"
+		   		android:background="@drawable/spinner_background"/>
+
+	    </LinearLayout>
+		    
+    </ScrollView>
+    
+    <LinearLayout 
+        android:id="@+id/lytButtons"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:orientation="vertical">
+        
+        <View
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="5dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:layout_marginRight="5dp"
+	        android:background="@color/black"/>
+        
+        <LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:gravity="center">
+		    
+		    <Button
+		        android:id="@+id/btnAccept"
+		        android:layout_width="100dp"
+		        android:layout_height="35dp"
+		        android:layout_marginTop="10dp"
+		        android:layout_marginBottom="10dp"
+		        android:text="@string/filter_sort_button_accept"
+		        android:textSize="16sp"
+	        	android:background="@drawable/button_background"/>
+		    
+		    <Button
+				android:id="@+id/btnClear"
+		        android:layout_width="100dp"
+		        android:layout_height="35dp"
+		        android:layout_marginLeft="25dp"
+		       	android:layout_marginTop="10dp"
+		        android:layout_marginBottom="10dp"
+		        android:text="@string/filter_sort_button_clear"
+		        android:textSize="16sp"
+	        	android:background="@drawable/button_background"/>
+    
+	    </LinearLayout>
+	    
+    </LinearLayout>
+    
+</RelativeLayout>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:baselineAligned="false"
+    android:background="@drawable/background_popup"
+    android:orientation="vertical">
+    
+    <TextView
+	    style="@style/TxtWindowsStyle"
+	    android:id="@+id/txtTitle"
+		android:text="@string/summary_title"/>
+    
+    <LinearLayout
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+	   	android:orientation="vertical">
+        
+        <!-- OWN GAMES -->
+        <TextView
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/summary_own_games"/>
+        
+	    <RelativeLayout
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp">
+			
+		    <TextView
+			    android:id="@+id/txtOwnGames"
+			    android:layout_width="fill_parent"
+		   	 	android:layout_height="30dp"
+		   	 	android:layout_marginLeft="10dp"
+		   	 	android:layout_marginRight="10dp"
+		        android:gravity="center"
+		   	 	android:textStyle="bold"
+		   	 	android:textSize="14sp"/>
+				
+			<ProgressBar
+		        android:id="@+id/progressOwnGames"
+		        android:layout_width="fill_parent"
+		        android:layout_height="30dp"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        style="?android:attr/progressBarStyleHorizontal"
+	    		android:progressDrawable="@drawable/achievements_progress_bar"/>
+    
+		</RelativeLayout>
+		
+	    <!-- FINISHED GAMES -->
+        <TextView
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/summary_finished_games"/>
+        
+        <RelativeLayout
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp">
+			
+		    <TextView
+			    android:id="@+id/txtFinishedGames"
+			    android:layout_width="fill_parent"
+		   	 	android:layout_height="30dp"
+		   	 	android:layout_marginLeft="10dp"
+		   	 	android:layout_marginRight="10dp"
+		        android:gravity="center"
+		   	 	android:textStyle="bold"
+		   	 	android:textSize="14sp"/>
+				
+			<ProgressBar
+		        android:id="@+id/progressFinishedGames"
+		        android:layout_width="fill_parent"
+		        android:layout_height="30dp"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        style="?android:attr/progressBarStyleHorizontal"
+	    		android:progressDrawable="@drawable/achievements_progress_bar"/>
+    
+		</RelativeLayout>
+		
+        <!-- COMPLETED GAMES -->
+        <TextView
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/summary_completed_games"/>
+        
+        <RelativeLayout
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp">
+			
+		    <TextView
+			    android:id="@+id/txtCompletedGames"
+			    android:layout_width="fill_parent"
+		   	 	android:layout_height="30dp"
+		   	 	android:layout_marginLeft="10dp"
+		   	 	android:layout_marginRight="10dp"
+		        android:gravity="center"
+		   	 	android:textStyle="bold"
+		   	 	android:textSize="14sp"/>
+				
+			<ProgressBar
+		        android:id="@+id/progressCompletedGames"
+		        android:layout_width="fill_parent"
+		        android:layout_height="30dp"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        style="?android:attr/progressBarStyleHorizontal"
+	    		android:progressDrawable="@drawable/achievements_progress_bar"/>
+    
+		</RelativeLayout>
+		
+        <!-- UNLOCKED ACHIEVEMENTS -->
+        <TextView
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/summary_unlocked_achievements"/>
+        
+        <RelativeLayout
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp">
+			
+            <RelativeLayout
+		   	 	android:id="@+id/lytAchievements"
+			    android:layout_width="fill_parent"
+	   	 		android:layout_height="30dp"
+	   	 		android:gravity="center"
+			   	android:layout_marginLeft="10dp"
+		   	 	android:layout_marginRight="10dp">
+		   	 	
+			    <TextView
+				    android:id="@+id/txtUnlockedAchievements"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_centerInParent="true"
+			   	 	android:textStyle="bold"
+			   	 	android:textSize="14sp"/>
+			    
+			    <ImageView
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_marginLeft="4dp"
+			        android:layout_centerVertical="true"
+				    android:layout_toRightOf="@+id/txtUnlockedAchievements"
+		    		android:contentDescription="@string/catalog_gamerscore"
+				    android:src="@drawable/icon_gamerscore"/>
+			    
+			</RelativeLayout>	
+			
+			<ProgressBar
+		        android:id="@+id/progressUnlockedAchievements"
+		        android:layout_width="fill_parent"
+		        android:layout_height="30dp"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        style="?android:attr/progressBarStyleHorizontal"
+	    		android:progressDrawable="@drawable/achievements_progress_bar"/>
+    
+		</RelativeLayout>
+		
+   	</LinearLayout>
+   	
+    <LinearLayout 
+        android:layout_width="match_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_margin="10dp"
+   		android:orientation="horizontal"
+	    android:gravity="center">
+        
+	    <Button
+	        android:id="@+id/btnChange"
+	        android:layout_width="100dp"
+	        android:layout_height="35dp"
+	        android:textSize="16sp"
+	        android:background="@drawable/button_background"/>
+    
+    </LinearLayout>
+    
+</LinearLayout>

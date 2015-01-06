@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="2"
+    android:orientation="vertical"
+    android:background="@drawable/menu_background">
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:gravity="center_horizontal"
+	    android:layout_weight="1">
+        
+        <LinearLayout 
+	        android:id="@+id/lytVideoBoot"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:background="@drawable/view_border">
+        
+		    <VideoView 
+		        android:id="@+id/videoBoot"
+		        android:layout_width="500dp"
+		        android:layout_height="350dp"/>
+		    
+		</LinearLayout>
+	    
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal">
+	    
+	    <ImageView 
+	        android:id="@+id/imgCatalog"
+	        android:layout_width="180dp"
+	        android:layout_height="180dp"
+	        android:src="@drawable/menu_retail"
+	        android:contentDescription="@string/title_collection_icon"/>
+	    
+	    <ImageView 
+	        android:id="@+id/imgArcadeCatalog"
+	        android:layout_width="180dp"
+	        android:layout_height="180dp"
+	        android:layout_marginLeft="50dp"
+	        android:src="@drawable/menu_arcade"
+	        android:contentDescription="@string/title_arcade_collection_icon"/>
+
+    </LinearLayout>
+    
+</LinearLayout>

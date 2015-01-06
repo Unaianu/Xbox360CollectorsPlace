@@ -1,0 +1,125 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <LinearLayout 
+        android:id="@+id/lytDLCHorizontal"
+		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="3dp"
+	    android:layout_marginBottom="3dp"
+    	android:background="@drawable/view_border_thin">
+  	 	
+		<ImageView 
+		    android:id="@+id/imgDLCHorizontal"
+		    android:layout_width="225dp"
+	   	 	android:layout_height="51dp"
+	   	 	android:contentDescription="@string/detail_cover"/>
+
+	</LinearLayout>
+
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content">
+
+	    <LinearLayout 
+	        android:id="@+id/lytDLCCover"
+			android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="3dp"
+		    android:layout_marginBottom="3dp"
+		    android:layout_marginRight="4dp"
+		    android:layout_centerVertical="true"
+			android:background="@color/black">
+	        
+		    <ImageView
+		        android:id="@+id/imgDLCCover"
+			    android:layout_width="106dp"
+			    android:layout_height="127dp"
+			    android:padding="1px"
+			    android:contentDescription="@string/catalog_icon"/>
+		    
+	    </LinearLayout>  
+	        
+	    <LinearLayout
+	    	android:layout_width="match_parent"
+		    android:layout_height="fill_parent"
+		    android:layout_toRightOf="@+id/lytDLCCover"
+		    android:layout_toLeftOf="@+id/lytDLCDownloaded"
+		    android:orientation="vertical">
+		    
+		    <TextView
+		        android:id="@+id/txtDLCName"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:gravity="center_vertical"
+			    android:textStyle="bold"
+			    android:textSize="14sp"
+		    	android:textColor="@color/black"/>
+			    
+		    <TextView
+		        android:id="@+id/txtDLCType"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:textSize="12sp"
+		    	android:textColor="@color/black"/>
+			    
+		    <TextView
+		        android:id="@+id/txtDLCReleaseDate"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:textSize="12sp"
+		    	android:textColor="@color/black"/>
+		    
+		    <LinearLayout
+		        android:id="@+id/lytDLCAchievements"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content">
+		        
+			    <TextView
+			        android:id="@+id/txtDLCAchievements"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:textSize="12sp"
+		    		android:textColor="@color/black"/>	
+				    
+			    <ImageView
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+		    		android:layout_marginLeft="4dp"
+		    		android:contentDescription="@string/catalog_gamerscore"
+				    android:layout_gravity="center_vertical"
+					android:src="@drawable/icon_gamerscore_small"/>
+			    
+		    </LinearLayout>
+		    
+		    <com.xboxcollectorsplace.utils.JustifiedTextView
+		        android:id="@+id/txtDLCSynopsis"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:textSize="12sp"/>	
+				    
+	    </LinearLayout>
+	    
+	    <RelativeLayout
+	    	android:id="@+id/lytDLCDownloaded"
+			android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+		    android:orientation="vertical">
+		    
+			    <CheckBox
+			        android:id="@+id/chkDLCDownloaded"
+				    android:layout_width="25dp"
+				    android:layout_height="25dp"
+				    android:button="@drawable/checkbox_background"/>
+		    		    
+		</RelativeLayout>
+	    
+	</RelativeLayout>
+
+</LinearLayout>

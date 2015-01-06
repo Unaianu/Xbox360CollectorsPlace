@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Kyllä</string>
+	<string name="general_no">Ei</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Peruuttaa</string>
+	<string name="general_players">pe.</string>
+    <string name="general_players_short">pe.</string>
+    <string name="general_error">Virhe suoritettaessa valittu toiminto</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">Kokoelma</string>
+	<string name="title_arcade_collection_icon">Arcade kokoelma</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Asetukset</string>
+	<string name="config_language">Kieli</string>
+	<string name="config_translate_synopsis">Käännä synopsis</string>
+	<string name="config_translate_synopsis_yes">Kyllä (Google Translate)</string>
+	<string name="config_translate_synopsis_no">Ei (alkuperäinen englanti teksti)</string>
+	<string name="config_intro">Intro</string>
+	<string name="config_intro_classic">Klassikko</string>
+	<string name="config_intro_new">Uusi</string>
+	<string name="config_show_genre">Näytä kokoelma</string>
+	<string name="config_show_genre_year">Julkaisuvuosi</string>
+	<string name="config_show_genre_genre">Laji</string>
+	<string name="config_button_save">Tallenna</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Suodattimet ja Lajittelu</string>
+	<string name="filter_sort_sort_title">LAJITTELU</string>
+	<string name="filter_sort_sort">Lajittele</string>
+	<string name="filter_sort_filter_title">SUODATTIMET</string>
+	<string name="filter_sort_filter_name">Otsikko</string>
+	<string name="filter_sort_filter_title_hint">[Otsikko]</string>
+	<string name="filter_sort_filter_status">Tila</string>
+	<string name="filter_sort_filter_genre">Laji</string>
+	<string name="filter_sort_filter_year">Julkaisuvuosi</string>
+	<string name="filter_sort_filter_year_hint">[Lisää vuosi]</string>
+	<string name="filter_sort_filter_online">Online Pelaajat</string>
+	<string name="filter_sort_filter_coop">Co-op Pelaajat</string>
+	<string name="filter_sort_filter_split_screen">Paikalliset Pelaajat</string>
+	<string name="filter_sort_filter_system_link">System Link Pelaajat</string>
+	<string name="filter_sort_filter_multiplayer_hint">[Lisää Pelaajien minimimäärä]</string>
+	<string name="filter_sort_button_accept">Hyväksyä</string>
+	<string name="filter_sort_button_clear">Kirkas</string>
+	<string name="filter_sort_sort_year_asc">Vuosi - Nouseva</string>
+	<string name="filter_sort_sort_year_desc">Vuosi - Laskeva</string>
+	<string name="filter_sort_sort_title_asc">Osasto - Nouseva</string>
+	<string name="filter_sort_sort_title_desc">Osasto - Laskeva</string>
+	<string name="filter_sort_sort_achievements_asc">Avattu saavutuksia - Nouseva</string>
+	<string name="filter_sort_sort_achievements_desc">Avattu saavutuksia - Laskeva</string>
+	<string name="filter_sort_filter_status_all">Kaikki pelit</string>
+	<string name="filter_sort_filter_status_games_own">Pelit omistavat</string>
+	<string name="filter_sort_filter_status_games_left">Pelit jäljellä</string>
+	<string name="filter_sort_filter_status_games_finished">Pelit päättynyt</string>
+	<string name="filter_sort_filter_status_games_completed">Pelit valmistunut</string>
+	<string name="filter_sort_filter_status_games_not_finished">Pelit ei päättynyt</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">Kaikki</string>
+	<string name="filter_sort_filter_kinect_not_required">Ei tarvita</string>
+	<string name="filter_sort_filter_kinect_used">Käytetään peli</string>
+	<string name="filter_sort_filter_kinect_required">Pakollinen</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Siirry</string>
+	<string name="goto_name">Otsikko</string>
+	<string name="goto_name_hint">[Otsikko]</string>
+	<string name="goto_year">Julkaisuvuosi</string>
+	<string name="goto_year_hint">[Lisää vuosi]</string>
+	<string name="goto_button_accept">Hyväksyä</string>
+	<string name="goto_nothing_found">Ei pelejä löytynyt</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Sinun kokoelma on tyhjä, paina \"+\" kuvaketta yläpalkista selata luettelo ja lisää pelejä</string>
+	<string name="catalog_empty_filters">Ei pelejä vastaavia valittu suodattimet</string>
+	<string name="catalog_empty_catalog">Ei pelejä ajankohtaisten suodattimet</string>
+	<string name="catalog_icon">Ikoni</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Kinect vaaditaan</string>
+	<string name="catalog_year">Vuosi</string>
+	<string name="catalog_achievements">Saavutukset</string>
+	<string name="catalog_status_not_own">Ei oma</string>
+	<string name="catalog_status_own">Oma</string>
+	<string name="catalog_status_finished">Päätetty</string>
+	<string name="catalog_status_completed">Valmistunut</string>
+	<string name="catalog_retrieving_collection">Haetaan kokoelma, odota hetki&#8230;</string>
+	<string name="catalog_retrieving_catalog">Haetaan luettelo, odota hetki&#8230;</string>
+	<string name="catalog_clear_collection">Oletko varma, että haluat tyhjentää kokoelma? Tämä poistaa kaikki pelit.</string>
+	<string name="catalog_collection_clean">Kokoelma poistettu</string>
+	<string name="catalog_games_recovered">X pelit talteen</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">Cover</string>
+	<string name="detail_release">Julkaisuajankohta</string>
+	<string name="detail_genre">Laji</string>
+	<string name="detail_developer">Kehittäjä</string>
+	<string name="detail_status">Tila</string>
+	<string name="detail_achievements">Saavutukset</string>
+	<string name="detail_multiplayer">Moninpeli</string>
+	<string name="detail_multiplayer_online">Online:</string>
+	<string name="detail_multiplayer_coop">Co-op:</string>
+	<string name="detail_multiplayer_split_screen">Paikallinen:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC</string>
+	<string name="detail_synopsis">Tiivistelmä</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Valinnaisia ominaisuuksia</string>
+	<string name="detail_kinect_required">Pakollinen pelata</string>
+	<string name="detail_original_game">Alkuperäinen peli</string>
+	<string name="detail_total_achievements">Saavutukset yhteensä</string>
+	<string name="detail_no_dlc">Ei DLC käytettävissä</string>
+	<string name="detail_links">Linkit</string>
+	<string name="detail_no_links">Ei linkkejä saatavilla</string>
+	<string name="detail_notes">Huomautuksia</string>
+	<string name="detail_notes_hint">[Aseta muistiinpanot tähän]</string>
+	<string name="detail_read_more">Kosketa lukea lisää.</string>
+	<string name="detail_add_game">\"X\" lintuyhteisöön</string>
+	<string name="detail_remove_game">\"X\" poistetaan kokoelma</string>
+	<string name="detail_remove_game_confirmation">Oletko varma, että haluat poistaa valitun pelin kokoelma?</string>
+	<string name="detail_edit_game">\"X\" päivitetty</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">Yhteenveto</string>
+	<string name="summary_own_games">Omat pelit</string>
+	<string name="summary_finished_games">Päättyneet pelit</string>
+	<string name="summary_completed_games">Valmiit pelit</string>
+	<string name="summary_unlocked_achievements">Avattu saavutukset</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">Asetukset</string>
+	<string name="options_summary">Yhteenveto</string>
+	<string name="options_sound_on">Ota ääni</string>
+	<string name="options_sound_off">Poista ääni</string>
+	<string name="options_add_game">Selaa luettelo</string>
+	<string name="options_save_changes">Tallenna muutokset</string>
+	<string name="options_photo">Kuvagalleria</string>
+	<string name="options_add">Lisätä</string>
+	<string name="options_clear">Tyhjennä kokoelma</string>
+	<string name="options_remove_game">Poista peli</string>
+	<string name="options_edit">Muokata</string>
+	<string name="options_filter_sort">Suodatin/Lajittele</string>
+	<string name="options_goto">Siirry</string>
+	<string name="options_more_options">Lisää vaihtoehtoja</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Saavutukset</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">Kaikki</string>
+	<string name="genre_action">Toiminta</string>
+	<string name="genre_adventure">Seikkailu</string>
+	<string name="genre_action_adventure">Kaikki-seikkailu</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">Roolipeli</string>
+	<string name="genre_jrpg">Japanilainen roolipeli</string>
+	<string name="genre_rts">Reaaliaikainen strategia</string>
+	<string name="genre_tbs">Vuoropohjainen strategiapeli</string>	
+	<string name="genre_racing">Kilpa</string>
+	<string name="genre_sports">Urheilu</string>	
+	<string name="genre_survival">Eloonjääminen</string>	
+	<string name="genre_fighting">Taistelu</string>	
+	<string name="genre_open_world">Avoin maailma</string>	
+	<string name="genre_stealth">Stealth</string>	
+	<string name="genre_platformer">Tasohyppely</string>	
+	<string name="genre_hs">Hack &amp; Slash</string>	
+	<string name="genre_arpg">Toimi roolipelin</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Palapeli</string>	
+	<string name="genre_tower_defense">Tower Defense</string>	
+	<string name="genre_musical">Musiikki &amp; Rhythm</string>	
+	<string name="genre_cfs">Combat Flight/Merivoimien simulaattori</string>	
+	<string name="genre_sim">Simulator/Hallinta</string>	
+	<string name="genre_hunting_fishing">Metsästys &amp; Kalastus</string>	
+	<string name="genre_party">Party &amp; Trivia</string>	
+	<string name="genre_poker">Pokeri</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Kortit/Lautapeli</string>
+	<string name="genre_visual_novel">Visual Novel/Tapailu simulaattori</string>
+	<string name="genre_pinball">Flipperi</string>
+	<string name="genre_trpg">Taktinen roolipeli</string>
+	<string name="genre_fitness">Fitness</string>
+	<string name="genre_mmorpg">Massive Multiplayer roolipelin</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_mp_add_on">Moninpeli Add-On</string>
+	<string name="dlc_type_equipment">Laitteet/Vaatteet</string>
+	<string name="dlc_type_car_pack">Auto/Track Pack</string>
+	<string name="dlc_type_minor_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Single-Player Add-On (Myydään erikseen)</string>
+	<string name="dlc_type_mp_add_on_separately">Moninpeli Add-On (Myydään erikseen)</string>
+	<string name="dlc_type_other">Muut</string>
+	<string name="dlc_type_sp_mp_add_on">Single/Moninpeli Add-On</string>
+	<string name="dlc_type_track_pack">Track Pack</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">Julkaisuajankohta:</string>
+	<string name="dlc_downloaded">Ladattu:</string>
+	<string name="dlc_achievements">Saavutukset:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">Tuo Kokoelma</string>
+	<string name="file_selector_import">Tuonti</string>
+	<string name="file_selector_export_title">Vie Kokoelma</string>
+	<string name="file_selector_export">Vienti</string>
+	<string name="file_selector_path">Polku:</string>
+	<string name="file_selector_exported">Kokoelma onnistuneesti viety</string>
+	<string name="file_selector_imported">Kokoelma onnistuneesti tuotu</string>
+	<string name="file_selector_error_importing">Valittu tiedosto ei voi tuoda</string>
+	<string name="file_selector_import_confirmation">Oletko varma, että haluat tuoda valitun kokoelman? Tämä poistaa kaikki nykyiset pelit.</string>
+	<string name="file_selector_image_selection_title">Kuvan Valinta</string>
+	<string name="file_selector_image_selection">Valita</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">Kuva</string>
+	<string name="photo_gallery_take_photo">Ota kuva kameralla</string>
+	<string name="photo_gallery_select_photo">Valitse kuva muistista</string>
+	<string name="photo_gallery_rotating">Pyörivä kuva, odota hetki&#8230;</string>
+	<string name="photo_gallery_delete_photo">Oletko varma, että haluat poistaa nykyisen valokuvan?</string>
+	<string name="photo_gallery_photo_deleted">Kuva poistetaan</string>
+	<string name="photo_gallery_edit_title">Otsikko kuva</string>
+	<string name="photo_gallery_game">Peli</string>
+	<string name="photo_gallery_no_photos">Ei valokuvia nykyisen pelin</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Lataaminen peli kannet</string>
+    <string name="expansion_paused_device">Haluatko ottaa käyttöön lataaminen yli laitekytkennät? Riippuen tietosi suunnitelma, tämä voi maksaa rahaa.</string>
+    <string name="expansion_paused_device_2">Jos et halua ottaa käyttöön lataaminen yli laitteen yhteydet lataus jatkuu automaattisesti, kun Wi-Fi on saatavilla.</string>
+    <string name="expansion_button_resume_device">Jatka hakua</string>
+    <string name="expansion_button_wifi_settings">Wi-Fi-asetukset</string>
+    <string name="expansion_verifying_download">Tarkistetaan hakua</string>
+    <string name="expansion_validation_complete">XAPK tiedosto validointi täydellinen. Poistu valitsemalla OK.</string>
+    <string name="expansion_validation_failed">XAPK tiedosto validointi epäonnistui.</string>
+    <string name="expansion_button_pause">Tauko hakua</string>
+    <string name="expansion_button_resume">Jatka hakua</string>
+    <string name="expansion_button_cancel_verify">Peruuta todentaminen</string>
+    
+</resources>

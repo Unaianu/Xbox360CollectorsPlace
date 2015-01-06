@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    	
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical">
+        
+	    <!-- TITLE -->
+	    <TextView
+		    android:id="@+id/txtTitle"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="5dp"
+	    	android:layout_marginLeft="5dp"
+	   	 	android:layout_marginRight="5dp"
+	   	 	android:gravity="center"
+		    android:textStyle="bold"
+		    android:textSize="22sp"
+		    android:textColor="@color/black"/>
+	    
+	    <View
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginLeft="5dp"
+	   	 	android:layout_marginRight="5dp"
+	        android:background="@color/black"/>
+	    
+	    <!-- COVER & SUMMARY -->
+	    <RelativeLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="15dp"
+		    android:layout_marginLeft="5dp"
+	   	 	android:layout_marginRight="5dp">
+	    
+	        <RelativeLayout 
+	            android:id="@+id/lytCover"
+	            android:layout_width="wrap_content"
+		   	 	android:layout_height="wrap_content"
+		   	 	android:background="@drawable/view_border_thin">
+		   	 	
+				<ImageView 
+				    android:id="@+id/imgCover"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:contentDescription="@string/detail_cover"/>
+				
+				<ProgressBar
+				    android:id="@+id/prgCover"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_centerInParent="true"
+			        android:layout_marginLeft="75dp"
+			        android:layout_marginRight="75dp"
+			        android:layout_marginTop="125dp"
+			        android:layout_marginBottom="125dp"
+			        android:indeterminate="true"
+			        android:visibility="gone" />
+			
+			</RelativeLayout>
+			
+			<LinearLayout 
+			    android:layout_width="fill_parent"
+		   	 	android:layout_height="wrap_content"
+		   	 	android:layout_toRightOf="@+id/lytCover"
+		   	 	android:orientation="vertical">
+			    
+			    <!-- RELEASE -->
+				<TextView
+				    android:id="@+id/txtReleaseDescription"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="10dp"
+			   	 	android:textSize="14sp"
+			   	 	android:textStyle="bold"
+			   	 	android:text="@string/detail_release"
+		    		android:textColor="@color/black"/>
+				
+				<TextView
+				    android:id="@+id/txtRelease"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="15dp"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+				
+				<!-- GENRE -->
+				<TextView
+				    android:id="@+id/txtGenreDescription"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="10dp"
+			   	 	android:textSize="14sp"
+			   	 	android:textStyle="bold"
+			   	 	android:text="@string/detail_genre"
+		    		android:textColor="@color/black"/>
+				
+				<TextView
+				    android:id="@+id/txtGenre"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="15dp"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+				
+				<!-- DEVELOPER -->
+				<TextView
+				    android:id="@+id/txtDeveloperDescription"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="10dp"
+			   	 	android:textSize="14sp"
+			   	 	android:textStyle="bold"
+			   	 	android:text="@string/detail_developer"
+		    		android:textColor="@color/black"/>
+				
+				<TextView
+				    android:id="@+id/txtDeveloper"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="15dp"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+				
+				<!-- STATUS -->
+				<TextView
+				    android:id="@+id/txtStatusDescription"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="10dp"
+			   	 	android:textSize="14sp"
+			   	 	android:textStyle="bold"
+			   	 	android:text="@string/detail_status"
+		    		android:textColor="@color/black"/>
+				
+				<Spinner
+				    android:id="@+id/spnStatus"
+				    android:layout_width="fill_parent"
+		        	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="10dp"
+			   	 	android:paddingLeft="5dp"
+	           		android:paddingTop="0dp"
+	           		android:paddingBottom="0dp"
+			   	 	android:background="@drawable/spinner_background_2"/>
+	           
+			</LinearLayout>
+		
+		</RelativeLayout>
+		    
+	    <!-- ACHIEVEMENTS -->
+		<TextView
+		    android:id="@+id/txtAchievementsDescription"
+		    android:layout_width="wrap_content"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="7dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_achievements"
+		    android:textColor="@color/black"/>
+		
+		<RelativeLayout
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp">
+			
+		    <RelativeLayout
+		   	 	android:id="@+id/lytAchievements"
+			    android:layout_width="fill_parent"
+	   	 		android:layout_height="30dp"
+	   	 		android:gravity="center"
+			   	android:layout_marginLeft="10dp"
+		   	 	android:layout_marginRight="10dp"
+		   	 	android:layout_toLeftOf="@+id/btnEditAchievements">
+		    
+			    <TextView
+				    android:id="@+id/txtAchievements"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_centerVertical="true"
+				    android:textStyle="bold"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+			    
+			    <ImageView
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_marginLeft="4dp"
+			        android:layout_centerVertical="true"
+				    android:layout_toRightOf="@+id/txtAchievements"
+		    		android:contentDescription="@string/catalog_gamerscore"
+				    android:src="@drawable/icon_gamerscore"/>
+				
+			</RelativeLayout>
+			
+			<ProgressBar
+		        android:id="@+id/progressAchievements"
+		        android:layout_width="fill_parent"
+		        android:layout_height="30dp"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        android:layout_toLeftOf="@+id/btnEditAchievements"
+		        style="?android:attr/progressBarStyleHorizontal"
+	    		android:progressDrawable="@drawable/achievements_progress_bar"/>
+			
+			<ImageButton
+			    android:id="@+id/btnEditAchievements"
+		        android:layout_width="40dp"
+		        android:layout_height="30dp"
+		        android:layout_marginRight="5dp"
+		        android:layout_alignParentRight="true"
+		        android:gravity="center"
+		        android:src="@drawable/options_edit_mini"
+		        android:background="@drawable/button_background"/>
+		    
+		</RelativeLayout>
+		
+		<!-- MULTIPLAYER -->
+		
+		<TextView
+		    android:id="@+id/txtMultiplayerDescription"
+			android:layout_width="wrap_content"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_multiplayer"
+		    android:textColor="@color/black"/>
+				
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:weightSum="2"
+	        android:orientation="horizontal">
+	        
+	        <LinearLayout
+	            android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="0.85"
+			   	android:orientation="horizontal">
+			    
+			 	<TextView
+				    android:id="@+id/txtOnlineDescription"
+					android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:gravity="left"
+			   	 	android:text="@string/detail_multiplayer_online"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+			 	
+			 	<TextView
+				    android:id="@+id/txtOnline"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="4dp"
+			   	 	android:gravity="left"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+		 	
+		 	</LinearLayout>
+			 	
+	        <LinearLayout
+	            android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1.15"
+			   	android:orientation="horizontal">
+			 	
+			 	<TextView
+				    android:id="@+id/txtCoopDescription"
+					android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:gravity="left"
+			   	 	android:text="@string/detail_multiplayer_coop"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+			 	
+			 	<TextView
+				    android:id="@+id/txtCoop"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="4dp"
+			   	 	android:gravity="left"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+		 	
+		 	</LinearLayout>
+		 	
+		</LinearLayout>
+	 	
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:weightSum="2"
+	        android:orientation="horizontal">
+		 	
+	        <LinearLayout
+	            android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="0.85"
+			   	android:orientation="horizontal">
+			 	
+		        <TextView
+				    android:id="@+id/txtSplitScreenDescription"
+					android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:gravity="left"
+			   	 	android:text="@string/detail_multiplayer_split_screen"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+		        
+			 	<TextView
+				    android:id="@+id/txtSplitScreen"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="4dp"
+			   	 	android:gravity="left"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+		 	
+			</LinearLayout>	
+			 
+	        <LinearLayout
+	            android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1.15"
+			   	android:orientation="horizontal">
+			 	
+			 	<TextView
+				    android:id="@+id/txtSystemLinkDescription"
+					android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:gravity="left"
+			   	 	android:text="@string/detail_multiplayer_system_link"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+			 	
+			 	<TextView
+				    android:id="@+id/txtSystemLink"
+				    android:layout_width="wrap_content"
+			   	 	android:layout_height="wrap_content"
+			   	 	android:layout_marginLeft="4dp"
+				   	android:gravity="left"
+			   	 	android:textSize="14sp"
+		    		android:textColor="@color/black"/>
+		 	
+			</LinearLayout>
+			 	
+		</LinearLayout>
+			   	 
+	    <!-- KINECT -->
+	 	<TextView
+		    android:id="@+id/txtLabelKinect"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_kinect"
+		    android:textColor="@color/black"/>
+	 	
+	 	<TextView
+		    android:id="@+id/txtKinect"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginLeft="10dp"
+	   	 	android:textSize="14sp"
+		   	android:textColor="@color/black"/>
+	 	
+	    <!-- SYNOPSIS -->
+	 	<TextView
+		    android:id="@+id/txtSynopsisDescription"
+			android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_synopsis"
+		    android:textColor="@color/black"/>
+	 	
+		<com.xboxcollectorsplace.utils.JustifiedTextView
+		    android:id="@+id/txtSynopsis"
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp"
+		    android:layout_marginLeft="10dp"
+		    android:layout_marginRight="3dp"
+	   	 	android:padding="2dp"/>
+	 	
+		<!-- DLC'S -->
+		<TextView
+		    android:id="@+id/txtDLCsDescription"
+			android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_dlcs"
+		    android:textColor="@color/black"/>
+		
+		<LinearLayout
+		    android:id="@+id/lytDLCs"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginLeft="10dp"
+	  	 	android:layout_marginRight="5dp"
+	   	 	android:orientation="vertical"/>
+		
+		<TextView
+		    android:id="@+id/txtNoDLCs"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="2dp"
+	   	 	android:layout_marginLeft="15dp"
+	   	 	android:textSize="14sp"
+	   	 	android:text="@string/detail_no_dlc"
+		    android:textColor="@color/black"/>
+		
+	 	<!-- LINKS -->
+		<TextView
+		    android:id="@+id/txtLinksDescription"
+			android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_links"
+		    android:textColor="@color/black"/>
+		
+		<LinearLayout
+		    android:id="@+id/lytLinks"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:orientation="vertical"/>
+		
+		<!-- NOTES -->
+		<TextView
+		    android:id="@+id/txtNotesDescription"
+			android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginTop="10dp"
+	   	 	android:layout_marginLeft="5dp"
+	   	 	android:textSize="14sp"
+	   	 	android:textStyle="bold"
+	   	 	android:text="@string/detail_notes"
+		    android:textColor="@color/black"/>
+		
+		<EditText
+		    android:id="@+id/edtNotes"
+		    android:layout_width="match_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:layout_marginLeft="5dp"
+	  	 	android:layout_marginRight="5dp"
+	  	 	android:layout_marginBottom="10dp"
+	    	android:hint="@string/detail_notes_hint"
+	  	 	android:textSize="14sp"
+	   	 	android:inputType="textMultiLine"
+	   	 	android:minLines="4"
+	  	 	android:gravity="top|left"
+	  	 	android:padding="6dp"
+	  	 	android:background="@drawable/textfield_background"/>
+		
+	</LinearLayout>
+		
+ </ScrollView>

@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Ja</string>
+	<string name="general_no">Nej</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Avboka</string>
+	<string name="general_players">Spelare</string>
+    <string name="general_players_short">sp.</string>
+    <string name="general_error">Ett fel uppstod när du utför den valda åtgärden</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">Samling</string>
+	<string name="title_arcade_collection_icon">Arcade samling</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Inställningar</string>
+	<string name="config_language">Språk</string>
+	<string name="config_translate_synopsis">Trans synopsis</string>
+	<string name="config_translate_synopsis_yes">Ja (med hjälp av Google Translate)</string>
+	<string name="config_translate_synopsis_no">Nej (ursprunglig engelsk text)</string>
+	<string name="config_intro">Introduktion</string>
+	<string name="config_intro_classic">Klassisk</string>
+	<string name="config_intro_new">Ny</string>
+	<string name="config_show_genre">Show i samlingen</string>
+	<string name="config_show_genre_year">Släpp år</string>
+	<string name="config_show_genre_genre">Genre</string>
+	<string name="config_button_save">Spara</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Filters och Sortering</string>
+	<string name="filter_sort_sort_title">SORTERING</string>
+	<string name="filter_sort_sort">Sortera efter</string>
+	<string name="filter_sort_filter_title">FILTER</string>
+	<string name="filter_sort_filter_name">Titel</string>
+	<string name="filter_sort_filter_title_hint">[Infoga Titel]</string>
+	<string name="filter_sort_filter_status">Status</string>
+	<string name="filter_sort_filter_genre">Genre</string>
+	<string name="filter_sort_filter_year">Släpp år</string>
+	<string name="filter_sort_filter_year_hint">[Infoga år]</string>
+	<string name="filter_sort_filter_online">Onlinespelare</string>
+	<string name="filter_sort_filter_coop">Co-op Spelare</string>
+	<string name="filter_sort_filter_split_screen">Lokala Spelare</string>
+	<string name="filter_sort_filter_system_link">System Link Spelare</string>
+	<string name="filter_sort_filter_multiplayer_hint">[Infoga minsta antal spelare]</string>
+	<string name="filter_sort_button_accept">Accept</string>
+	<string name="filter_sort_button_clear">Klar</string>
+	<string name="filter_sort_sort_year_asc">År - Stigande</string>
+	<string name="filter_sort_sort_year_desc">År - Fallande</string>
+	<string name="filter_sort_sort_title_asc">Titel - Stigande</string>
+	<string name="filter_sort_sort_title_desc">Titel - Fallande</string>
+	<string name="filter_sort_sort_achievements_asc">Olåsta prestationer - Stigande</string>
+	<string name="filter_sort_sort_achievements_desc">Olåsta prestationer - Fallande</string>
+	<string name="filter_sort_filter_status_all">Alla spel</string>
+	<string name="filter_sort_filter_status_games_own">Spel äger</string>
+	<string name="filter_sort_filter_status_games_left">Spel kvar</string>
+	<string name="filter_sort_filter_status_games_finished">Spel färdiga</string>
+	<string name="filter_sort_filter_status_games_completed">Spel klarade</string>
+	<string name="filter_sort_filter_status_games_not_finished">Spel inte färdiga</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">Allt</string>
+	<string name="filter_sort_filter_kinect_not_required">Krävs inte</string>
+	<string name="filter_sort_filter_kinect_used">Används i spelet</string>
+	<string name="filter_sort_filter_kinect_required">Krävs</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Gå till</string>
+	<string name="goto_name">Titel</string>
+	<string name="goto_name_hint">[Infoga titel]</string>
+	<string name="goto_year">Släpp år</string>
+	<string name="goto_year_hint">[Infoga år]</string>
+	<string name="goto_button_accept">Accept</string>
+	<string name="goto_nothing_found">Inget spel hittades</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Din samling är tom, tryck på ikonen \"+\" i det översta fältet för att bläddra i katalogen och lägg spel</string>
+	<string name="catalog_empty_filters">Det finns inga spel som matchar de valda filter</string>
+	<string name="catalog_empty_catalog">Det finns inga spel som uppfyller Aktuella filter</string>
+	<string name="catalog_icon">Ikon</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Kinect krävs</string>
+	<string name="catalog_year">År</string>
+	<string name="catalog_achievements">Prestationer</string>
+	<string name="catalog_status_not_own">Inte egen</string>
+	<string name="catalog_status_own">Egen</string>
+	<string name="catalog_status_finished">Färdiga</string>
+	<string name="catalog_status_completed">Avslutat</string>
+	<string name="catalog_retrieving_collection">Hämta samling, var god vänta&#8230;</string>
+	<string name="catalog_retrieving_catalog">Hämta katalog, var god vänta&#8230;</string>
+	<string name="catalog_clear_collection">Är du säker på att du vill rensa din samling? Detta tar bort alla dina spel.</string>
+	<string name="catalog_collection_clean">Samling avlägsnades</string>
+	<string name="catalog_games_recovered">X spel återvinnas</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">Skal</string>
+	<string name="detail_release">Släppdatum</string>
+	<string name="detail_genre">Genre</string>
+	<string name="detail_developer">Utvecklare</string>
+	<string name="detail_status">Status</string>
+	<string name="detail_achievements">Resultat</string>
+	<string name="detail_multiplayer">Flera spelare</string>
+	<string name="detail_multiplayer_online">Online:</string>
+	<string name="detail_multiplayer_coop">Co-op:</string>
+	<string name="detail_multiplayer_split_screen">Lokal:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC</string>
+	<string name="detail_synopsis">Synopsis</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Tillval</string>
+	<string name="detail_kinect_required">Krävs för att spela</string>
+	<string name="detail_original_game">Original spel</string>
+	<string name="detail_total_achievements">Totala vinningar</string>
+	<string name="detail_no_dlc">Inget DLC är tillgänglig</string>
+	<string name="detail_links">Länkar</string>
+	<string name="detail_no_links">Inga länkar tillgängliga</string>
+	<string name="detail_notes">Anmärkningar</string>
+	<string name="detail_notes_hint">[Infoga dina anteckningar här]</string>
+	<string name="detail_read_more">Tryck här för att läsa mer.</string>
+	<string name="detail_add_game">\"X\" läggas till samlingen</string>
+	<string name="detail_remove_game">\"X\" avlägsnas från samlingen</string>
+	<string name="detail_remove_game_confirmation">Är du säker på att du vill ta bort det markerade spelet från din samling?</string>
+	<string name="detail_edit_game">\"X\" uppdaterad</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">Sammanfattning</string>
+	<string name="summary_own_games">Egna spel</string>
+	<string name="summary_finished_games">Avslutade partier</string>
+	<string name="summary_completed_games">Avslutade spel</string>
+	<string name="summary_unlocked_achievements">Olåsta prestationer</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">Inställningar</string>
+	<string name="options_summary">Sammanfattning</string>
+	<string name="options_sound_on">Aktivera ljud</string>
+	<string name="options_sound_off">Inaktivera ljud</string>
+	<string name="options_add_game">Bläddra i katalogen</string>
+	<string name="options_save_changes">Spara ändringar</string>
+	<string name="options_photo">Fotogalleri</string>
+	<string name="options_add">Lägga till</string>
+	<string name="options_clear">Rensa samling</string>
+	<string name="options_remove_game">Avlägsna spel</string>
+	<string name="options_edit">Redigera</string>
+	<string name="options_filter_sort">Filter/Sortera</string>
+	<string name="options_goto">Gå till</string>
+	<string name="options_more_options">Fler Alternativ</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Resultat</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">Allt</string>
+	<string name="genre_action">Åtgärd</string>
+	<string name="genre_adventure">Äventyr</string>
+	<string name="genre_action_adventure">Action-äventyr</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">Rollspel</string>
+	<string name="genre_jrpg">Japanska rollspel</string>
+	<string name="genre_rts">Realtid strategi</string>
+	<string name="genre_tbs">Tur baserat strategi</string>	
+	<string name="genre_racing">Racing</string>
+	<string name="genre_sports">Sport</string>	
+	<string name="genre_survival">Överlevnad</string>	
+	<string name="genre_fighting">Slagsmål</string>	
+	<string name="genre_open_world">Öppen värld</string>	
+	<string name="genre_stealth">Stealth</string>	
+	<string name="genre_platformer">Plat</string>	
+	<string name="genre_hs">Hack &amp; Slash</string>	
+	<string name="genre_arpg">Åtgärd rollspel</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Pussel</string>	
+	<string name="genre_tower_defense">Tower Defense</string>	
+	<string name="genre_musical">Music &amp; Rhythm</string>	
+	<string name="genre_cfs">Combat Flight/Marin Simulator</string>	
+	<string name="genre_sim">Simulator/Management</string>	
+	<string name="genre_hunting_fishing">Jakt &amp; Fiske</string>	
+	<string name="genre_party">Party &amp; Trivia</string>	
+	<string name="genre_poker">Poker</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Kort/brädspel</string>
+	<string name="genre_visual_novel">Visual Novel/Träffar Simulator</string>
+	<string name="genre_pinball">Pinball</string>
+	<string name="genre_trpg">Taktisk Rollspel</string>
+	<string name="genre_fitness">Fitness</string>
+	<string name="genre_mmorpg">Massiva multiplayer rollspel</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_mp_add_on">Multiplayer Add-On</string>
+	<string name="dlc_type_equipment">Utrustning / Kläder</string>
+	<string name="dlc_type_car_pack">Bil/Track Pack</string>
+	<string name="dlc_type_minor_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Single-Player Add-On (säljs separat)</string>
+	<string name="dlc_type_mp_add_on_separately">Multiplayer Add-On (säljs separat)</string>
+	<string name="dlc_type_other">Annat</string>
+	<string name="dlc_type_sp_mp_add_on">Single/Multiplayer Add-On</string>
+	<string name="dlc_type_track_pack">Track Pack</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">Premiär:</string>
+	<string name="dlc_downloaded">Nedladdat:</string>
+	<string name="dlc_achievements">Prestationer:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">Import Samling</string>
+	<string name="file_selector_import">Import</string>
+	<string name="file_selector_export_title">Export Samling</string>
+	<string name="file_selector_export">Export</string>
+	<string name="file_selector_path">Rutt:</string>
+	<string name="file_selector_exported">Samling framgångsrikt exporterats</string>
+	<string name="file_selector_imported">Samling importerats</string>
+	<string name="file_selector_error_importing">Den valda filen kan inte importeras</string>
+	<string name="file_selector_import_confirmation">Är du säker på att du vill importera den markerade samlingen? Detta tar bort alla dina nuvarande spelen.</string>
+	<string name="file_selector_image_selection_title">Bildval</string>
+	<string name="file_selector_image_selection">Välj</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">Bild</string>
+	<string name="photo_gallery_take_photo">Ta foto med kamera</string>
+	<string name="photo_gallery_select_photo">Välj foto från minnet</string>
+	<string name="photo_gallery_rotating">Roterande foto, var god vänta&#8230;</string>
+	<string name="photo_gallery_delete_photo">Är du säker på att du vill radera det aktuella fotot?</string>
+	<string name="photo_gallery_photo_deleted">Foto avlägsnades</string>
+	<string name="photo_gallery_edit_title">Titel av fotot</string>
+	<string name="photo_gallery_game">Spel</string>
+	<string name="photo_gallery_no_photos">Inga bilder på det aktuella spelet</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Nedladdning av spel omslag</string>
+    <string name="expansion_paused_device">Vill du aktivera hämtning över enhetsanslutningar? Beroende på din dataplan, kan detta kosta dig pengar.</string>
+    <string name="expansion_paused_device_2">Om du väljer att inte göra det möjligt att ladda ner över enhetsanslutningar, kommer nedladdningen återupptas automatiskt när Wi-Fi finns tillgängligt.</string>
+    <string name="expansion_button_resume_device">Fortsätt hämtningen</string>
+    <string name="expansion_button_wifi_settings">Wi-Fi-inställningar</string>
+    <string name="expansion_verifying_download">Verifiera Nedladdning</string>
+    <string name="expansion_validation_complete">XAPK fil validering komplett. Välj OK för att avsluta.</string>
+    <string name="expansion_validation_failed">Fil validering XAPK misslyckades.</string>
+    <string name="expansion_button_pause">Paus Nedladdning</string>
+    <string name="expansion_button_resume">Fortsätt Nedladdning</string>
+    <string name="expansion_button_cancel_verify">Avbryt Verifiering</string>
+	
+</resources>

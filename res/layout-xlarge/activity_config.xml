@@ -1,0 +1,120 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="500dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:baselineAligned="false"
+    android:background="@drawable/background_popup"
+    android:orientation="vertical">
+    
+    <TextView
+        android:id="@+id/txtConfigTitle"
+        style="@style/TxtWindowsStyleLarge"
+	    android:text="@string/config_title"/>
+        
+    <TextView
+        android:id="@+id/txtLanguage"
+        android:layout_width="match_parent"
+ 		android:layout_height="wrap_content"
+ 		android:layout_marginTop="10dp"
+	    android:layout_marginLeft="5dp"
+   		android:text="@string/config_language"
+   		android:textSize="16sp"
+   		android:textStyle="bold"/>
+        
+    <Spinner
+        android:id="@+id/spnLanguage"
+        android:layout_width="match_parent"
+   		android:layout_height="wrap_content"
+   		android:layout_margin="5dp"
+   	 	android:textSize="16sp"
+   	 	android:paddingLeft="5dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="0dp"
+   		android:background="@drawable/spinner_background"/>
+    
+    <TextView
+        android:id="@+id/txtTranslateSynopsis"
+        android:layout_width="match_parent"
+ 		android:layout_height="wrap_content"
+ 		android:layout_marginTop="10dp"
+	    android:layout_marginLeft="5dp"
+   		android:text="@string/config_translate_synopsis"
+   		android:textSize="16sp"
+   		android:textStyle="bold"
+   		android:visibility="gone"/>
+    
+    <Spinner
+        android:id="@+id/spnTranslateSynopsis"
+        android:layout_width="match_parent"
+   		android:layout_height="wrap_content"
+   		android:layout_margin="5dp"
+   	 	android:textSize="16sp"
+   	 	android:paddingLeft="5dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="0dp"
+   		android:background="@drawable/spinner_background"
+   		android:visibility="gone"/>
+    
+    <TextView
+        android:id="@+id/txtConfigBoot"
+        android:layout_width="match_parent"
+ 		android:layout_height="wrap_content"
+ 		android:layout_marginTop="10dp"
+	    android:layout_marginLeft="5dp"
+   		android:text="@string/config_intro"
+   		android:textSize="16sp"
+   		android:textStyle="bold"/>
+            
+    <Spinner
+        android:id="@+id/spnBoot"
+        android:layout_width="match_parent"
+   		android:layout_height="wrap_content"
+   		android:layout_margin="5dp"
+   	 	android:textSize="16sp"
+   	 	android:paddingLeft="5dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="0dp"
+   		android:background="@drawable/spinner_background"/>
+             
+    <TextView
+        android:id="@+id/txtConfigShowGenre"
+        android:layout_width="match_parent"
+ 		android:layout_height="wrap_content"
+ 		android:layout_marginTop="10dp"
+	    android:layout_marginLeft="5dp"
+   		android:text="@string/config_show_genre"
+   		android:textSize="14sp"
+   		android:textStyle="bold"
+   		android:visibility="gone"/>
+            
+    <Spinner
+        android:id="@+id/spnShowGenre"
+        android:layout_width="match_parent"
+   		android:layout_height="wrap_content"
+   		android:layout_margin="5dp"
+   	 	android:textSize="16sp"
+   	 	android:paddingLeft="5dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="0dp"
+   		android:background="@drawable/spinner_background"
+   		android:visibility="gone"/>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_margin="10dp"
+   		android:orientation="horizontal"
+	    android:gravity="center">
+        
+	    <Button
+	        android:id="@+id/btnSave"
+	        android:layout_width="100dp"
+	        android:layout_height="35dp"
+	        android:text="@string/config_button_save"
+	        android:textSize="16sp"
+	        android:background="@drawable/button_background"/>
+    
+    </LinearLayout>
+    
+</LinearLayout>

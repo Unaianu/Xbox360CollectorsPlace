@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">예</string>
+	<string name="general_no">아니</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">취소</string>
+	<string name="general_players">플레이어</string>
+    <string name="general_players_short">pl.</string>
+    <string name="general_error">선택한 작업을 수행하는 동안 오류가 발생했습니다</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">수집</string>
+	<string name="title_arcade_collection_icon">아케이드 컬렉션</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">설정</string>
+	<string name="config_language">언어</string>
+	<string name="config_translate_synopsis">시놉시스 번역</string>
+	<string name="config_translate_synopsis_yes">예 (구글 번역 사용)</string>
+	<string name="config_translate_synopsis_no">아니오 (원래 영어 텍스트 없음)</string>
+	<string name="config_intro">소개</string>
+	<string name="config_intro_classic">고전적인</string>
+	<string name="config_intro_new">새로운</string>
+	<string name="config_show_genre">컬렉션보기</string>
+	<string name="config_show_genre_year">출시 년도</string>
+	<string name="config_show_genre_genre">장르</string>
+	<string name="config_button_save">저장</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">필터 및 정렬</string>
+	<string name="filter_sort_sort_title">안수</string>
+	<string name="filter_sort_sort">정렬</string>
+	<string name="filter_sort_filter_title">필터</string>
+	<string name="filter_sort_filter_name">이름</string>
+	<string name="filter_sort_filter_title_hint">[삽입 제목]</string>
+	<string name="filter_sort_filter_status">지위</string>
+	<string name="filter_sort_filter_genre">장르</string>
+	<string name="filter_sort_filter_year">출시 연도</string>
+	<string name="filter_sort_filter_year_hint">[삽입 해]</string>
+	<string name="filter_sort_filter_online">온라인 플레이어</string>
+	<string name="filter_sort_filter_coop">협동 플레이어</string>
+	<string name="filter_sort_filter_split_screen">로컬 플레이어</string>
+	<string name="filter_sort_filter_system_link">시스템 링크 플레이어</string>
+	<string name="filter_sort_filter_multiplayer_hint">[선수의 삽입 최소]</string>
+	<string name="filter_sort_button_accept">수락</string>
+	<string name="filter_sort_button_clear">명확한</string>
+	<string name="filter_sort_sort_year_asc">년 - 오름차순</string>
+	<string name="filter_sort_sort_year_desc">년 - 내림차순</string>
+	<string name="filter_sort_sort_title_asc">제목 - 오름차순</string>
+	<string name="filter_sort_sort_title_desc">제목 - 내림차순</string>
+	<string name="filter_sort_sort_achievements_asc">잠금 해제 성과 - 오름차순</string>
+	<string name="filter_sort_sort_achievements_desc">잠금 해제 성과 - 내림차순</string>
+	<string name="filter_sort_filter_status_all">모든 게임</string>
+	<string name="filter_sort_filter_status_games_own">게임 소유</string>
+	<string name="filter_sort_filter_status_games_left">게임은 왼쪽</string>
+	<string name="filter_sort_filter_status_games_finished">완성 된 게임</string>
+	<string name="filter_sort_filter_status_games_completed">게임 완료</string>
+	<string name="filter_sort_filter_status_games_not_finished">완성하지 게임</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">모든</string>
+	<string name="filter_sort_filter_kinect_not_required">필요하지 않음</string>
+	<string name="filter_sort_filter_kinect_used">게임에 사용</string>
+	<string name="filter_sort_filter_kinect_required">필수</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">로 이동</string>
+	<string name="goto_name">이름</string>
+	<string name="goto_name_hint">[삽입 제목]</string>
+	<string name="goto_year">출시 연도</string>
+	<string name="goto_year_hint">[삽입 해]</string>
+	<string name="goto_button_accept">수락</string>
+	<string name="goto_nothing_found">어떤 게임이 없습니다</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">컬렉션은 현재 비어, 카탈로그를 검색하고 게임을 추가 상단 바의 \"+\" 아이콘을 눌러</string>
+	<string name="catalog_empty_filters">선택된 필터에 일치하는 게임이 없습니다</string>
+	<string name="catalog_empty_catalog">현재 필터 모임에는 게임이 없습니다</string>
+	<string name="catalog_icon">아이콘</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Kinect 필요</string>
+	<string name="catalog_year">년</string>
+	<string name="catalog_achievements">업적</string>
+	<string name="catalog_status_not_own">소유하지</string>
+	<string name="catalog_status_own">자신의</string>
+	<string name="catalog_status_finished">확정</string>
+	<string name="catalog_status_completed">완료</string>
+	<string name="catalog_retrieving_collection">컬렉션을 가져 오는 중, 잠시 기다려주십시오&#8230;</string>
+	<string name="catalog_retrieving_catalog">카탈로그를 가져 오는 중, 잠시 기다려주십시오&#8230;</string>
+	<string name="catalog_clear_collection">당신은 당신이 당신의 수집을 취소 하시겠습니까? 이 모든 게임을 제거합니다.</string>
+	<string name="catalog_collection_clean">컬렉션 제거</string>
+	<string name="catalog_games_recovered">X 게임 복구</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">앞</string>
+	<string name="detail_release">출시일</string>
+	<string name="detail_genre">장르</string>
+	<string name="detail_developer">개발자</string>
+	<string name="detail_status">지위</string>
+	<string name="detail_achievements">업적</string>
+	<string name="detail_multiplayer">멀티 플레이어</string>
+	<string name="detail_multiplayer_online">온라인 :</string>
+	<string name="detail_multiplayer_coop">협동 :</string>
+	<string name="detail_multiplayer_split_screen">지역 :</string>
+	<string name="detail_multiplayer_system_link">시스템 링크 :</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC의</string>
+	<string name="detail_synopsis">개요</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">옵션 기능</string>
+	<string name="detail_kinect_required">재생하는 데 필요한</string>
+	<string name="detail_original_game">원래 게임</string>
+	<string name="detail_total_achievements">전체 업적</string>
+	<string name="detail_no_dlc">어떤 DLC하지의 사용 가능한</string>
+	<string name="detail_links">링크</string>
+	<string name="detail_no_links">사용 가능한 링크 없음</string>
+	<string name="detail_notes">노트</string>
+	<string name="detail_notes_hint">[여기에 메모를 삽입]</string>
+	<string name="detail_read_more">자세한 내용을 터치합니다.</string>
+	<string name="detail_add_game">\"X\" 컬렉션에 추가</string>
+	<string name="detail_remove_game">\"X\" 컬렉션에서 제거</string>
+	<string name="detail_remove_game_confirmation">당신은 당신이 당신의 컬렉션에서 선택한 게임을 삭제 하시겠습니까?</string>
+	<string name="detail_edit_game">\"X\" 업데이트</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">개요</string>
+	<string name="summary_own_games">자신의 게임</string>
+	<string name="summary_finished_games">완성 된 게임</string>
+	<string name="summary_completed_games">게임 완료</string>
+	<string name="summary_unlocked_achievements">잠금 해제 업적</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">설정</string>
+	<string name="options_summary">개요</string>
+	<string name="options_sound_on">사운드를 사용</string>
+	<string name="options_sound_off">안 소리</string>
+	<string name="options_add_game">검색 카탈로그</string>
+	<string name="options_save_changes">변경 사항을 저장</string>
+	<string name="options_photo">포토 갤러리</string>
+	<string name="options_add">추가</string>
+	<string name="options_clear">지우기 컬렉션</string>
+	<string name="options_remove_game">게임을 제거</string>
+	<string name="options_edit">편집</string>
+	<string name="options_filter_sort">필터 / 정렬</string>
+	<string name="options_goto">로 이동</string>
+	<string name="options_more_options">추가 옵션</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">업적</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">모든</string>
+	<string name="genre_action">행동</string>
+	<string name="genre_adventure">모험</string>
+	<string name="genre_action_adventure">액션 어드벤처</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">역할 연기 게임</string>
+	<string name="genre_jrpg">일본어 역할 놀이 게임</string>
+	<string name="genre_rts">실시간 전략</string>
+	<string name="genre_tbs">기반 전략을 돌립니다</string>	
+	<string name="genre_racing">경마</string>
+	<string name="genre_sports">스포츠의</string>	
+	<string name="genre_survival">살아 남기</string>	
+	<string name="genre_fighting">싸움</string>	
+	<string name="genre_open_world">오픈 월드</string>	
+	<string name="genre_stealth">스텔스</string>	
+	<string name="genre_platformer">플랫 포머</string>	
+	<string name="genre_hs">해킹 및 슬래시</string>	
+	<string name="genre_arpg">액션 롤 플레잉 게임</string>	
+	<string name="genre_btu">두들겨 패</string>	
+	<string name="genre_stu">쏴 버려</string>	
+	<string name="genre_puzzle">퍼즐</string>	
+	<string name="genre_tower_defense">타워 방어</string>	
+	<string name="genre_musical">음악과 리듬</string>	
+	<string name="genre_cfs">전투 비행 / 해군 시뮬레이터</string>	
+	<string name="genre_sim">시뮬레이터 / 관리</string>	
+	<string name="genre_hunting_fishing">사냥 및 낚시</string>	
+	<string name="genre_party">파티 &amp; 퀴즈</string>	
+	<string name="genre_poker">포커</string>	
+	<string name="genre_musou">무쌍</string>	
+	<string name="genre_cards_board">카드 / 보드 게임</string>
+	<string name="genre_visual_novel">비주얼 노벨 / 데이트 시뮬레이터</string>
+	<string name="genre_pinball">핀볼</string>
+	<string name="genre_trpg">전술 역할 놀이 게임</string>
+	<string name="genre_fitness">피트니스</string>
+	<string name="genre_mmorpg">대규모 멀티 플레이어 역할 놀이 게임</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">싱글 플레이어 추가 기능</string>
+	<string name="dlc_type_mp_add_on">추가 기능 멀티 플레이어</string>
+	<string name="dlc_type_equipment">장비 / 의류</string>
+	<string name="dlc_type_car_pack">자동차 / 트랙 팩</string>
+	<string name="dlc_type_minor_sp_add_on">싱글 플레이어 추가 기능</string>
+	<string name="dlc_type_sp_add_on_separately">싱글 플레이어 추가 기능 (별매)</string>
+	<string name="dlc_type_mp_add_on_separately">추가 기능 멀티 (별매)</string>
+	<string name="dlc_type_other">다른</string>
+	<string name="dlc_type_sp_mp_add_on">싱글 / 멀티 애드온</string>
+	<string name="dlc_type_track_pack">트랙 팩</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">출시일 :</string>
+	<string name="dlc_downloaded">다운로드 :</string>
+	<string name="dlc_achievements">성과 :</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">가져 오기 모음</string>
+	<string name="file_selector_import">수입</string>
+	<string name="file_selector_export_title">수출 모음</string>
+	<string name="file_selector_export">수출</string>
+	<string name="file_selector_path">통로:</string>
+	<string name="file_selector_exported">컬렉션은 성공적으로 수출</string>
+	<string name="file_selector_imported">컬렉션을 성공적으로 가져</string>
+	<string name="file_selector_error_importing">선택한 파일을 가져올 수 없습니다</string>
+	<string name="file_selector_import_confirmation">당신은 당신이 선택한 컬렉션을 가져 하시겠습니까? 이는 현재 모든 게임을 제거합니다.</string>
+	<string name="file_selector_image_selection_title">이미지 선택</string>
+	<string name="file_selector_image_selection">선택</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">사진</string>
+	<string name="photo_gallery_take_photo">카메라로 사진을 찍</string>
+	<string name="photo_gallery_select_photo">메모리에서 사진을 선택</string>
+	<string name="photo_gallery_rotating">회전 사진, 잠시 기다려주십시오&#8230;</string>
+	<string name="photo_gallery_delete_photo">당신은 당신이 현재 사진을 삭제 하시겠습니까?</string>
+	<string name="photo_gallery_photo_deleted">사진 삭제</string>
+	<string name="photo_gallery_edit_title">사진의 제목</string>
+	<string name="photo_gallery_game">경기</string>
+	<string name="photo_gallery_no_photos">현재 게임에 사진이 없습니다</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">게임 커버 다운로드</string>
+    <string name="expansion_paused_device">당신은 장치 연결을 통해 다운로드 할 수 있도록 하시겠습니까? 데이터 요금제에 따라, 이것은 당신에게 요금이 부과 될 수 있습니다.</string>
+    <string name="expansion_paused_device_2">당신이 장치 연결을 통해 다운로드 가능하지 않을 경우 Wi-Fi를 사용할 수있는 경우, 다운로드가 자동으로 다시 시작됩니다.</string>
+    <string name="expansion_button_resume_device">다운로드 다시 시작</string>
+    <string name="expansion_button_wifi_settings">와이파이 설정</string>
+    <string name="expansion_verifying_download">확인 다운로드</string>
+    <string name="expansion_validation_complete">XAPK 파일 유효성 검사가 완료되었습니다. OK (확인)를 선택하여 종료.</string>
+    <string name="expansion_validation_failed">XAPK 파일 유효성 검사에 실패했습니다.</string>
+    <string name="expansion_button_pause">일시 정지 다운로드</string>
+    <string name="expansion_button_resume">다운로드 다시 시작</string>
+    <string name="expansion_button_cancel_verify">확인 취소</string>
+    
+</resources>

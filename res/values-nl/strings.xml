@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Ja</string>
+	<string name="general_no">Nee</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Annuleren</string>
+	<string name="general_players">Spelers</string>
+    <string name="general_players_short">sp.</string>
+    <string name="general_error">Er is een fout opgetreden tijdens het uitvoeren van de geselecteerde actie</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">Verzameling</string>
+	<string name="title_arcade_collection_icon">Arcade collectie</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Instellingen</string>
+	<string name="config_language">Taal</string>
+	<string name="config_translate_synopsis">Vertalen synopsis</string>
+	<string name="config_translate_synopsis_yes">Ja (via Google Translate)</string>
+	<string name="config_translate_synopsis_no">Nee (origineel engels tekst)</string>
+	<string name="config_intro">Intro</string>
+	<string name="config_intro_classic">Klassiek</string>
+	<string name="config_intro_new">Nieuw</string>
+	<string name="config_show_genre">Toon in collectie</string>
+	<string name="config_show_genre_year">Jaar van uitgifte</string>
+	<string name="config_show_genre_genre">Genre</string>
+	<string name="config_button_save">Opslaan</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Filters en Sorteren</string>
+	<string name="filter_sort_sort_title">SORTEREN</string>
+	<string name="filter_sort_sort">Sorteren op</string>
+	<string name="filter_sort_filter_title">FILTERS</string>
+	<string name="filter_sort_filter_name">Titel</string>
+	<string name="filter_sort_filter_title_hint">[Titel]</string>
+	<string name="filter_sort_filter_status">Toestand</string>
+	<string name="filter_sort_filter_genre">Genre</string>
+	<string name="filter_sort_filter_year">Jaar</string>
+	<string name="filter_sort_filter_year_hint">[Jaar]</string>
+	<string name="filter_sort_filter_online">Online Spelers</string>
+	<string name="filter_sort_filter_coop">Co-op Spelers</string>
+	<string name="filter_sort_filter_split_screen">Lokale Spelers</string>
+	<string name="filter_sort_filter_system_link">System Link Spelers</string>
+	<string name="filter_sort_filter_multiplayer_hint">[Insert minimum aantal spelers]</string>
+	<string name="filter_sort_button_accept">Accepteren</string>
+	<string name="filter_sort_button_clear">Duidelijk</string>
+	<string name="filter_sort_sort_year_asc">Jaar - oplopend</string>
+	<string name="filter_sort_sort_year_desc">Jaar - aflopend</string>
+	<string name="filter_sort_sort_title_asc">Titel - oplopend</string>
+	<string name="filter_sort_sort_title_desc">Titel - aflopend</string>
+	<string name="filter_sort_sort_achievements_asc">Prestaties - oplopend</string>
+	<string name="filter_sort_sort_achievements_desc">Prestaties - aflopend</string>
+	<string name="filter_sort_filter_status_all">Alle spellen</string>
+	<string name="filter_sort_filter_status_games_own">Spellen bezitten</string>
+	<string name="filter_sort_filter_status_games_left">Spelletjes links</string>
+	<string name="filter_sort_filter_status_games_finished">Spelletjes afgewerkte</string>
+	<string name="filter_sort_filter_status_games_completed">Spelletjes voltooid</string>
+	<string name="filter_sort_filter_status_games_not_finished">Games not finished</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">Alle</string>
+	<string name="filter_sort_filter_kinect_not_required">Niet vereist</string>
+	<string name="filter_sort_filter_kinect_used">Gebruikt in het spel</string>
+	<string name="filter_sort_filter_kinect_required">Verplicht</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Gaan naar</string>
+	<string name="goto_name">Titel</string>
+	<string name="goto_name_hint">[Titel]</string>
+	<string name="goto_year">Jaar</string>
+	<string name="goto_year_hint">[Jaar]</string>
+	<string name="goto_button_accept">Accepteren</string>
+	<string name="goto_nothing_found">Geen games gevonden</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Uw collectie is momenteel leeg, druk op het pictogram \"+\" op de bovenste balk om de catalogus bladeren en games toe te voegen</string>
+	<string name="catalog_empty_filters">Er zijn geen spellen die overeenkomen met de geselecteerde filters</string>
+	<string name="catalog_empty_catalog">Er zijn geen spellen voldoen aan de huidige filters</string>
+	<string name="catalog_icon">Pictogram</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Kinect vereist</string>
+	<string name="catalog_year">Jaar</string>
+	<string name="catalog_achievements">Prestaties</string>
+	<string name="catalog_status_not_own">Geen eigen</string>
+	<string name="catalog_status_own">Eigen</string>
+	<string name="catalog_status_finished">Afgewerkt</string>
+	<string name="catalog_status_completed">Voltooid</string>
+	<string name="catalog_retrieving_collection">Ophalen collectie, even geduld aub&#8230;</string>
+	<string name="catalog_retrieving_catalog">Het ophalen van de catalogus, even geduld aub&#8230;</string>
+	<string name="catalog_clear_collection">Weet u zeker dat u wilt uw collectie te wissen? Dit zal al je games te verwijderen.</string>
+	<string name="catalog_collection_clean">Collectie verwijderd</string>
+	<string name="catalog_games_recovered">X spellen hersteld</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">Cover</string>
+	<string name="detail_release">Releasedatum</string>
+	<string name="detail_genre">Genre</string>
+	<string name="detail_developer">Ontwikkelaar</string>
+	<string name="detail_status">Toestand</string>
+	<string name="detail_achievements">Prestaties</string>
+	<string name="detail_multiplayer">Multiplayer</string>
+	<string name="detail_multiplayer_online">Online:</string>
+	<string name="detail_multiplayer_coop">Co-op:</string>
+	<string name="detail_multiplayer_split_screen">Lokaal:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC\'s</string>
+	<string name="detail_synopsis">Synopsis</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Optionele functies</string>
+	<string name="detail_kinect_required">Nodig is om te spelen</string>
+	<string name="detail_original_game">Originele spel</string>
+	<string name="detail_total_achievements">Aantal mijlpalen</string>
+	<string name="detail_no_dlc">Geen DLC\'s beschikbaar</string>
+	<string name="detail_links">Links</string>
+	<string name="detail_no_links">Geen links beschikbaar</string>
+	<string name="detail_notes">Aantekeningen</string>
+	<string name="detail_notes_hint">[Plaats uw notities hier]</string>
+	<string name="detail_read_more">Raak aan om meer te lezen.</string>
+	<string name="detail_add_game">\"X\" toegevoegd aan de collectie</string>
+	<string name="detail_remove_game">\"X\" verwijderd uit de collectie</string>
+	<string name="detail_remove_game_confirmation">Weet u zeker dat u de geselecteerde spelletje uit uw collectie verwijderen?</string>
+	<string name="detail_edit_game">\"X\" bijgewerkt</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">Overzicht</string>
+	<string name="summary_own_games">Eigen games</string>
+	<string name="summary_finished_games">Afgewerkt spelletjes</string>
+	<string name="summary_completed_games">Voltooide spelletjes</string>
+	<string name="summary_unlocked_achievements">Verworvenheden</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">Instellingen</string>
+	<string name="options_summary">Overzicht</string>
+	<string name="options_sound_on">Enable geluid</string>
+	<string name="options_sound_off">Uitschakelen geluid</string>
+	<string name="options_add_game">Bladeren catalogus</string>
+	<string name="options_save_changes">Wijzigingen op te slaan</string>
+	<string name="options_photo">Fotogalerij</string>
+	<string name="options_add">Toevoegen</string>
+	<string name="options_clear">Duidelijk collectie</string>
+	<string name="options_remove_game">Verwijder spel</string>
+	<string name="options_edit">Uitgeven</string>
+	<string name="options_filter_sort">Filter/Sorteer</string>
+	<string name="options_goto">Gaan naar</string>
+	<string name="options_more_options">Meer opties</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Prestaties</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">Alle</string>
+	<string name="genre_action">Actie</string>
+	<string name="genre_adventure">Avontuur</string>
+	<string name="genre_action_adventure">Actie-avontuur</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">RPG</string>
+	<string name="genre_jrpg">Japanse RPG</string>
+	<string name="genre_rts">Real-time strategie</string>
+	<string name="genre_tbs">Turn-based strategie</string>	
+	<string name="genre_racing">Racing</string>
+	<string name="genre_sports">Sport</string>	
+	<string name="genre_survival">Survival</string>	
+	<string name="genre_fighting">Vechten</string>	
+	<string name="genre_open_world">Open Wereld</string>	
+	<string name="genre_stealth">Heimelijkheid</string>	
+	<string name="genre_platformer">Platformer</string>	
+	<string name="genre_hs">Hack &amp; Slash</string>	
+	<string name="genre_arpg">Actie RPG</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Puzzel</string>	
+	<string name="genre_tower_defense">Tower Defense</string>	
+	<string name="genre_musical">Music &amp; Rhythm</string>	
+	<string name="genre_cfs">Combat Flight/Marine Simulator</string>	
+	<string name="genre_sim">Simulator/Beheer</string>	
+	<string name="genre_hunting_fishing">Hunting &amp; Fishing</string>	
+	<string name="genre_party">Party &amp; Trivia</string>	
+	<string name="genre_poker">Poker</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Kaarten/Bordspel</string>
+	<string name="genre_visual_novel">Visual Novel/Uitgaan Simulator</string>
+	<string name="genre_pinball">Pinball</string>
+	<string name="genre_trpg">Tactische RPG</string>
+	<string name="genre_fitness">Fitness</string>
+	<string name="genre_mmorpg">Massive Multiplayer RPG</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_mp_add_on">Multiplayer Add-On</string>
+	<string name="dlc_type_equipment">Apparatuur/Kleding</string>
+	<string name="dlc_type_car_pack">Auto/Track Pack</string>
+	<string name="dlc_type_minor_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Single-Player Add-On (Afzonderlijk verkrijgbaar)</string>
+	<string name="dlc_type_mp_add_on_separately">Multiplayer Add-On (Afzonderlijk verkrijgbaar)</string>
+	<string name="dlc_type_other">Ander</string>
+	<string name="dlc_type_sp_mp_add_on">Single/Multiplayer Add-On</string>
+	<string name="dlc_type_track_pack">Track Pack</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">Releasedatum:</string>
+	<string name="dlc_downloaded">Gedownload:</string>
+	<string name="dlc_achievements">Prestaties:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">Verzameling Invoer</string>
+	<string name="file_selector_import">Invoer</string>
+	<string name="file_selector_export_title">Verzameling Uitvoer</string>
+	<string name="file_selector_export">Uitvoer</string>
+	<string name="file_selector_path">Pad:</string>
+	<string name="file_selector_exported">Collectie met succes geëxporteerd</string>
+	<string name="file_selector_imported">Inzameling succesvol geïmporteerd</string>
+	<string name="file_selector_error_importing">Het geselecteerde bestand kan niet worden geïmporteerd</string>
+	<string name="file_selector_import_confirmation">Weet u zeker dat u de geselecteerde verzameling importeren? Dit zal al uw huidige games te verwijderen.</string>
+	<string name="file_selector_image_selection_title">Afbeelding Selectie</string>
+	<string name="file_selector_image_selection">Kiezen</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">Foto</string>
+	<string name="photo_gallery_take_photo">Nemen foto met camera</string>
+	<string name="photo_gallery_select_photo">Kies een foto uit het geheugen</string>
+	<string name="photo_gallery_rotating">Roterende foto, even geduld&#8230;</string>
+	<string name="photo_gallery_delete_photo">Weet u zeker dat u de huidige foto wilt verwijderen?</string>
+	<string name="photo_gallery_photo_deleted">Foto verwijderd</string>
+	<string name="photo_gallery_edit_title">Titel van de foto</string>
+	<string name="photo_gallery_game">Spel</string>
+	<string name="photo_gallery_no_photos">Geen foto\'s op het huidige spel</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Downloaden spel covers</string>
+    <string name="expansion_paused_device">Wilt u het downloaden via het apparaat verbindingen mogelijk te maken? Afhankelijk van uw data-abonnement, kan dit u geld kosten.</string>
+    <string name="expansion_paused_device_2">Als u ervoor kiest niet het downloaden van meer dan apparaat aansluitingen op staat, zal de download automatisch hervat worden wanneer Wi-Fi is beschikbaar.</string>
+    <string name="expansion_button_resume_device">Downloaden Hervatten</string>
+    <string name="expansion_button_wifi_settings">Wi-Fi-instellingen</string>
+    <string name="expansion_verifying_download">Verifiëren van downloaden</string>
+    <string name="expansion_validation_complete">XAPK bestand validatie voltooid. Selecteer OK om af te sluiten.</string>
+    <string name="expansion_validation_failed">XAPK bestand validatie mislukt.</string>
+    <string name="expansion_button_pause">Pauze te Downloaden</string>
+    <string name="expansion_button_resume">Downloaden Hervatten</string>
+    <string name="expansion_button_cancel_verify">Annuleren Verificatie</string>
+    
+</resources>

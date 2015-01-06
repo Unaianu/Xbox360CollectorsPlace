@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">Sim</string>
+	<string name="general_no">Não</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">Cancelar</string>
+	<string name="general_players">Jogadores</string>
+    <string name="general_players_short">jo.</string>
+    <string name="general_error">Ocorreu um erro ao executar a ação selecionada</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">Coleção</string>
+	<string name="title_arcade_collection_icon">Coleção arcade</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">Definições</string>
+	<string name="config_language">Língua</string>
+	<string name="config_translate_synopsis">Traduzir sinopse</string>
+	<string name="config_translate_synopsis_yes">Sim (usando o Google Translate)</string>
+	<string name="config_translate_synopsis_no">Não (Texto original Inglés)</string>
+	<string name="config_intro">Intro</string>
+	<string name="config_intro_classic">Clássico</string>
+	<string name="config_intro_new">Novo</string>
+	<string name="config_show_genre">Mostrar em coleção</string>
+	<string name="config_show_genre_year">Ano de lançamento</string>
+	<string name="config_show_genre_genre">Gênero</string>
+	<string name="config_button_save">Salvar</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">Filtros e Classificação</string>
+	<string name="filter_sort_sort_title">CLASSIFICAÇÃO</string>
+	<string name="filter_sort_sort">Ordenar por</string>
+	<string name="filter_sort_filter_title">FILTROS</string>
+	<string name="filter_sort_filter_name">Título</string>
+	<string name="filter_sort_filter_title_hint">[Inserir Título]</string>
+	<string name="filter_sort_filter_status">Estado</string>
+	<string name="filter_sort_filter_genre">Gênero</string>
+	<string name="filter_sort_filter_year">ano de lançamento</string>
+	<string name="filter_sort_filter_year_hint">[Inserir Ano]</string>
+	<string name="filter_sort_filter_online">Jogadores Online</string>
+	<string name="filter_sort_filter_coop">Jogadores Co-op</string>
+	<string name="filter_sort_filter_split_screen">Jogadores Locais</string>
+	<string name="filter_sort_filter_system_link">Jogadores System Link</string>
+	<string name="filter_sort_filter_multiplayer_hint">[Inserir número mínimo de jogadores]</string>
+	<string name="filter_sort_button_accept">Aceitar</string>
+	<string name="filter_sort_button_clear">Limpar</string>
+	<string name="filter_sort_sort_year_asc">Ano - Crescente</string>
+	<string name="filter_sort_sort_year_desc">Ano - Descendente</string>
+	<string name="filter_sort_sort_title_asc">Título - Crescente</string>
+	<string name="filter_sort_sort_title_desc">Título - Descendente</string>
+	<string name="filter_sort_sort_achievements_asc">Realizações desbloqueado - Crescente</string>
+	<string name="filter_sort_sort_achievements_desc">Realizações desbloqueado - Descendente</string>
+	<string name="filter_sort_filter_status_all">Todos os jogos</string>
+	<string name="filter_sort_filter_status_games_own">Jogos possui</string>
+	<string name="filter_sort_filter_status_games_left">Jogos para compras</string>
+	<string name="filter_sort_filter_status_games_finished">Jogos terminados</string>
+	<string name="filter_sort_filter_status_games_completed">Jogos concluída</string>
+	<string name="filter_sort_filter_status_games_not_finished">Jogos não acabados</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">Tudo</string>
+	<string name="filter_sort_filter_kinect_not_required">Não é necessário</string>
+	<string name="filter_sort_filter_kinect_used">Usado no jogo</string>
+	<string name="filter_sort_filter_kinect_required">Necessário</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">Ir a</string>
+	<string name="goto_name">Título</string>
+	<string name="goto_name_hint">[Inserir Título]</string>
+	<string name="goto_year">Ano de lançamento</string>
+	<string name="goto_year_hint">[Inserir ano]</string>
+	<string name="goto_button_accept">Aceitar</string>
+	<string name="goto_nothing_found">Nenhum jogo encontrado</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">Sua coleção está vazio, pressione o ícone \"+\" na barra superior para navegar pelo catálogo e adicionar jogos</string>
+	<string name="catalog_empty_filters">Não há jogos combinando os filtros selecionados</string>
+	<string name="catalog_empty_catalog">Não existem jogos reunidos filtros atuais</string>
+	<string name="catalog_icon">Ícone</string>
+	<string name="catalog_gamerscore">Gamerscore</string>
+	<string name="catalog_kinect_icon">Kinect necessário</string>
+	<string name="catalog_year">Ano</string>
+	<string name="catalog_achievements">Realizações</string>
+	<string name="catalog_status_not_own">Não possui</string>
+	<string name="catalog_status_own">Possui</string>
+	<string name="catalog_status_finished">Terminado</string>
+	<string name="catalog_status_completed">Concluído</string>
+	<string name="catalog_retrieving_collection">Recuperando coleção, por favor aguarde&#8230;</string>
+	<string name="catalog_retrieving_catalog">Recuperando catálogo, por favor aguarde&#8230;</string>
+	<string name="catalog_clear_collection">Tem certeza que você \'quer limpar sua coleção? Isto irá remover todos os seus jogos.</string>
+	<string name="catalog_collection_clean">Coleção removido</string>
+	<string name="catalog_games_recovered">X jogos recuperado</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">Cobertura</string>
+	<string name="detail_release">Data de lançamento</string>
+	<string name="detail_genre">Gênero</string>
+	<string name="detail_developer">Revelador</string>
+	<string name="detail_status">Estado</string>
+	<string name="detail_achievements">Realizações</string>
+	<string name="detail_multiplayer">Multiplayer</string>
+	<string name="detail_multiplayer_online">Online:</string>
+	<string name="detail_multiplayer_coop">Co-op:</string>
+	<string name="detail_multiplayer_split_screen">Local:</string>
+	<string name="detail_multiplayer_system_link">System Link:</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC\'s</string>
+	<string name="detail_synopsis">Sinopse</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">Os recursos opcionais</string>
+	<string name="detail_kinect_required">Necessário para jogar</string>
+	<string name="detail_original_game">Jogo original</string>
+	<string name="detail_total_achievements">Total de realizações</string>
+	<string name="detail_no_dlc">Ninguém está disponível DLC</string>
+	<string name="detail_links">Links</string>
+	<string name="detail_no_links">Não há links disponíveis</string>
+	<string name="detail_notes">Notas</string>
+	<string name="detail_notes_hint">[Insira as suas notas aqui]</string>
+	<string name="detail_read_more">Toque para ler mais.</string>
+	<string name="detail_add_game">\"X\" adicionados à colecção</string>
+	<string name="detail_remove_game">\"X\" removido da colecção</string>
+	<string name="detail_remove_game_confirmation">Tem certeza que você deseja remover o jogo selecionado de sua coleção?</string>
+	<string name="detail_edit_game">\"X\" atualizado</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">Resumo</string>
+	<string name="summary_own_games">Jogos próprios</string>
+	<string name="summary_finished_games">Jogos terminados</string>
+	<string name="summary_completed_games">Jogos Concluídos</string>
+	<string name="summary_unlocked_achievements">Realizações desbloqueadas</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">Definições</string>
+	<string name="options_summary">Resumo</string>
+	<string name="options_sound_on">Ativar som</string>
+	<string name="options_sound_off">Som disable</string>
+	<string name="options_add_game">Ver Catálogo</string>
+	<string name="options_save_changes">Salvar alterações</string>
+	<string name="options_photo">Galeria de Fotos</string>
+	<string name="options_add">Adicionar</string>
+	<string name="options_clear">Limpar coleção</string>
+	<string name="options_remove_game">Remover jogo</string>
+	<string name="options_edit">Editar</string>
+	<string name="options_filter_sort">Filtro/Sort</string>
+	<string name="options_goto">Ir a</string>
+	<string name="options_more_options">Mais opções</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">Realizações</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">Tudo</string>
+	<string name="genre_action">Ação</string>
+	<string name="genre_adventure">Aventura</string>
+	<string name="genre_action_adventure">Ação e aventura</string>
+	<string name="genre_fps">FPS</string>
+	<string name="genre_tps">TPS</string>
+	<string name="genre_rpg">RPG</string>
+	<string name="genre_jrpg">RPG japonês</string>
+	<string name="genre_rts">Estratégia em tempo real</string>
+	<string name="genre_tbs">Estratégia em turnos</string>	
+	<string name="genre_racing">Corrida</string>
+	<string name="genre_sports">Esportes</string>	
+	<string name="genre_survival">Sobrevivência</string>	
+	<string name="genre_fighting">Combate</string>	
+	<string name="genre_open_world">Mundo Aberto</string>	
+	<string name="genre_stealth">Discrição</string>	
+	<string name="genre_platformer">Platformer</string>	
+	<string name="genre_hs">Hack &amp; Slash</string>	
+	<string name="genre_arpg">Ação RPG</string>	
+	<string name="genre_btu">Beat\&apos;em Up</string>	
+	<string name="genre_stu">Shoot\&apos;em Up</string>	
+	<string name="genre_puzzle">Enigma</string>	
+	<string name="genre_tower_defense">Tower Defense</string>	
+	<string name="genre_musical">Música e Ritmo</string>	
+	<string name="genre_cfs">Voo Combate/simulador navalr</string>	
+	<string name="genre_sim">Simulator/Gestão</string>	
+	<string name="genre_hunting_fishing">Caça &amp; Pesca</string>	
+	<string name="genre_party">Party &amp; Trivia</string>	
+	<string name="genre_poker">Poker</string>	
+	<string name="genre_musou">Musou</string>	
+	<string name="genre_cards_board">Cartas/jogo de tabuleiro</string>
+	<string name="genre_visual_novel">Visual Novel/Dating Simulator</string>
+	<string name="genre_pinball">Pinball</string>
+	<string name="genre_trpg">Tactical RPG</string>
+	<string name="genre_fitness">Fitness</string>
+	<string name="genre_mmorpg">Massive Multiplayer RPG</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_mp_add_on">Multiplayer Add-On</string>
+	<string name="dlc_type_equipment">Equipamento/Roupas</string>
+	<string name="dlc_type_car_pack">Carro/Track Pack</string>
+	<string name="dlc_type_minor_sp_add_on">Single-Player Add-On</string>
+	<string name="dlc_type_sp_add_on_separately">Single-Player Add-On (Vendido separadamente)</string>
+	<string name="dlc_type_mp_add_on_separately">Multiplayer Add-On (Vendido separadamente)</string>
+	<string name="dlc_type_other">Outro</string>
+	<string name="dlc_type_sp_mp_add_on">Single/Multiplayer Add-On</string>
+	<string name="dlc_type_track_pack">Track Pack</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">Data de lançamento:</string>
+	<string name="dlc_downloaded">Transferido:</string>
+	<string name="dlc_achievements">Realizações:</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">Import Coleção</string>
+	<string name="file_selector_import">Importação</string>
+	<string name="file_selector_export_title">Export Coleção</string>
+	<string name="file_selector_export">Exportação</string>
+	<string name="file_selector_path">Rota:</string>
+	<string name="file_selector_exported">Coleção exportado com sucesso</string>
+	<string name="file_selector_imported">Coleção importado com sucesso</string>
+	<string name="file_selector_error_importing">O arquivo selecionado não pode ser importado</string>
+	<string name="file_selector_import_confirmation">Tem certeza que você deseja importar a coleção selecionada? Isto irá remover todos os seus jogos atuais.</string>
+	<string name="file_selector_image_selection_title">Seleção de Imagem</string>
+	<string name="file_selector_image_selection">Selecionar</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">Foto</string>
+	<string name="photo_gallery_take_photo">Tirar foto com a câmera</string>
+	<string name="photo_gallery_select_photo">Selecione a foto a partir da memória</string>
+	<string name="photo_gallery_rotating">Girando foto, por favor aguarde&#8230;</string>
+	<string name="photo_gallery_delete_photo">Tem a certeza que pretende apagar a foto atual?</string>
+	<string name="photo_gallery_photo_deleted">Foto removida</string>
+	<string name="photo_gallery_edit_title">Título da foto</string>
+	<string name="photo_gallery_game">Jogo</string>
+	<string name="photo_gallery_no_photos">Não há fotos sobre o jogo atual</string>
+	
+	<!-- EXPANSION -->
+	<string name="expansion_title">Baixando covers de jogo</string>
+    <string name="expansion_paused_device">Gostaria de permitir o download através de conexões de dispositivos? Dependendo do seu plano de dados, isso pode custar-lhe dinheiro.</string>
+    <string name="expansion_paused_device_2">Se você optar por não permitir o download através de conexões do dispositivo, o download será retomada automaticamente quando wi-fi está disponível.</string>
+    <string name="expansion_button_resume_device">Continuar Baixado</string>
+    <string name="expansion_button_wifi_settings">Configurações de Wi-Fi</string>
+    <string name="expansion_verifying_download">Verificando Baixado</string>
+    <string name="expansion_validation_complete">Validação do arquivo XAPK completa. Selecione OK para sair.</string>
+    <string name="expansion_validation_failed">Validação do arquivo XAPK falhou</string>
+    <string name="expansion_button_pause">Pausar Baixado</string>
+    <string name="expansion_button_resume">Continuar Baixado</string>
+    <string name="expansion_button_cancel_verify">Cancelar Verificação</string>
+	
+</resources>

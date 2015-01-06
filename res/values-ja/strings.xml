@@ -1,0 +1,249 @@
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Xbox 360 Collector\'s</string>
+    <string name="title_activity_main">Xbox 360 Collector\'s</string>
+		
+    <string name="general_yes">はい</string>
+	<string name="general_no">ノー</string>
+	<string name="general_ok">OK</string>
+	<string name="general_cancel">キャンセル</string>
+	<string name="general_players"></string>
+    <string name="general_players_short">pl.</string>
+    <string name="general_error">選択したアクションの実行中にエラーが発生しました</string>
+    <string name="general_arcade">Arcade</string>
+    <string name="general_retail">Retail</string>
+    
+	<!-- TITLE -->
+	<string name="title_collection_icon">コレクション</string>
+	<string name="title_arcade_collection_icon">アーケードコレクション</string>
+	
+	<!-- CONFIG -->
+	<string name="config_title">設定</string>
+	<string name="config_language">言語</string>
+	<string name="config_translate_synopsis">あらすじを翻訳</string>
+	<string name="config_translate_synopsis_yes">はい（Google翻訳を使用して）</string>
+	<string name="config_translate_synopsis_no">いいえ（オリジナルの英語テキストなし）</string>
+	<string name="config_intro">イントロ</string>
+	<string name="config_intro_classic">クラシック</string>
+	<string name="config_intro_new">新しい</string>
+	<string name="config_show_genre">コレクション内のショー</string>
+	<string name="config_show_genre_year">リリース年</string>
+	<string name="config_show_genre_genre">ジャンル</string>
+	<string name="config_button_save">保存</string>
+		
+	<!-- FILTER/SORT -->
+	<string name="filter_sort_title">フィルタとソート</string>
+	<string name="filter_sort_sort_title">仕分け</string>
+	<string name="filter_sort_sort">並び替え</string>
+	<string name="filter_sort_filter_title">フィルタ</string>
+	<string name="filter_sort_filter_name">タイトル</string>
+	<string name="filter_sort_filter_title_hint">[挿入タイトル]</string>
+	<string name="filter_sort_filter_status">ステータス</string>
+	<string name="filter_sort_filter_genre">ジャンル</string>
+	<string name="filter_sort_filter_year">発売年</string>
+	<string name="filter_sort_filter_year_hint">[挿入年]</string>
+	<string name="filter_sort_filter_online">オンラインプレイヤー</string>
+	<string name="filter_sort_filter_coop">コーププレーヤー</string>
+	<string name="filter_sort_filter_split_screen">ローカルプレーヤー</string>
+	<string name="filter_sort_filter_system_link">システムリンクプレーヤー</string>
+	<string name="filter_sort_filter_multiplayer_hint">[プレーヤーの挿入最小数]</string>
+	<string name="filter_sort_button_accept">受け入れる</string>
+	<string name="filter_sort_button_clear">クリア</string>
+	<string name="filter_sort_sort_year_asc">年 - 昇順</string>
+	<string name="filter_sort_sort_year_desc">年 - 降順</string>
+	<string name="filter_sort_sort_title_asc">タイトル - 昇順</string>
+	<string name="filter_sort_sort_title_desc">タイトル - 降順</string>
+	<string name="filter_sort_sort_achievements_asc">ロック解除実績 - 昇順</string>
+	<string name="filter_sort_sort_achievements_desc">ロック解除実績 - 降順</string>
+	<string name="filter_sort_filter_status_all">すべてのゲーム</string>
+	<string name="filter_sort_filter_status_games_own">ゲームを所有</string>
+	<string name="filter_sort_filter_status_games_left">ゲーム左</string>
+	<string name="filter_sort_filter_status_games_finished">完成したゲーム</string>
+	<string name="filter_sort_filter_status_games_completed">ゲーム完成</string>
+	<string name="filter_sort_filter_status_games_not_finished">終了していないゲーム</string>
+	<string name="filter_sort_filter_kinect">Kinect</string>
+	<string name="filter_sort_filter_kinect_all">すべて</string>
+	<string name="filter_sort_filter_kinect_not_required">必須ではありません</string>
+	<string name="filter_sort_filter_kinect_used">ゲームで使用</string>
+	<string name="filter_sort_filter_kinect_required">必須</string>
+	
+	<!-- GOTO -->
+	<string name="goto_title">に行く</string>
+	<string name="goto_name">タイトル</string>
+	<string name="goto_name_hint">[挿入のタイトル]</string>
+	<string name="goto_year">発売年</string>
+	<string name="goto_year_hint">[挿入年]</string>
+	<string name="goto_button_accept">受け入れる</string>
+	<string name="goto_nothing_found">いいえゲームが見つかりませんでした</string>
+	
+	<!-- COLLECTION -->
+	<string name="catalog_empty_collection">あなたのコレクションは現在、空で、カタログを参照してゲームを追加するには一番上のバーに\"+\"アイコンを押してください</string>
+	<string name="catalog_empty_filters">選択したフィルタに一致するゲームはありません</string>
+	<string name="catalog_empty_catalog">現在のフィルターを満たすませゲームはありません</string>
+	<string name="catalog_icon">アイコン</string>
+	<string name="catalog_gamerscore">ゲーマースコア</string>
+	<string name="catalog_kinect_icon">Kinect の必要な</string>
+	<string name="catalog_year">年</string>
+	<string name="catalog_achievements">実績</string>
+	<string name="catalog_status_not_own">所有してい</string>
+	<string name="catalog_status_own">自分の</string>
+	<string name="catalog_status_finished">完成</string>
+	<string name="catalog_status_completed">完成した</string>
+	<string name="catalog_retrieving_collection">コレクションを取得すると、お待ちください&#8230;</string>
+	<string name="catalog_retrieving_catalog">カタログの取得、お待ちください&#8230;</string>
+	<string name="catalog_clear_collection">あなたはあなたのコレクションをクリアしますか？これは、すべてのあなたのゲームを削除します。</string>
+	<string name="catalog_collection_clean">コレクションは削除</string>
+	<string name="catalog_games_recovered">Xゲームが回復</string>
+	
+	<!-- DETAIL -->
+	<string name="detail_cover">カバー</string>
+	<string name="detail_release">発売日</string>
+	<string name="detail_genre">ジャンル</string>
+	<string name="detail_developer">ディベロッパー</string>
+	<string name="detail_status">ステータス</string>
+	<string name="detail_achievements">実績</string>
+	<string name="detail_multiplayer">マルチプレイ</string>
+	<string name="detail_multiplayer_online">オンライン：</string>
+	<string name="detail_multiplayer_coop">コープ：</string>
+	<string name="detail_multiplayer_split_screen">ローカル：</string>
+	<string name="detail_multiplayer_system_link">システムリンク：</string>
+	<string name="detail_multiplayer_mmo">MMO</string>
+	<string name="detail_dlcs">DLC</string>
+	<string name="detail_synopsis">概要</string>
+	<string name="detail_kinect">Kinect</string>
+	<string name="detail_kinect_optional_features">オプション機能</string>
+	<string name="detail_kinect_required">再生するために必要</string>
+	<string name="detail_original_game">オリジナルゲーム</string>
+	<string name="detail_total_achievements">トータルの成果</string>
+	<string name="detail_no_dlc">いいえDLCないの利用可能</string>
+	<string name="detail_links">リンクス</string>
+	<string name="detail_no_links">利用できませんリンク</string>
+	<string name="detail_notes">注釈</string>
+	<string name="detail_notes_hint">[ここにあなたのノートを挿入]</string>
+	<string name="detail_read_more">続きを読むにタッチします。</string>
+	<string name="detail_add_game">\"X\" コレクションに追加</string>
+	<string name="detail_remove_game">\"X\" コレクションから削除</string>
+	<string name="detail_remove_game_confirmation">あなたは、あなたのコレクションから選択されたゲームを削除しますか？</string>
+	<string name="detail_edit_game">\"X\" 更新した</string>
+			
+	<!-- SUMMARY -->
+	<string name="summary_title">要約</string>
+	<string name="summary_own_games">自分のゲーム</string>
+	<string name="summary_finished_games">終了ゲーム</string>
+	<string name="summary_completed_games">完成したゲーム</string>
+	<string name="summary_unlocked_achievements">ロック解除の成果</string>
+	
+	<!-- OPTIONS -->
+	<string name="options_config">設定</string>
+	<string name="options_summary">要約</string>
+	<string name="options_sound_on">音を有効にする</string>
+	<string name="options_sound_off">無効にする音</string>
+	<string name="options_add_game">[参照]カタログ</string>
+	<string name="options_save_changes">変更を保存します</string>
+	<string name="options_photo">フォトギャラリー</string>
+	<string name="options_add">加える</string>
+	<string name="options_clear">クリアコレクション</string>
+	<string name="options_remove_game">ゲームを削除</string>
+	<string name="options_edit">編集</string>
+	<string name="options_filter_sort">フィルタ/並べ替え</string>
+	<string name="options_goto">に行く</string>
+	<string name="options_more_options">その他のオプション</string>
+	
+	<!-- EDIT ACHIEVEMENTS -->
+	<string name="achievements_title">実績</string>
+	
+	<!-- GENRE -->
+	<string name="genre_none">-</string>
+	<string name="genre_all">すべて</string>
+	<string name="genre_action">アクション</string>
+	<string name="genre_adventure">冒険</string>
+	<string name="genre_action_adventure">アクションアドベンチャー</string>
+	<string name="genre_fps">最初の人のシューティングゲーム</string>
+	<string name="genre_tps">第三の人のシューティングゲーム</string>
+	<string name="genre_rpg">ロールプレイングゲーム</string>
+	<string name="genre_jrpg">日本のロールプレイングゲーム</string>
+	<string name="genre_rts">リアルタイムストラテジー</string>
+	<string name="genre_tbs">ターン制戦略</string>	
+	<string name="genre_racing">レーシング</string>
+	<string name="genre_sports">スポーツの</string>	
+	<string name="genre_survival">生存</string>	
+	<string name="genre_fighting">戦闘</string>	
+	<string name="genre_open_world">オープンワールド</string>	
+	<string name="genre_stealth">ステルス</string>	
+	<string name="genre_platformer">プラット</string>	
+	<string name="genre_hs">ハック＆スラッシュ</string>	
+	<string name="genre_arpg">アクションロールプレイングゲーム</string>	
+	<string name="genre_btu">ベルトスクロールアクションゲーム</string>	
+	<string name="genre_stu">シューティング·ゲーム</string>	
+	<string name="genre_puzzle">パズル</string>	
+	<string name="genre_tower_defense">タワーの防衛</string>	
+	<string name="genre_musical">音楽＆リズム</string>	
+	<string name="genre_cfs">戦闘飛行/海軍シミュレーター</string>	
+	<string name="genre_sim">シミュレータ/管理</string>	
+	<string name="genre_hunting_fishing">狩猟＆釣り</string>	
+	<string name="genre_party">パーティー＆トリビア</string>	
+	<string name="genre_poker">ポーカー</string>	
+	<string name="genre_musou">無双</string>	
+	<string name="genre_cards_board">カード/ボードゲーム</string>
+	<string name="genre_visual_novel">ビジュアルノベル/デートシミュレータ</string>
+	<string name="genre_pinball">ピンボール</string>
+	<string name="genre_trpg">タクティカルロールプレイングゲーム</string>
+	<string name="genre_fitness">フィットネス</string>
+	<string name="genre_mmorpg">大規模なマルチロールプレイングゲーム</string>
+	
+	<!-- DLC TYPE -->
+	<string name="dlc_type_sp_add_on">シングルプレイヤーアドオン</string>
+	<string name="dlc_type_mp_add_on">アドオンマルチプレイ</string>
+	<string name="dlc_type_equipment">機器/衣料</string>
+	<string name="dlc_type_car_pack">カー/トラックパック</string>
+	<string name="dlc_type_minor_sp_add_on">シングルプレイヤーアドオン</string>
+	<string name="dlc_type_sp_add_on_separately">シングルプレイヤーアドオン（別売）</string>
+	<string name="dlc_type_mp_add_on_separately">アドオンマルチプレイ（別売）</string>
+	<string name="dlc_type_other">その他</string>
+	<string name="dlc_type_sp_mp_add_on">シングル/マルチプレイアドオン</string>
+	<string name="dlc_type_track_pack">トラックパック</string>
+	
+	<!-- DLC -->
+	<string name="dlc_release_date">発売日：</string>
+	<string name="dlc_downloaded">ダウンロード：</string>
+	<string name="dlc_achievements">実績：</string>
+	
+	<!-- FILE SELECTOR -->
+	<string name="file_selector_import_title">インポートコレクション</string>
+	<string name="file_selector_import">輸入</string>
+	<string name="file_selector_export_title">エクスポートコレクション</string>
+	<string name="file_selector_export">輸出</string>
+	<string name="file_selector_path">パス:</string>
+	<string name="file_selector_exported">コレクションは正常にエクスポート</string>
+	<string name="file_selector_imported">コレクションは正常にインポート</string>
+	<string name="file_selector_error_importing">選択したファイルをインポートすることができません</string>
+	<string name="file_selector_import_confirmation">あなたが選択したコレクションをインポートしますか？これは、すべてのあなたの現在のゲームを削除します。</string>
+	<string name="file_selector_image_selection_title">画像選択</string>
+	<string name="file_selector_image_selection">選択する</string>
+	
+	<!-- PHOTO GALLERY -->
+	<string name="photo_gallery_photo">フォト</string>
+	<string name="photo_gallery_take_photo">カメラで写真を撮る</string>
+	<string name="photo_gallery_select_photo">メモリからの選択写真</string>
+	<string name="photo_gallery_rotating">回転する写真、お待ちください&#8230;</string>
+	<string name="photo_gallery_delete_photo">あなたは現在の写真を削除しますか？</string>
+	<string name="photo_gallery_photo_deleted">写真削除</string>
+	<string name="photo_gallery_edit_title">写真のタイトル</string>
+	<string name="photo_gallery_game">ゲーム</string>
+	<string name="photo_gallery_no_photos">現在のゲーム上の写真無し</string>
+	
+		<!-- EXPANSION -->
+	<string name="expansion_title">ゲームのカバーをダウンロード</string>
+    <string name="expansion_paused_device">あなたは、デバイスの接続を介してダウンロードを有効にしますか？あなたのデータプランに応じて、これはあなたにお金がかかることがあります。</string>
+    <string name="expansion_paused_device_2">あなたは、デバイスの接続を上にダウンロードを有効にしない場合のWi-Fiが利用可能であるとき、自動的にダウンロードが再開されます。</string>
+    <string name="expansion_button_resume_device">履歴書のダウンロード</string>
+    <string name="expansion_button_wifi_settings">のWi-Fi設定</string>
+    <string name="expansion_verifying_download">確認ダウンロード</string>
+    <string name="expansion_validation_complete">XAPKファイルの検証が完了しました。終了し[OK]を選択します。</string>
+    <string name="expansion_validation_failed">XAPKファイル検証に失敗しました。</string>
+    <string name="expansion_button_pause">一時停止のダウンロード</string>
+    <string name="expansion_button_resume">履歴書のダウンロード</string>
+    <string name="expansion_button_cancel_verify">検証をキャンセル</string>
+    
+</resources>

@@ -1,0 +1,33 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="50dp"
+    android:layout_marginBottom="50dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:orientation="vertical"
+    android:background="@drawable/background_popup">
+    
+    <TextView
+        style="@style/TxtWindowsStyleLarge"
+	    android:text="@string/detail_synopsis"/>
+    
+    <ScrollView
+        android:layout_width="fill_parent"
+   	 	android:layout_height="wrap_content"
+   	 	android:layout_marginTop="10dp"
+   	 	android:layout_marginLeft="10dp"
+   	 	android:layout_marginBottom="10dp"
+   	 	android:layout_marginRight="10dp">
+	        
+	    <com.xboxcollectorsplace.utils.JustifiedTextView
+		    android:id="@+id/txtSynopsis"
+		    android:layout_width="fill_parent"
+	   	 	android:layout_height="wrap_content"
+	   	 	android:padding="2dp"/>
+
+    </ScrollView>
+     
+</LinearLayout>

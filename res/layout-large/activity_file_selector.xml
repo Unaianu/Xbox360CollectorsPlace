@@ -1,0 +1,71 @@
+<RelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dip"
+  	android:layout_height="600dip"
+  	android:layout_gravity="center"
+    android:background="@drawable/background_popup">
+  	    
+    <TextView
+    	android:id="@+id/txtFileSelectorTitle"
+        style="@style/TxtWindowsStyleLarge"/>
+     
+    <LinearLayout
+        android:id="@+id/lytPath"
+        android:layout_below="@+id/txtFileSelectorTitle"
+        android:layout_height="wrap_content"
+      	android:layout_width="fill_parent"
+      	android:paddingBottom="10dp"
+      	android:paddingTop="10dp"
+      	android:orientation="horizontal">
+         
+        <TextView 
+        	android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"
+       		android:text="@string/file_selector_path" />
+         
+      	<TextView 
+          	android:id="@+id/txtPath"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:paddingLeft="6dp" />
+     
+	</LinearLayout>
+     
+	<ListView 
+    	android:id="@+id/lstFiles"
+      	android:layout_height="fill_parent"
+      	android:layout_width="fill_parent"
+      	android:layout_below="@+id/lytPath"
+      	android:layout_above="@+id/lytButtons"
+     	android:layout_margin="5dp"
+      	android:scrollbarAlwaysDrawHorizontalTrack="true"
+      	android:scrollbars="vertical" 
+      	android:scrollingCache="false"
+      	android:divider="@color/grey"
+      	android:dividerHeight="1dip"/>
+
+  	<LinearLayout 
+        android:id="@+id/lytButtons"
+      	android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:layout_margin="10dp"
+   		android:orientation="horizontal"
+	    android:gravity="center">
+        
+	    <Button
+	        android:id="@+id/btnSelect"
+	        android:layout_width="100dp"
+	        android:layout_height="35dp"
+	        android:textSize="16sp"
+	        android:background="@drawable/button_background"/>
+    
+    </LinearLayout>
+  
+</RelativeLayout>

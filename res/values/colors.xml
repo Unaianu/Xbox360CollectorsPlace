@@ -1,0 +1,15 @@
+<resources>
+
+    <color name="forest_green">#FF228822</color>
+    <color name="lime_green">#FF32cd32</color>
+    <color name="red">#FFFF0000</color>
+    <color name="deep_sky_blue">#FF00BFFF</color>
+    <color name="dark_orange">#FFFF8C00</color>
+    <color name="semi_transparent">#B4000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#C0C0C0</color>
+    <color name="light_grey">#E2E3E2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    
+</resources>
